@@ -12,16 +12,40 @@
             cursor: pointer;
             transition: transform 0.3s ease, filter 0.3s ease, opacity 0.3s ease;
         }
+
         .row:hover .card {
             filter: blur(3px) brightness(0.6);
             opacity: 0.6;
             transform: scale(1);
         }
+
         .row .card:hover {
             filter: none;
             opacity: 1;
             transform: scale(1.03);
             z-index: 1;
+        }
+        
+        .btn-start {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #fff;
+            border: none;
+            border-radius: 50px;
+            padding: 15px 40px;
+            font-size: 1.1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            box-shadow: 0 8px 16px rgba(102, 126, 234, 0.3);
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .btn-start:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 12px 24px rgba(102, 126, 234, 0.4);
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #fff;
         }
     </style>
 
@@ -48,19 +72,33 @@
         </div>
     </nav>
     <div class="container py-5">
-        <div class="p-5 mb-4 bg-light rounded-3 shadow">
-            <div class="container-fluid py-5 text-center">
-                <h1 class="display-5 fw-bold">Selamat Datang di Beranda TOEFL</h1>
-                <p class="fs-5">Platform persiapan TOEFL-mu. Latihan soal, simulasi ujian, dan penilaian performa dalam
-                    satu tempat.</p>
+        <div class="p-5 mb-5 bg-light rounded-3 shadow text-center">
+            <!-- Ilustrasi bagian atas -->
+            <div class="row justify-content-center mb-4">
+                <!-- Laki-laki di kiri -->
+                <div class="col-md-4 d-flex justify-content-center">
+                    <img src="gambar/maskot.png" alt="Ilustrasi belajar" class="img-fluid" style="max-height: 350px;">
+                </div>
+                <!-- Globe di kanan -->
+                <div class="col-md-4 d-flex justify-content-center">
+                    <img src="gambar/globe.png" alt="Ilustrasi globe" class="img-fluid" style="max-height: 250px;">
+                </div>
             </div>
+
+            <!-- Teks dan tombol di bawah -->
+            <h1 class="display-5 fw-bold">Selamat Datang di Beranda TOEFL</h1>
+            <p class="fs-5">
+                Platform persiapan TOEFL-mu. Latihan soal, simulasi ujian, dan penilaian performa dalam satu tempat.
+            </p>
+            <a href="#toefl" class="btn btn-primary btn-lg mt-3 btn-start">Mulai Latihan</a>
         </div>
-        <div class="row g-4">
+
+        <div class="row g-4" id="toefl">
             <div class="col-md-6">
                 <div class="card h-100">
                     <div class="card-body">
                         <h5 class="card-title">Latihan Soal TOEFL</h5>
-                        <h6 class="card-subtitle mb-2 text-muted">Persiapkan dirimu sebelum ujian</h6>
+                        <h6 class="card-subtitle mb-4 text-muted">Persiapkan dirimu sebelum ujian</h6>
                         <p class="card-text">Latihan soal TOEFL dirancang untuk membantu kamu membiasakan diri dengan
                             format dan tipe soal yang akan diujikan. Tingkatkan pemahamanmu dalam Listening, Structure,
                             dan Reading sebelum menghadapi ujian sesungguhnya.</p>
@@ -68,12 +106,11 @@
                     </div>
                 </div>
             </div>
-
             <div class="col-md-6">
                 <div class="card h-100">
                     <div class="card-body">
                         <h5 class="card-title">Mulai Ujian TOEFL</h5>
-                        <h6 class="card-subtitle mb-2 text-muted">Ujian resmi berskala penuh</h6>
+                        <h6 class="card-subtitle mb-4 text-muted">Ujian resmi berskala penuh</h6>
                         <p class="card-text">Uji kemampuan bahasa Inggrismu dengan mengikuti simulasi TOEFL lengkap.
                             Dapatkan skor langsung dan evaluasi performa untuk mengetahui area yang perlu ditingkatkan.
                             Cocok bagi kamu yang ingin mengukur kesiapan sebelum mengikuti tes resmi.</p>
