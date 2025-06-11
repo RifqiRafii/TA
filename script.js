@@ -1,3 +1,9 @@
+function editProfile(){
+    $("#edit-profile").toggleClass('d-none', false)
+    $("#edit-button").toggleClass('d-none', true)
+}
+
+
 $(document).ready(function(){
     let today = new Date()
     let formattedDate = today.toLocaleDateString('id-ID', {
@@ -7,7 +13,9 @@ $(document).ready(function(){
         day: 'numeric'
     })
 
-    $('#date').text(formattedDate)
+    $('.date').text(formattedDate)
+    
+    $("#edit-button").toggleClass('d-none', false)
 
     $('#updateProfile').click(function(){
         if ((!($("#change-email").val()).includes("@")) || (($("#change-name").val()).trim() == "")) {
@@ -15,6 +23,8 @@ $(document).ready(function(){
         } else {
             $("#name").text($("#change-name").val())
             $("#email").text($("#change-email").val())
+            $("#edit-profile").toggleClass('d-none', true)
+            $("#edit-button").toggleClass('d-none', true)
         }      
     })
 })

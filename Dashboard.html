@@ -53,42 +53,14 @@
                     <div class="col-sm-1">:</div>
                     <div class="col" id="email">testemail@.gmail.com</div>
                 </div>
-                <div class="row rounded-bottom m-0 pb-3">
+                <div class="row m-0 pb-3">
                     <div class="col-md-3">Tanggal Pendaftaran</div>
                     <div class="col-sm-1">:</div>
-                    <div class="col" id="date">5 Juni 2025</div>
+                    <div class="col date" id="date">5 Juni 2025</div>
                 </div>
-            </div>
-        </div>
-        <div class="section row d-flex justify-content-evenly mt-5">
-            <div class="shadow col-md-10 rounded bg-white border">
-                <h2 class="p-2">Skor TOEFL</h2>
-                <div class="row m-0">
-                    <div class="col-md-3">Reading</div>
-                    <div class="col-sm-1">:</div>
-                    <div class="col">test</div>
-                </div>
-                <div class="row m-0">
-                    <div class="col-md-3">Listening</div>
-                    <div class="col-sm-1">:</div>
-                    <div class="col">test</div>
-                </div>
-                <div class="row m-0">
-                    <div class="col-md-3">Structure</div>
-                    <div class="col-sm-1">:</div>
-                    <div class="col">test</div>
-                </div>
-                <div class="row m-0 pb-3">
-                    <div class="col-md-3">Total Score</div>
-                    <div class="col-sm-1">:</div>
-                    <div class="col">test</div>
-                </div>
-            </div>
-        </div>
-        <div class="row d-flex justify-content-evenly mt-5">
-            <div class="shadow col-md-10 rounded bg-black bg-gradient p-4">
-                <h2 class="bg-warning bg-gradient m-0 p-1 rounded-top">Edit Profile</h2>
-                <div class="row bg-light pt-3 m-0 rounded-bottom">
+                <div class="row m-0 pb-3 d-none" id="edit-profile">
+                    <hr class="mt-3 mb-3">
+                    <h3>Edit Profile</h3>
                     <div class="col pb-4 ">
                         <form>
                             <div class="mb-3">
@@ -102,6 +74,38 @@
                             <button type="button" class="btn btn-primary" id="updateProfile">Update</button>
                         </form>
                     </div>
+                </div>
+                <div class="row m-0 pb-3">
+                    <div class="col">
+                        <button type="button" class="btn btn-primary d-none" id="edit-button" onclick="editProfile()">Edit Profile</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section row d-flex justify-content-evenly mt-5">
+            <div class="shadow col-md-10 rounded bg-white border pb-3">
+                <h2 class="p-2">Riwayat Tes & Skor</h2>
+                <div class="row m-0 bg-light border">
+                    <div class="col date" id="date"></div>
+                    <div class="col">Reading : <span class="reading">30</span></div>
+                    <div class="col">Listening : <span class="listening">30</span></div>
+                    <div class="col">Structure : <span class="structure">30</span></div>
+                    <div class="col">Total Skor: <span class="total">630</span></div>
+                </div>
+                <div class="row m-0 bg-light border">
+                    <div class="col date" id="date"></div>
+                    <div class="col">Reading : <span class="reading">30</span></div>
+                    <div class="col">Listening : <span class="listening">30</span></div>
+                    <div class="col">Structure : <span class="structure">30</span></div>
+                    <div class="col">Total Skor: <span class="total">630</span></div>
+                </div>
+                <div class="row m-0 bg-light border">
+                    <div class="col date" id="date"></div>
+                    <div class="col">Reading : <span class="reading">30</span></div>
+                    <div class="col">Listening : <span class="listening">30</span></div>
+                    <div class="col">Structure : <span class="structure">30</span></div>
+                    <div class="col">Total Skor: <span class="total">630</span></div>
                 </div>
             </div>
         </div>
