@@ -9,24 +9,14 @@
         integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous" />
     <style>
         .card {
-            cursor: pointer;
-            transition: transform 0.3s ease, filter 0.3s ease, opacity 0.3s ease;
+            transition: transform 0.3s ease;
         }
 
-        /* .row:hover .card {
-            filter: blur(3px) brightness(0.6);
-            opacity: 0.6;
-            transform: scale(1);
-        } */
-
-        .row .card:hover {
-            filter: none;
-            opacity: 1;
-            transform: scale(1.03);
-            z-index: 1;
+        .card:hover {
+            transform: scale(1.05);
         }
-        
-        .btn-start {
+
+        .btn {
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: #fff;
             border: none;
@@ -41,7 +31,7 @@
             display: inline-block;
         }
 
-        .btn-start:hover {
+        .btn:hover {
             transform: translateY(-3px);
             box-shadow: 0 12px 24px rgba(102, 126, 234, 0.4);
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
@@ -72,25 +62,21 @@
         </div>
     </nav>
     <div class="container py-5">
-        <div class="p-5 mb-5 bg-light rounded-3 shadow text-center">
-            <!-- Ilustrasi bagian atas -->
-            <div class="row justify-content-center mb-4">
-                <!-- Laki-laki di kiri -->
-                <div class="col-md-4 d-flex justify-content-center">
-                    <img src="gambar/maskot.png" alt="Ilustrasi belajar" class="img-fluid" style="max-height: 350px;">
+        <div class="p-5 mb-5 bg-light rounded-3 shadow text-center"
+            style="background: linear-gradient(135deg, #6a5ae6, #7B7FEF); color: white;">
+            <div class="row justify-content-center mb-auto">
+                <div class="col-md-6 d-flex justify-content-center">
+                    <img src="gambar/maskot.png" alt="Ilustrasi belajar" class="img-fluid" style="max-height: 450px;">
                 </div>
-                <!-- Globe di kanan -->
                 <div class="col-md-4 d-flex justify-content-center">
-                    <img src="gambar/globe.png" alt="Ilustrasi globe" class="img-fluid" style="max-height: 250px;">
+                    <img src="gambar/globe.png" alt="Ilustrasi globe" class="img-fluid" style="max-height: 350px;">
                 </div>
             </div>
-
-            <!-- Teks dan tombol di bawah -->
             <h1 class="display-5 fw-bold">Selamat Datang di Beranda TOEFL</h1>
             <p class="fs-5">
                 Platform persiapan TOEFL-mu. Latihan soal, simulasi ujian, dan penilaian performa dalam satu tempat.
             </p>
-            <a href="#toefl" class="btn btn-primary btn-lg mt-3 btn-start">Mulai Latihan</a>
+            <a href="#toefl" class="btn btn-primary btn-lg mt-3">Mulai TOEFL</a>
         </div>
 
         <div class="row g-4" id="toefl">
@@ -102,7 +88,7 @@
                         <p class="card-text">Latihan soal TOEFL dirancang untuk membantu kamu membiasakan diri dengan
                             format dan tipe soal yang akan diujikan. Tingkatkan pemahamanmu dalam Listening, Structure,
                             dan Reading sebelum menghadapi ujian sesungguhnya.</p>
-                        <a href="#" class="btn btn-primary mt-3">Latihan Sekarang</a>
+                        <a href="#" class="btn mt-3">Latihan Sekarang</a>
                     </div>
                 </div>
             </div>
@@ -114,7 +100,7 @@
                         <p class="card-text">Uji kemampuan bahasa Inggrismu dengan mengikuti simulasi TOEFL lengkap.
                             Dapatkan skor langsung dan evaluasi performa untuk mengetahui area yang perlu ditingkatkan.
                             Cocok bagi kamu yang ingin mengukur kesiapan sebelum mengikuti tes resmi.</p>
-                        <a href="#" class="btn btn-primary mt-3">Mulai Ujian</a>
+                        <a href="#" class="btn mt-3">Mulai Ujian</a>
                     </div>
                 </div>
             </div>
