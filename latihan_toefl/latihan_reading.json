@@ -1,0 +1,492 @@
+[
+    {
+        "id": 1,
+        "section": "Reading",
+        "passage": "The invention of the printing press by Johannes Gutenberg in the 15th century revolutionized the way information was distributed and led to a surge in literacy across Europe.",
+        "question": "Reading question number 1: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 2,
+        "section": "Reading",
+        "passage": "The Amazon rainforest, often referred to as the 'lungs of the planet', plays a vital role in maintaining the Earth’s climate by absorbing vast amounts of carbon dioxide.",
+        "question": "Reading question number 2: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 3,
+        "section": "Reading",
+        "passage": "Volcanoes are geological structures formed by the eruption of molten rock from beneath the Earth's crust. They are often found at tectonic plate boundaries.",
+        "question": "Reading question number 3: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 4,
+        "section": "Reading",
+        "passage": "The process of natural selection, as proposed by Charles Darwin, explains how species evolve over time due to variations that improve survival and reproduction.",
+        "question": "Reading question number 4: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 5,
+        "section": "Reading",
+        "passage": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. It primarily occurs in the leaves of plants.",
+        "question": "Reading question number 5: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 6,
+        "section": "Reading",
+        "passage": "The invention of the printing press by Johannes Gutenberg in the 15th century revolutionized the way information was distributed and led to a surge in literacy across Europe.",
+        "question": "Reading question number 6: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 7,
+        "section": "Reading",
+        "passage": "The Amazon rainforest, often referred to as the 'lungs of the planet', plays a vital role in maintaining the Earth’s climate by absorbing vast amounts of carbon dioxide.",
+        "question": "Reading question number 7: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 8,
+        "section": "Reading",
+        "passage": "Volcanoes are geological structures formed by the eruption of molten rock from beneath the Earth's crust. They are often found at tectonic plate boundaries.",
+        "question": "Reading question number 8: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 9,
+        "section": "Reading",
+        "passage": "The process of natural selection, as proposed by Charles Darwin, explains how species evolve over time due to variations that improve survival and reproduction.",
+        "question": "Reading question number 9: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 10,
+        "section": "Reading",
+        "passage": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. It primarily occurs in the leaves of plants.",
+        "question": "Reading question number 10: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 11,
+        "section": "Reading",
+        "passage": "The invention of the printing press by Johannes Gutenberg in the 15th century revolutionized the way information was distributed and led to a surge in literacy across Europe.",
+        "question": "Reading question number 11: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 12,
+        "section": "Reading",
+        "passage": "The Amazon rainforest, often referred to as the 'lungs of the planet', plays a vital role in maintaining the Earth’s climate by absorbing vast amounts of carbon dioxide.",
+        "question": "Reading question number 12: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 13,
+        "section": "Reading",
+        "passage": "Volcanoes are geological structures formed by the eruption of molten rock from beneath the Earth's crust. They are often found at tectonic plate boundaries.",
+        "question": "Reading question number 13: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 14,
+        "section": "Reading",
+        "passage": "The process of natural selection, as proposed by Charles Darwin, explains how species evolve over time due to variations that improve survival and reproduction.",
+        "question": "Reading question number 14: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 15,
+        "section": "Reading",
+        "passage": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. It primarily occurs in the leaves of plants.",
+        "question": "Reading question number 15: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 16,
+        "section": "Reading",
+        "passage": "The invention of the printing press by Johannes Gutenberg in the 15th century revolutionized the way information was distributed and led to a surge in literacy across Europe.",
+        "question": "Reading question number 16: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 17,
+        "section": "Reading",
+        "passage": "The Amazon rainforest, often referred to as the 'lungs of the planet', plays a vital role in maintaining the Earth’s climate by absorbing vast amounts of carbon dioxide.",
+        "question": "Reading question number 17: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 18,
+        "section": "Reading",
+        "passage": "Volcanoes are geological structures formed by the eruption of molten rock from beneath the Earth's crust. They are often found at tectonic plate boundaries.",
+        "question": "Reading question number 18: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 19,
+        "section": "Reading",
+        "passage": "The process of natural selection, as proposed by Charles Darwin, explains how species evolve over time due to variations that improve survival and reproduction.",
+        "question": "Reading question number 19: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 20,
+        "section": "Reading",
+        "passage": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. It primarily occurs in the leaves of plants.",
+        "question": "Reading question number 20: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 21,
+        "section": "Reading",
+        "passage": "The invention of the printing press by Johannes Gutenberg in the 15th century revolutionized the way information was distributed and led to a surge in literacy across Europe.",
+        "question": "Reading question number 21: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 22,
+        "section": "Reading",
+        "passage": "The Amazon rainforest, often referred to as the 'lungs of the planet', plays a vital role in maintaining the Earth’s climate by absorbing vast amounts of carbon dioxide.",
+        "question": "Reading question number 22: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 23,
+        "section": "Reading",
+        "passage": "Volcanoes are geological structures formed by the eruption of molten rock from beneath the Earth's crust. They are often found at tectonic plate boundaries.",
+        "question": "Reading question number 23: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 24,
+        "section": "Reading",
+        "passage": "The process of natural selection, as proposed by Charles Darwin, explains how species evolve over time due to variations that improve survival and reproduction.",
+        "question": "Reading question number 24: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 25,
+        "section": "Reading",
+        "passage": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. It primarily occurs in the leaves of plants.",
+        "question": "Reading question number 25: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 26,
+        "section": "Reading",
+        "passage": "The invention of the printing press by Johannes Gutenberg in the 15th century revolutionized the way information was distributed and led to a surge in literacy across Europe.",
+        "question": "Reading question number 26: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 27,
+        "section": "Reading",
+        "passage": "The Amazon rainforest, often referred to as the 'lungs of the planet', plays a vital role in maintaining the Earth’s climate by absorbing vast amounts of carbon dioxide.",
+        "question": "Reading question number 27: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 28,
+        "section": "Reading",
+        "passage": "Volcanoes are geological structures formed by the eruption of molten rock from beneath the Earth's crust. They are often found at tectonic plate boundaries.",
+        "question": "Reading question number 28: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 29,
+        "section": "Reading",
+        "passage": "The process of natural selection, as proposed by Charles Darwin, explains how species evolve over time due to variations that improve survival and reproduction.",
+        "question": "Reading question number 29: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 30,
+        "section": "Reading",
+        "passage": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. It primarily occurs in the leaves of plants.",
+        "question": "Reading question number 30: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 31,
+        "section": "Reading",
+        "passage": "The invention of the printing press by Johannes Gutenberg in the 15th century revolutionized the way information was distributed and led to a surge in literacy across Europe.",
+        "question": "Reading question number 31: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 32,
+        "section": "Reading",
+        "passage": "The Amazon rainforest, often referred to as the 'lungs of the planet', plays a vital role in maintaining the Earth’s climate by absorbing vast amounts of carbon dioxide.",
+        "question": "Reading question number 32: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 33,
+        "section": "Reading",
+        "passage": "Volcanoes are geological structures formed by the eruption of molten rock from beneath the Earth's crust. They are often found at tectonic plate boundaries.",
+        "question": "Reading question number 33: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 34,
+        "section": "Reading",
+        "passage": "The process of natural selection, as proposed by Charles Darwin, explains how species evolve over time due to variations that improve survival and reproduction.",
+        "question": "Reading question number 34: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    },
+    {
+        "id": 35,
+        "section": "Reading",
+        "passage": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. It primarily occurs in the leaves of plants.",
+        "question": "Reading question number 35: What is the main idea of the passage?",
+        "options": {
+            "A": "It discusses the history of the topic.",
+            "B": "It explains the benefits of the topic.",
+            "C": "It describes a problem and a solution.",
+            "D": "It outlines various perspectives on the topic."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    }
+]
