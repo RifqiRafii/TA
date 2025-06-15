@@ -5,6 +5,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TOEFL - Test</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous">
+    <style>
+        .timer-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .timer-box {
+            background-color: #343a40; /* Warna latar belakang gelap */
+            color: white;
+            border-radius: 10px;
+            font-weight: bold;
+            text-align: center;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+    </style>
 </head>
 <body style="background-image: url(/gambar/white-background-repeat.jpg);">
     <nav class="navbar sticky-top bg-black bg-gradient navbar-expand-lg">
@@ -18,6 +33,9 @@
 
     <div class="container shadow bg-light border rounded p-2 my-5">
         <h2 class="text-center p-2 m-0">Reading Section</h2>
+        <div class="container timer-container">
+        <div class="timer-box p-2 my-2" id="countdown-timer">00:00:00</div>
+    </div>
         <div class="row">
             <div class="col mx-5 mb-5 bg-white shadow rounded p-3">
                 <h4>No. 1</h4>
@@ -47,6 +65,7 @@
             </div>
         </div>
     </div>
+    <script src="test.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js" integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO" crossorigin="anonymous"></script>
 </body>
 </html>
