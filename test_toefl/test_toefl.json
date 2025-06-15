@@ -948,420 +948,450 @@
     "id": 71,
     "section": "Listening",
     "audio_file": "audio_1.mp3",
-    "question": "What did the speaker imply about the topic?",
+    "dialog": "Woman: Did you hear Professor Chen moved the deadline for our final project?\nMan: Oh, really? I thought we still had another two weeks to work on it.",
+    "question": "What does the man imply about the deadline?",
     "options": {
-      "A": "He agreed",
-      "B": "He disagreed",
-      "C": "He was uncertain",
-      "D": "He gave no opinion"
+      "A": "He was already aware of the change.",
+      "B": "He thought the deadline was later.",
+      "C": "He is happy with the new deadline.",
+      "D": "He has already finished his project."
     },
-    "answer": "A",
-    "explanation": "The tone and wording indicated agreement."
+    "answer": "B",
+    "explanation": "His statement 'I thought we still had another two weeks' implies he believed the deadline was further away."
   },
   {
     "id": 72,
     "section": "Listening",
     "audio_file": "audio_2.mp3",
-    "question": "What is the speaker mainly discussing?",
+    "dialog": "Sarah: Today's lecture covered the principles of plate tectonics.\nTom: So, it was about how continents move and mountains form, right?",
+    "question": "What was the main topic of the lecture?",
     "options": {
-      "A": "A new policy",
-      "B": "His vacation",
-      "C": "A historical event",
-      "D": "A scientific theory"
+      "A": "Volcanic eruptions.",
+      "B": "Earthquake prediction.",
+      "C": "Plate tectonics and geological formations.",
+      "D": "Ocean currents."
     },
-    "answer": "D",
-    "explanation": "The passage clearly focused on explaining a theory."
+    "answer": "C",
+    "explanation": "Sarah states 'principles of plate tectonics' and Tom's follow-up confirms it's about 'how continents move and mountains form'."
   },
   {
     "id": 73,
     "section": "Listening",
     "audio_file": "audio_3.mp3",
-    "question": "What does the speaker suggest the listeners do?",
+    "dialog": "Professor: Before our next class, please review the first two chapters of the textbook.\nStudent: Should we also prepare a short summary for discussion?",
+    "question": "What does the professor suggest the student do?",
     "options": {
-      "A": "Ignore the announcement",
-      "B": "Leave the room",
-      "C": "Read the materials",
-      "D": "Write a summary"
+      "A": "Skip the textbook reading.",
+      "B": "Read the first two chapters.",
+      "C": "Write a lengthy essay.",
+      "D": "Prepare an oral report."
     },
-    "answer": "C",
-    "explanation": "The speaker instructed listeners to read further materials."
+    "answer": "B",
+    "explanation": "The professor instructs, 'please review the first two chapters of the textbook'."
   },
   {
     "id": 74,
     "section": "Listening",
     "audio_file": "audio_4.mp3",
-    "question": "What did the speaker imply about the topic?",
+    "dialog": "Jessica: The new bus route makes getting to campus so much faster now.\nMichael: I totally agree! It used to take me twice as long.",
+    "question": "What is Michael's opinion of the new bus route?",
     "options": {
-      "A": "He agreed",
-      "B": "He disagreed",
-      "C": "He was uncertain",
-      "D": "He gave no opinion"
+      "A": "He finds it inconvenient.",
+      "B": "He thinks it's a significant improvement.",
+      "C": "He is indifferent to it.",
+      "D": "He believes it's too complicated."
     },
-    "answer": "A",
-    "explanation": "The tone and wording indicated agreement."
+    "answer": "B",
+    "explanation": "Michael's response 'I totally agree! It used to take me twice as long' indicates he finds it a significant improvement."
   },
   {
     "id": 75,
     "section": "Listening",
     "audio_file": "audio_5.mp3",
-    "question": "What is the speaker mainly discussing?",
+    "dialog": "Dr. Chen: Today's topic is the process of photosynthesis in plants.\nStudent: So, we're talking about how plants convert light energy into chemical energy?",
+    "question": "What is the main subject of their discussion?",
     "options": {
-      "A": "A new policy",
-      "B": "His vacation",
-      "C": "A historical event",
-      "D": "A scientific theory"
+      "A": "Animal respiration.",
+      "B": "Plant reproduction.",
+      "C": "Photosynthesis.",
+      "D": "Fungi growth."
     },
-    "answer": "D",
-    "explanation": "The passage clearly focused on explaining a theory."
+    "answer": "C",
+    "explanation": "Dr. Chen clearly states, 'Today's topic is the process of photosynthesis in plants'."
   },
   {
     "id": 76,
     "section": "Listening",
     "audio_file": "audio_6.mp3",
-    "question": "What does the speaker suggest the listeners do?",
+    "dialog": "Librarian: Remember, all borrowed library materials must be returned or renewed by the end of the month.\nStudent: Got it. What's the penalty if they're late?",
+    "question": "What instruction does the librarian give?",
     "options": {
-      "A": "Ignore the announcement",
-      "B": "Leave the room",
-      "C": "Read the materials",
-      "D": "Write a summary"
+      "A": "To purchase new books.",
+      "B": "To donate old materials.",
+      "C": "To return or renew library materials by month-end.",
+      "D": "To ignore overdue notices."
     },
     "answer": "C",
-    "explanation": "The speaker instructed listeners to read further materials."
+    "explanation": "The librarian states, 'all borrowed library materials must be returned or renewed by the end of the month'."
   },
   {
     "id": 77,
     "section": "Listening",
     "audio_file": "audio_7.mp3",
-    "question": "What did the speaker imply about the topic?",
+    "dialog": "Anna: I'm really enjoying the new art exhibit at the gallery. The abstract sculptures are quite thought-provoking.\nBen: Me too. They've really pushed the boundaries of modern art with this collection.",
+    "question": "What is Ben's opinion of the art exhibit?",
     "options": {
-      "A": "He agreed",
-      "B": "He disagreed",
-      "C": "He was uncertain",
-      "D": "He gave no opinion"
+      "A": "He finds it uninteresting.",
+      "B": "He thinks it's too conventional.",
+      "C": "He is impressed by its innovative nature.",
+      "D": "He hasn't seen it yet."
     },
-    "answer": "A",
-    "explanation": "The tone and wording indicated agreement."
+    "answer": "C",
+    "explanation": "Ben's comment 'They've really pushed the boundaries of modern art' indicates he is impressed by its innovative nature."
   },
   {
     "id": 78,
     "section": "Listening",
     "audio_file": "audio_8.mp3",
-    "question": "What is the speaker mainly discussing?",
+    "dialog": "Man: Our next lecture in ecology will cover ecosystems and biodiversity.\nWoman: So, we'll be learning about different habitats and species protection?",
+    "question": "What will be the main topic of the next ecology lecture?",
     "options": {
-      "A": "A new policy",
-      "B": "His vacation",
-      "C": "A historical event",
-      "D": "A scientific theory"
+      "A": "Climate change.",
+      "B": "Pollution effects.",
+      "C": "Ecosystems and biodiversity.",
+      "D": "Agricultural practices."
     },
-    "answer": "D",
-    "explanation": "The passage clearly focused on explaining a theory."
+    "answer": "C",
+    "explanation": "The man states, 'Our next lecture in ecology will cover ecosystems and biodiversity'."
   },
   {
     "id": 79,
     "section": "Listening",
     "audio_file": "audio_9.mp3",
-    "question": "What does the speaker suggest the listeners do?",
+    "dialog": "Professor Hayes: Remember, your research papers must include a comprehensive list of references.\nStudent: Does that mean we need a bibliography, Professor?",
+    "question": "What is a requirement for the research papers?",
     "options": {
-      "A": "Ignore the announcement",
-      "B": "Leave the room",
-      "C": "Read the materials",
-      "D": "Write a summary"
+      "A": "To exclude any sources.",
+      "B": "To write only original ideas.",
+      "C": "To include a comprehensive list of references.",
+      "D": "To submit an oral report instead."
     },
     "answer": "C",
-    "explanation": "The speaker instructed listeners to read further materials."
+    "explanation": "Professor Hayes states, 'your research papers must include a comprehensive list of references'."
   },
   {
     "id": 80,
     "section": "Listening",
     "audio_file": "audio_10.mp3",
-    "question": "What did the speaker imply about the topic?",
+    "dialog": "Male Student: I heard the chemistry department is getting new lab equipment.\nFemale Student: Yeah, but it won't be installed until next semester, unfortunately.",
+    "question": "What does the female student imply about the new lab equipment?",
     "options": {
-      "A": "He agreed",
-      "B": "He disagreed",
-      "C": "He was uncertain",
-      "D": "He gave no opinion"
+      "A": "It is already in use.",
+      "B": "It will be installed sooner than expected.",
+      "C": "It will not be available this semester.",
+      "D": "It is not needed."
     },
-    "answer": "A",
-    "explanation": "The tone and wording indicated agreement."
+    "answer": "C",
+    "explanation": "Her statement 'it won't be installed until next semester' implies it won't be available this semester."
   },
   {
     "id": 81,
     "section": "Listening",
     "audio_file": "audio_11.mp3",
-    "question": "What is the speaker mainly discussing?",
+    "dialog": "Man: The guest speaker discussed the evolution of human language.\nWoman: That's a fascinating subject. Did they cover anything about ancient communication methods?",
+    "question": "What was the specific focus of the guest speaker's talk?",
     "options": {
-      "A": "A new policy",
-      "B": "His vacation",
-      "C": "A historical event",
-      "D": "A scientific theory"
+      "A": "Modern communication technology.",
+      "B": "The evolution of human language.",
+      "C": "Animal communication.",
+      "D": "Sign languages."
     },
-    "answer": "D",
-    "explanation": "The passage clearly focused on explaining a theory."
+    "answer": "B",
+    "explanation": "The man states the speaker discussed 'the evolution of human language'."
   },
   {
     "id": 82,
     "section": "Listening",
     "audio_file": "audio_12.mp3",
-    "question": "What does the speaker suggest the listeners do?",
+    "dialog": "Professor Lee: Class, please make sure you've submitted your essays by midnight tonight.\nStudent: Is there a grace period for late submissions?",
+    "question": "What are the students required to do by midnight tonight?",
     "options": {
-      "A": "Ignore the announcement",
-      "B": "Leave the room",
-      "C": "Read the materials",
-      "D": "Write a summary"
+      "A": "Attend a special lecture.",
+      "B": "Submit their essays.",
+      "C": "Register for the next course.",
+      "D": "Complete a group project."
     },
-    "answer": "C",
-    "explanation": "The speaker instructed listeners to read further materials."
+    "answer": "B",
+    "explanation": "Professor Lee instructs, 'please make sure you've submitted your essays by midnight tonight'."
   },
   {
     "id": 83,
     "section": "Listening",
     "audio_file": "audio_13.mp3",
-    "question": "What did the speaker imply about the topic?",
+    "dialog": "David: I'm really struggling with the new statistics software.\nEmily: Yeah, it's definitely not as intuitive as the old version.",
+    "question": "What is Emily's opinion of the new statistics software?",
     "options": {
-      "A": "He agreed",
-      "B": "He disagreed",
-      "C": "He was uncertain",
-      "D": "He gave no opinion"
+      "A": "She finds it very user-friendly.",
+      "B": "She thinks it's an improvement.",
+      "C": "She believes it's difficult to use.",
+      "D": "She hasn't tried it yet."
     },
-    "answer": "A",
-    "explanation": "The tone and wording indicated agreement."
+    "answer": "C",
+    "explanation": "Emily's response 'it's definitely not as intuitive as the old version' implies she finds it difficult to use."
   },
   {
     "id": 84,
     "section": "Listening",
     "audio_file": "audio_14.mp3",
-    "question": "What is the speaker mainly discussing?",
+    "dialog": "Maria: Today's lecture was about the history of space exploration.\nChris: So, it covered everything from Sputnik to the Mars missions?",
+    "question": "What was the main topic of today's lecture?",
     "options": {
-      "A": "A new policy",
-      "B": "His vacation",
-      "C": "A historical event",
-      "D": "A scientific theory"
+      "A": "The formation of the solar system.",
+      "B": "The history of space exploration.",
+      "C": "Types of telescopes.",
+      "D": "Astronomy theories."
     },
-    "answer": "D",
-    "explanation": "The passage clearly focused on explaining a theory."
+    "answer": "B",
+    "explanation": "Maria states, 'Today's lecture was about the history of space exploration'."
   },
   {
     "id": 85,
     "section": "Listening",
     "audio_file": "audio_15.mp3",
-    "question": "What does the speaker suggest the listeners do?",
+    "dialog": "Professor: For your presentations, remember to maintain eye contact with your audience.\nStudent: Does that help with engagement?",
+    "question": "What is the professor's advice for presentations?",
     "options": {
-      "A": "Ignore the announcement",
-      "B": "Leave the room",
-      "C": "Read the materials",
-      "D": "Write a summary"
+      "A": "To read directly from notes.",
+      "B": "To avoid looking at the audience.",
+      "C": "To maintain eye contact with the audience.",
+      "D": "To speak very quickly."
     },
     "answer": "C",
-    "explanation": "The speaker instructed listeners to read further materials."
+    "explanation": "The professor advises, 'remember to maintain eye contact with your audience'."
   },
   {
     "id": 86,
     "section": "Listening",
     "audio_file": "audio_16.mp3",
-    "question": "What did the speaker imply about the topic?",
+    "dialog": "Sarah: I'm not sure about the new public transportation system. It seems less reliable.\nLiam: I couldn't agree more. I've been late for class twice this week.\nSarah: They really need to fix the scheduling.",
+    "question": "What is Liam's attitude towards the new public transportation system?",
     "options": {
-      "A": "He agreed",
-      "B": "He disagreed",
-      "C": "He was uncertain",
-      "D": "He gave no opinion"
+      "A": "He is very supportive of it.",
+      "B": "He is neutral about it.",
+      "C": "He finds it unreliable.",
+      "D": "He thinks it's a major improvement."
     },
-    "answer": "A",
-    "explanation": "The tone and wording indicated agreement."
+    "answer": "C",
+    "explanation": "Liam's statement 'I couldn't agree more. I've been late for class twice this week' indicates he finds it unreliable."
   },
   {
     "id": 87,
     "section": "Listening",
     "audio_file": "audio_17.mp3",
-    "question": "What is the speaker mainly discussing?",
+    "dialog": "Man: This week in our literature class, we're studying Shakespeare's tragedies.\nWoman: So, we'll be reading Hamlet and Macbeth?\nMan: Exactly, focusing on their themes and character development.",
+    "question": "What literary topic are they discussing this week?",
     "options": {
-      "A": "A new policy",
-      "B": "His vacation",
-      "C": "A historical event",
-      "D": "A scientific theory"
+      "A": "Modern poetry.",
+      "B": "Shakespeare's tragedies.",
+      "C": "Romantic novels.",
+      "D": "Greek mythology."
     },
-    "answer": "D",
-    "explanation": "The passage clearly focused on explaining a theory."
+    "answer": "B",
+    "explanation": "The man states, 'This week in our literature class, we're studying Shakespeare's tragedies'."
   },
   {
     "id": 88,
     "section": "Listening",
     "audio_file": "audio_18.mp3",
-    "question": "What does the speaker suggest the listeners do?",
+    "dialog": "Professor Evans: Remember, your final papers must be submitted via the online portal by Friday.\nStudent: Is there a specific file format we should use?\nProfessor Evans: Yes, PDF format is preferred for consistency.",
+    "question": "What instruction is given regarding the final papers?",
     "options": {
-      "A": "Ignore the announcement",
-      "B": "Leave the room",
-      "C": "Read the materials",
-      "D": "Write a summary"
+      "A": "To submit them in person.",
+      "B": "To email them to the professor.",
+      "C": "To submit them via the online portal by Friday.",
+      "D": "To submit them next month."
     },
     "answer": "C",
-    "explanation": "The speaker instructed listeners to read further materials."
+    "explanation": "Professor Evans states, 'your final papers must be submitted via the online portal by Friday'."
   },
   {
     "id": 89,
     "section": "Listening",
     "audio_file": "audio_19.mp3",
-    "question": "What did the speaker imply about the topic?",
+    "dialog": "Customer: This coffee machine I bought last week isn't brewing properly.\nSales Clerk: Hmm, it sounds like there might be a blockage. Did you try cleaning the filter?\nCustomer: Yes, I cleaned it, but it's still not working right.",
+    "question": "What does the Sales Clerk imply about the coffee machine?",
     "options": {
-      "A": "He agreed",
-      "B": "He disagreed",
-      "C": "He was uncertain",
-      "D": "He gave no opinion"
+      "A": "It is working perfectly.",
+      "B": "It needs a software update.",
+      "C": "It may have a problem that needs troubleshooting.",
+      "D": "It is too old to be fixed."
     },
-    "answer": "A",
-    "explanation": "The tone and wording indicated agreement."
+    "answer": "C",
+    "explanation": "The Sales Clerk's questions 'it sounds like there might be a blockage. Did you try cleaning the filter?' imply troubleshooting is needed."
   },
   {
     "id": 90,
     "section": "Listening",
     "audio_file": "audio_20.mp3",
-    "question": "What is the speaker mainly discussing?",
+    "dialog": "Historian: Today's lecture will cover the impact of the printing press on the spread of knowledge in Europe.\nStudent: So, we're talking about how it revolutionized information sharing?\nHistorian: Precisely, and its role in the Renaissance.",
+    "question": "What is the main subject of the lecture?",
     "options": {
-      "A": "A new policy",
-      "B": "His vacation",
-      "C": "A historical event",
-      "D": "A scientific theory"
+      "A": "The history of art.",
+      "B": "The invention of writing.",
+      "C": "The impact of the printing press.",
+      "D": "Modern communication methods."
     },
-    "answer": "D",
-    "explanation": "The passage clearly focused on explaining a theory."
+    "answer": "C",
+    "explanation": "The historian states, 'Today's lecture will cover the impact of the printing press on the spread of knowledge in Europe'."
   },
   {
     "id": 91,
     "section": "Listening",
     "audio_file": "audio_21.mp3",
-    "question": "What does the speaker suggest the listeners do?",
+    "dialog": "Professor: The updated syllabus for this course is now available on the university's learning platform.\nStudent: Okay, I'll make sure to download it and check the new dates.\nProfessor: Pay close attention to the revised assignment deadlines.",
+    "question": "What information is available on the university's learning platform?",
     "options": {
-      "A": "Ignore the announcement",
-      "B": "Leave the room",
-      "C": "Read the materials",
-      "D": "Write a summary"
+      "A": "Old exam papers.",
+      "B": "The updated course syllabus.",
+      "C": "Student grades from last semester.",
+      "D": "Lecture recordings only."
     },
-    "answer": "C",
-    "explanation": "The speaker instructed listeners to read further materials."
+    "answer": "B",
+    "explanation": "The professor explicitly mentions, 'The updated syllabus for this course is now available on the university's learning platform'."
   },
   {
     "id": 92,
     "section": "Listening",
     "audio_file": "audio_22.mp3",
-    "question": "What did the speaker imply about the topic?",
+    "dialog": "Mark: I'm not sure if the new policy restricting student parking on campus is fair.\nSarah: I agree. It makes it really difficult for commuters like me.\nMark: And there aren't enough alternative options provided.",
+    "question": "What is Sarah's opinion about the new student parking policy?",
     "options": {
-      "A": "He agreed",
-      "B": "He disagreed",
-      "C": "He was uncertain",
-      "D": "He gave no opinion"
+      "A": "She supports it fully.",
+      "B": "She finds it beneficial.",
+      "C": "She believes it creates difficulties for commuters.",
+      "D": "She is neutral about it."
     },
-    "answer": "A",
-    "explanation": "The tone and wording indicated agreement."
+    "answer": "C",
+    "explanation": "Sarah's response 'I agree. It makes it really difficult for commuters like me' indicates she believes it creates difficulties."
   },
   {
     "id": 93,
     "section": "Listening",
     "audio_file": "audio_23.mp3",
-    "question": "What is the speaker mainly discussing?",
+    "dialog": "Professor: This week in our psychology class, we'll delve into the concept of cognitive biases.\nStudent: So, we'll learn about common errors in human thinking?\nProfessor: Exactly. We'll examine how they influence decision-making.",
+    "question": "What will be the primary focus of the psychology class this week?",
     "options": {
-      "A": "A new policy",
-      "B": "His vacation",
-      "C": "A historical event",
-      "D": "A scientific theory"
+      "A": "Child development.",
+      "B": "Cognitive biases.",
+      "C": "Social psychology.",
+      "D": "Clinical disorders."
     },
-    "answer": "D",
-    "explanation": "The passage clearly focused on explaining a theory."
+    "answer": "B",
+    "explanation": "The professor states, 'This week in our psychology class, we'll delve into the concept of cognitive biases'."
   },
   {
     "id": 94,
     "section": "Listening",
     "audio_file": "audio_24.mp3",
-    "question": "What does the speaker suggest the listeners do?",
+    "dialog": "Teacher: Class, when writing your essays, make sure to use clear and concise language.\nStudent: So, avoid overly complex sentences?\nTeacher: Precisely. Simplicity often conveys ideas more effectively.",
+    "question": "What instruction is given regarding the essays' language?",
     "options": {
-      "A": "Ignore the announcement",
-      "B": "Leave the room",
-      "C": "Read the materials",
-      "D": "Write a summary"
+      "A": "To use complex vocabulary.",
+      "B": "To write very long sentences.",
+      "C": "To use clear and concise language.",
+      "D": "To include informal expressions."
     },
     "answer": "C",
-    "explanation": "The speaker instructed listeners to read further materials."
+    "explanation": "The teacher advises, 'make sure to use clear and concise language'."
   },
   {
     "id": 95,
     "section": "Listening",
     "audio_file": "audio_25.mp3",
-    "question": "What did the speaker imply about the topic?",
+    "dialog": "Woman: I'm quite impressed with the new recycling program in the dorms.\nMan: Me too! It's much easier to sort waste now, and I've noticed more people participating.\nWoman: It's a great step towards sustainability.",
+    "question": "What is the man's opinion of the new recycling program?",
     "options": {
-      "A": "He agreed",
-      "B": "He disagreed",
-      "C": "He was uncertain",
-      "D": "He gave no opinion"
+      "A": "He finds it confusing.",
+      "B": "He thinks it's inefficient.",
+      "C": "He views it as a positive improvement.",
+      "D": "He prefers the old system."
     },
-    "answer": "A",
-    "explanation": "The tone and wording indicated agreement."
+    "answer": "C",
+    "explanation": "The man's 'Me too!' and observations about it being 'much easier' and 'more people participating' indicate a positive view."
   },
   {
     "id": 96,
     "section": "Listening",
     "audio_file": "audio_26.mp3",
-    "question": "What is the speaker mainly discussing?",
+    "dialog": "Professor: In this unit, we'll explore the history of scientific discoveries, from ancient astronomy to modern physics.\nStudent: So, we'll cover key figures like Galileo and Newton?\nProfessor: Yes, and their contributions to various fields.",
+    "question": "What is the main subject of the current unit?",
     "options": {
-      "A": "A new policy",
-      "B": "His vacation",
-      "C": "A historical event",
-      "D": "A scientific theory"
+      "A": "Philosophical debates.",
+      "B": "The history of scientific discoveries.",
+      "C": "Artistic movements.",
+      "D": "Political theories."
     },
-    "answer": "D",
-    "explanation": "The passage clearly focused on explaining a theory."
+    "answer": "B",
+    "explanation": "The professor states, 'In this unit, we'll explore the history of scientific discoveries'."
   },
   {
     "id": 97,
     "section": "Listening",
     "audio_file": "audio_27.mp3",
-    "question": "What does the speaker suggest the listeners do?",
+    "dialog": "Instructor: Remember, all project proposals must be submitted by the end of the day on Monday.\nStudent: So, no extensions will be granted?\nInstructor: That's correct. The deadline is firm this time.",
+    "question": "What is the deadline for submitting project proposals?",
     "options": {
-      "A": "Ignore the announcement",
-      "B": "Leave the room",
-      "C": "Read the materials",
-      "D": "Write a summary"
+      "A": "Tuesday morning.",
+      "B": "By the end of the day on Monday.",
+      "C": "Next Friday.",
+      "D": "The last day of the semester."
     },
-    "answer": "C",
-    "explanation": "The speaker instructed listeners to read further materials."
+    "answer": "B",
+    "explanation": "The instructor states, 'all project proposals must be submitted by the end of the day on Monday'."
   },
   {
     "id": 98,
     "section": "Listening",
     "audio_file": "audio_28.mp3",
-    "question": "What did the speaker imply about the topic?",
+    "dialog": "Sarah: I'm really impressed with how organized the orientation week was this year.\nBen: Me too. Everything ran so smoothly, unlike last year.\nSarah: It really made the new students feel welcome.",
+    "question": "What does Ben imply about the orientation week this year?",
     "options": {
-      "A": "He agreed",
-      "B": "He disagreed",
-      "C": "He was uncertain",
-      "D": "He gave no opinion"
+      "A": "It was less organized than last year.",
+      "B": "It was poorly planned.",
+      "C": "It was much better organized than the previous year.",
+      "D": "He didn't attend it."
     },
-    "answer": "A",
-    "explanation": "The tone and wording indicated agreement."
+    "answer": "C",
+    "explanation": "Ben's 'Me too' and 'Everything ran so smoothly, unlike last year' imply it was better organized than the previous year."
   },
   {
     "id": 99,
     "section": "Listening",
     "audio_file": "audio_29.mp3",
-    "question": "What is the speaker mainly discussing?",
+    "dialog": "Professor: Our discussion today will focus on the principles of classical mechanics.\nStudent: So, we're talking about Newton's Laws of Motion?\nProfessor: Precisely, and their application to real-world problems.",
+    "question": "What is the main topic of the discussion?",
     "options": {
-      "A": "A new policy",
-      "B": "His vacation",
-      "C": "A historical event",
-      "D": "A scientific theory"
+      "A": "Quantum physics.",
+      "B": "Classical mechanics.",
+      "C": "Thermodynamics.",
+      "D": "Electromagnetism."
     },
-    "answer": "D",
-    "explanation": "The passage clearly focused on explaining a theory."
+    "answer": "B",
+    "explanation": "The professor states, 'Our discussion today will focus on the principles of classical mechanics'."
   },
   {
     "id": 100,
     "section": "Listening",
     "audio_file": "audio_30.mp3",
-    "question": "What does the speaker suggest the listeners do?",
+    "dialog": "Coach: Team, remember to stretch properly before every practice to avoid injuries.\nPlayer: Is that the most important thing for preventing muscle strains?\nCoach: Absolutely. Proper warm-up is crucial for performance and safety.",
+    "question": "What preventative action is recommended by the coach?",
     "options": {
-      "A": "Ignore the announcement",
-      "B": "Leave the room",
-      "C": "Read the materials",
-      "D": "Write a summary"
+      "A": "Eating a large meal before practice.",
+      "B": "Skipping warm-ups.",
+      "C": "Stretching properly before practice.",
+      "D": "Only practicing once a week."
     },
     "answer": "C",
-    "explanation": "The speaker instructed listeners to read further materials."
+    "explanation": "The coach instructs, 'remember to stretch properly before every practice to avoid injuries'."
   }
 ]
