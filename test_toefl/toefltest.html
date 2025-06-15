@@ -16,10 +16,10 @@
         .admin-panel { position: fixed; bottom: 10px; right: 10px; z-index: 1000; }
     </style>
 </head>
-<body style="background-image: url(gambar/white-background-repeat.jpg);">
+<body style="background-image: url(../gambar/white-background-repeat.jpg);">
     <nav class="navbar sticky-top bg-black bg-gradient navbar-expand-lg">
         <div class="container-fluid">
-            <a href="beranda.html" class="navbar-brand position-absolute start-2 text-light"><img src="gambar/logo.png" alt="logo" width="50"></a>
+            <a href="../beranda.html" class="navbar-brand position-absolute start-2 text-light"><img src="../gambar/logo.png" alt="logo" width="50"></a>
             <div class="navbar-nav d-flex flex-row mx-auto">
                 <h2 class="text-light" id="section-title">TOEFL TEST</h2>
             </div>
@@ -30,7 +30,7 @@
         <div id="quiz-container">
             <div class="d-flex justify-content-between align-items-center p-2">
                 <h2 id="main-section-title" class="m-0">Loading Section...</h2>
-                <div class="timer-box p-2" id="countdown-timer">01:00:00</div>
+                <div class="timer-box p-2" id="countdown-timer">02:00:00</div>
             </div>
             <hr>
             <div class="row">
@@ -60,6 +60,17 @@
                         </div>
                 </div>
             </div>
+        </div>
+
+        <div id="test-complete-container" style="display: none;" class="text-center p-5">
+            <svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" fill="currentColor" class="bi bi-check-circle-fill text-success mb-3" viewBox="0 0 16 16">
+                <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-3.97-3.03a.75.75 0 0 0-1.08.022L7.477 9.417 5.384 7.323a.75.75 0 0 0-1.06 1.06L6.97 11.03a.75.75 0 0 0 1.079-.02l3.992-4.99a.75.75 0 0 0-.01-1.05z"/>
+            </svg>
+            <h2 class="display-5">Tes Selesai!</h2>
+            <p class="lead">Selamat, Anda telah menyelesaikan seluruh rangkaian tes TOEFL.</p>
+            <p>Hasil dan rincian skor Anda telah disimpan. Anda dapat melihatnya kapan saja di halaman Dashboard Anda.</p>
+            <hr>
+            <a href="../Dashboard.html" class="btn btn-primary btn-lg mt-3">Lihat Hasil di Dashboard</a>
         </div>
     </div>
 

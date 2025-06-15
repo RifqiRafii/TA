@@ -8,8 +8,6 @@ $(function() {
     let timerInterval;
 
     // --- TOEFL SCORE CONVERSION TABLES ---
-    // Diadaptasi dari tabel standar untuk jumlah soal yang ada di JSON
-    // Kunci: jumlah jawaban benar, Nilai: skor konversi
     const conversionTables = {
         Reading: { /* 35 soal */
             35: 67, 34: 66, 33: 65, 32: 63, 31: 61, 30: 60, 29: 59, 28: 58, 27: 57, 26: 56, 25: 55, 24: 54, 23: 54, 22: 53, 21: 52, 20: 51, 19: 50, 18: 49, 17: 48, 16: 47, 15: 46, 14: 45, 13: 43, 12: 42, 11: 41, 10: 40, 9: 38, 8: 36, 7: 34, 6: 32, 5: 30, 4: 28, 3: 26, 2: 24, 1: 22, 0: 20
@@ -38,20 +36,18 @@ $(function() {
     // --- INITIALIZATION ---
     function init() {
         $.getJSON('test_toefl.json', function(data) {
-            // Pisahkan soal berdasarkan section
             $.each(data, (i, question) => {
                 if (allQuestions[question.section]) {
                     allQuestions[question.section].push(question);
                 }
             });
-            // Inisialisasi array jawaban
             $.each(sectionOrder, (i, sectionName) => {
                 userAnswers[sectionName] = new Array(allQuestions[sectionName].length).fill(null);
             });
             
             loadSection(currentSectionIndex);
-            startTimer(120 * 60); // Total waktu 2 jam (120 menit)
-        }).fail(() => alert('Gagal memuat file soal. Pastikan test_toefl.json ada.'));
+            startTimer(120 * 60);
+        }).fail(() => alert('Gagal memuat file soal. Pastikan test_toefl.json ada di folder yang sama dengan test.js.'));
     }
 
     // --- SECTION AND QUESTION DISPLAY ---
@@ -69,10 +65,8 @@ $(function() {
         const question = allQuestions[sectionName][currentQuestionInSection];
         let currentPassage = "";
 
-        // Tampilkan passage untuk Reading
         $passageContainer.hide();
         if (question.section === 'Reading') {
-            // Cari passage pertama yang bukan 'same' untuk grup soal ini
             for (let i = currentQuestionInSection; i >= 0; i--) {
                 if (allQuestions[sectionName][i].passage.toLowerCase() !== 'same') {
                     currentPassage = allQuestions[sectionName][i].passage;
@@ -82,10 +76,8 @@ $(function() {
             $passageContainer.html(currentPassage).show();
         }
 
-        // Tampilkan audio untuk Listening
         $audioContainer.hide();
         if (question.section === 'Listening') {
-            // Asumsi file audio ada di folder 'audio/'
             $audioContainer.find('audio').attr('src', `audio/${question.audio_file}`);
             $audioContainer.show();
         }
@@ -170,7 +162,7 @@ $(function() {
     $optionsContainer.on('change', 'input[type="radio"]', function() {
         const sectionName = sectionOrder[currentSectionIndex];
         userAnswers[sectionName][currentQuestionInSection] = $(this).val();
-        createNavigationButtons(); // Refresh nav buttons to show it's answered
+        createNavigationButtons();
     });
     
     // --- TIMER ---
@@ -208,7 +200,7 @@ $(function() {
 
     function convertScore(sectionName, correctCount) {
         const table = conversionTables[sectionName];
-        return table[correctCount] || 0; // Return 0 if score not in table
+        return table[correctCount] || 0;
     }
 
     function finishTest() {
@@ -233,18 +225,20 @@ $(function() {
         };
         
         saveResult(testResult);
-        window.location.href = '../Dashboard.html';
+        
+        $('#quiz-container').hide();
+        $('#test-complete-container').show();
     }
 
     function saveResult(result) {
         let history = JSON.parse(localStorage.getItem('toeflHistory')) || [];
-        history.unshift(result); // Tambahkan hasil baru di awal
+        history.unshift(result);
         localStorage.setItem('toeflHistory', JSON.stringify(history));
     }
 
     // --- ADMIN FEATURE ---
     $autofillBtn.on('click', function() {
-        if (!confirm('Konfirmasi fitur dukun')) return;
+        if (!confirm('Ini fitur dukun, Jawab semua soal dengan benar?')) return;
         
         $.each(sectionOrder, (i, sectionName) => {
             $.each(allQuestions[sectionName], (j, question) => {
@@ -252,7 +246,6 @@ $(function() {
             });
         });
 
-        // Refresh tampilan
         displayQuestion();
         createNavigationButtons();
         alert('Semua jawaban telah diisi dengan benar.');
