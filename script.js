@@ -24,7 +24,7 @@ $(document).ready(function(){
             $("#name").text($("#change-name").val())
             $("#email").text($("#change-email").val())
             $("#edit-profile").toggleClass('d-none', true)
-            $("#edit-button").toggleClass('d-none', true)
+            $("#edit-button").toggleClass('d-none', false)
         }      
     })
 })
