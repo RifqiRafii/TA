@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "section": "Listening",
+    "audio_file": "audio_1.mp3",
+    "dialog": "Man: I'm planning to go to the library this afternoon.\nWoman: Are you going to study for the history test?",
+    "question": "What is the man's plan for the afternoon?",
+    "options": {
+      "A": "To visit a friend.",
+      "B": "To go to the library.",
+      "C": "To take a history test.",
+      "D": "To go shopping."
+    },
+    "answer": "B",
+    "explanation": "The man states, 'I'm planning to go to the library this afternoon'."
+  },
+  {
+    "id": 2,
+    "section": "Listening",
+    "audio_file": "audio_2.mp3",
+    "dialog": "Riel: Did you finish the math homework?\nRaffi: Yes, it was due today.",
+    "question": "What did Raffi do?",
+    "options": {
+      "A": "Started the math homework.",
+      "B": "Finished the math homework.",
+      "C": "Forgot about the homework.",
+      "D": "Asked for an extension."
+    },
+    "answer": "B",
+    "explanation": "Raffi confirms, 'Yes, it was due today' in response to finishing the homework."
+  },
+  {
+    "id": 3,
+    "section": "Listening",
+    "audio_file": "audio_3.mp3",
+    "dialog": "Woman: It's quite chilly today, isn't it?\nMan: Yes, I should have brought a heavier coat.",
+    "question": "What does the man regret?",
+    "options": {
+      "A": "Not bringing an umbrella.",
+      "B": "Not bringing a heavier coat.",
+      "C": "Not staying home.",
+      "D": "Not wearing sandals."
+    },
+    "answer": "B",
+    "explanation": "The man says, 'I should have brought a heavier coat'."
+  },
+  {
+    "id": 4,
+    "section": "Listening",
+    "audio_file": "audio_4.mp3",
+    "dialog": "Professor: The next assignment is to write a short essay about climate change.\nStudent: What's the word limit for that?",
+    "question": "What is the next assignment?",
+    "options": {
+      "A": "A research paper.",
+      "B": "A short essay.",
+      "C": "An oral presentation.",
+      "D": "A group project."
+    },
+    "answer": "B",
+    "explanation": "The professor states, 'The next assignment is to write a short essay about climate change'."
+  },
+  {
+    "id": 5,
+    "section": "Listening",
+    "audio_file": "audio_5.mp3",
+    "dialog": "Man: I'm going to grab a coffee. Do you want anything?\nWoman: No thanks, I've already had enough caffeine today.",
+    "question": "What does the woman imply?",
+    "options": {
+      "A": "She wants a tea.",
+      "B": "She doesn't want coffee.",
+      "C": "She will get coffee later.",
+      "D": "She wants a water."
+    },
+    "answer": "B",
+    "explanation": "Her response 'No thanks, I've already had enough caffeine today' implies she doesn't want coffee."
+  },
+  {
+    "id": 6,
+    "section": "Listening",
+    "audio_file": "audio_6.mp3",
+    "dialog": "Sarah: The new bakery on Elm Street has delicious pastries.\nLiam: Oh, really? I'll have to check it out this weekend.",
+    "question": "What does Liam plan to do?",
+    "options": {
+      "A": "Visit the new bakery.",
+      "B": "Bake pastries at home.",
+      "C": "Avoid Elm Street.",
+      "D": "Go to a different bakery."
+    },
+    "answer": "A",
+    "explanation": "Liam says, 'I'll have to check it out this weekend', referring to the new bakery."
+  },
+  {
+    "id": 7,
+    "section": "Listening",
+    "audio_file": "audio_7.mp3",
+    "dialog": "Customer: Excuse me, where can I find the milk?\nClerk: It's in aisle 3, next to the dairy products.",
+    "question": "Where is the milk located?",
+    "options": {
+      "A": "In aisle 1.",
+      "B": "In aisle 3.",
+      "C": "At the front of the store.",
+      "D": "Behind the counter."
+    },
+    "answer": "B",
+    "explanation": "The clerk states, 'It's in aisle 3'."
+  },
+  {
+    "id": 8,
+    "section": "Listening",
+    "audio_file": "audio_8.mp3",
+    "dialog": "Teacher: Don't forget, the science fair project is due next Monday.\nRiel: Got it, I'm almost done with mine.",
+    "question": "When is the science fair project due?",
+    "options": {
+      "A": "Tomorrow.",
+      "B": "Next Monday.",
+      "C": "This Friday.",
+      "D": "At the end of the month."
+    },
+    "answer": "B",
+    "explanation": "The teacher reminds, 'the science fair project is due next Monday'."
+  },
+  {
+    "id": 9,
+    "section": "Listening",
+    "audio_file": "audio_9.mp3",
+    "dialog": "Woman: My computer is running so slowly.\nMan: Maybe you need to delete some old files.",
+    "question": "What does the man suggest?",
+    "options": {
+      "A": "Buying a new computer.",
+      "B": "Deleting old files.",
+      "C": "Installing new software.",
+      "D": "Getting a new keyboard."
+    },
+    "answer": "B",
+    "explanation": "The man suggests, 'Maybe you need to delete some old files'."
+  },
+  {
+    "id": 10,
+    "section": "Listening",
+    "audio_file": "audio_10.mp3",
+    "dialog": "Anna: I'm thinking of taking a drawing class.\nBen: That's a great idea! You're really artistic.",
+    "question": "What is Anna considering doing?",
+    "options": {
+      "A": "Taking a cooking class.",
+      "B": "Taking a drawing class.",
+      "C": "Buying art supplies.",
+      "D": "Visiting an art gallery."
+    },
+    "answer": "B",
+    "explanation": "Anna states, 'I'm thinking of taking a drawing class'."
+  },
+  {
+    "id": 11,
+    "section": "Listening",
+    "audio_file": "audio_11.mp3",
+    "dialog": "Riel: I can't find my biology textbook.\nRaffi: Did you check in your locker?",
+    "question": "What is Riel looking for?",
+    "options": {
+      "A": "A notebook.",
+      "B": "A pen.",
+      "C": "A biology textbook.",
+      "D": "Their locker key."
+    },
+    "answer": "C",
+    "explanation": "Riel says, 'I can't find my biology textbook'."
+  },
+  {
+    "id": 12,
+    "section": "Listening",
+    "audio_file": "audio_12.mp3",
+    "dialog": "Customer: How much does this T-shirt cost?\nSalesperson: It's $15, and it's on sale today.",
+    "question": "What is the price of the T-shirt?",
+    "options": {
+      "A": "$10.",
+      "B": "$15.",
+      "C": "$20.",
+      "D": "$25."
+    },
+    "answer": "B",
+    "explanation": "The salesperson states, 'It's $15'."
+  },
+  {
+    "id": 13,
+    "section": "Listening",
+    "audio_file": "audio_13.mp3",
+    "dialog": "Man: I'm really tired. I stayed up late studying for my exam.\nWoman: You should get some rest after that.",
+    "question": "Why is the man tired?",
+    "options": {
+      "A": "He went to a party.",
+      "B": "He worked all night.",
+      "C": "He stayed up late studying.",
+      "D": "He exercised too much."
+    },
+    "answer": "C",
+    "explanation": "The man states, 'I stayed up late studying for my exam'."
+  },
+  {
+    "id": 14,
+    "section": "Listening",
+    "audio_file": "audio_14.mp3",
+    "dialog": "Receptionist: Your appointment with Dr. Smith is at 3 PM.\nPatient: Okay, I'll be there a few minutes early.",
+    "question": "What time is the patient's appointment?",
+    "options": {
+      "A": "At 2 PM.",
+      "B": "At 3 PM.",
+      "C": "At 4 PM.",
+      "D": "At 5 PM."
+    },
+    "answer": "B",
+    "explanation": "The receptionist states, 'Your appointment with Dr. Smith is at 3 PM'."
+  },
+  {
+    "id": 15,
+    "section": "Listening",
+    "audio_file": "audio_15.mp3",
+    "dialog": "Woman: It's raining heavily outside.\nMan: We should take an umbrella if we're going out.",
+    "question": "What does the man suggest they do?",
+    "options": {
+      "A": "Stay inside.",
+      "B": "Go out without an umbrella.",
+      "C": "Take an umbrella.",
+      "D": "Wait for the rain to stop."
+    },
+    "answer": "C",
+    "explanation": "The man suggests, 'We should take an umbrella'."
+  },
+  {
+    "id": 16,
+    "section": "Listening",
+    "audio_file": "audio_16.mp3",
+    "dialog": "Riel: I'm having trouble understanding this chemistry concept.\nProfessor: You can come to my office hours for extra help.",
+    "question": "What does the professor offer?",
+    "options": {
+      "A": "To give a higher grade.",
+      "B": "To extend the deadline.",
+      "C": "Extra help during office hours.",
+      "D": "To change the subject."
+    },
+    "answer": "C",
+    "explanation": "The professor offers, 'You can come to my office hours for extra help'."
+  },
+  {
+    "id": 17,
+    "section": "Listening",
+    "audio_file": "audio_17.mp3",
+    "dialog": "Man: What are you planning to do this summer?\nWoman: I'm thinking of volunteering at the local animal shelter.",
+    "question": "What is the woman considering for the summer?",
+    "options": {
+      "A": "Traveling abroad.",
+      "B": "Taking summer classes.",
+      "C": "Volunteering at an animal shelter.",
+      "D": "Getting a part-time job."
+    },
+    "answer": "C",
+    "explanation": "The woman says, 'I'm thinking of volunteering at the local animal shelter'."
+  },
+  {
+    "id": 18,
+    "section": "Listening",
+    "audio_file": "audio_18.mp3",
+    "dialog": "Customer: This jacket is too small for me.\nSalesperson: We have it in a larger size in the back.",
+    "question": "What is the problem with the jacket?",
+    "options": {
+      "A": "It's too expensive.",
+      "B": "It's the wrong color.",
+      "C": "It's too small.",
+      "D": "It's damaged."
+    },
+    "answer": "C",
+    "explanation": "The customer states, 'This jacket is too small for me'."
+  },
+  {
+    "id": 19,
+    "section": "Listening",
+    "audio_file": "audio_19.mp3",
+    "dialog": "Riel: I forgot my lunch today.\nRaffi: Don't worry, I can share some of mine.",
+    "question": "What does Raffi offer?",
+    "options": {
+      "A": "To buy Riel lunch.",
+      "B": "To share their lunch.",
+      "C": "To go home and get lunch.",
+      "D": "To lend Riel money."
+    },
+    "answer": "B",
+    "explanation": "Raffi offers, 'I can share some of mine'."
+  },
+  {
+    "id": 20,
+    "section": "Listening",
+    "audio_file": "audio_20.mp3",
+    "dialog": "Woman: The concert tonight starts at 7 PM.\nMan: Okay, let's meet there at 6:30.",
+    "question": "What time will the man and woman meet?",
+    "options": {
+      "A": "At 7 PM.",
+      "B": "At 6:30 PM.",
+      "C": "At 6 PM.",
+      "D": "After the concert."
+    },
+    "answer": "B",
+    "explanation": "The man says, 'let's meet there at 6:30'."
+  },
+  {
+    "id": 21,
+    "section": "Listening",
+    "audio_file": "audio_21.mp3",
+    "dialog": "Librarian: Please keep your voices down in the reading room.\nRiel: Oh, sorry. I forgot.",
+    "question": "What does the librarian ask Riel to do?",
+    "options": {
+      "A": "To leave the reading room.",
+      "B": "To speak louder.",
+      "C": "To be quiet.",
+      "D": "To read aloud."
+    },
+    "answer": "C",
+    "explanation": "The librarian states, 'Please keep your voices down', which means to be quiet."
+  },
+  {
+    "id": 22,
+    "section": "Listening",
+    "audio_file": "audio_22.mp3",
+    "dialog": "Man: I can't believe how much homework we have tonight.\nWoman: I know, it's going to be a long evening.",
+    "question": "What is the woman's feeling about the homework?",
+    "options": {
+      "A": "She is excited.",
+      "B": "She is pleased.",
+      "C": "She thinks there is a lot.",
+      "D": "She doesn't have any."
+    },
+    "answer": "C",
+    "explanation": "Her response 'I know, it's going to be a long evening' indicates she thinks there is a lot of homework."
+  },
+  {
+    "id": 23,
+    "section": "Listening",
+    "audio_file": "audio_23.mp3",
+    "dialog": "Tour Guide: The museum closes at 5 PM today.\nVisitor: So, we have about two more hours.",
+    "question": "What time does the museum close?",
+    "options": {
+      "A": "At 3 PM.",
+      "B": "At 4 PM.",
+      "C": "At 5 PM.",
+      "D": "At 6 PM."
+    },
+    "answer": "C",
+    "explanation": "The tour guide states, 'The museum closes at 5 PM today'."
+  },
+  {
+    "id": 24,
+    "section": "Listening",
+    "audio_file": "audio_24.mp3",
+    "dialog": "Riel: What's your favorite subject at school?\nRaffi: Definitely art. I love drawing and painting.",
+    "question": "What is Raffi's favorite subject?",
+    "options": {
+      "A": "Science.",
+      "B": "Math.",
+      "C": "Art.",
+      "D": "History."
+    },
+    "answer": "C",
+    "explanation": "Raffi says, 'Definitely art. I love drawing and painting'."
+  },
+  {
+    "id": 25,
+    "section": "Listening",
+    "audio_file": "audio_25.mp3",
+    "dialog": "Man: I'm feeling a bit hungry. Should we get some snacks?\nWoman: Good idea. There's a vending machine down the hall.",
+    "question": "What does the man suggest?",
+    "options": {
+      "A": "Going to a restaurant.",
+      "B": "Getting some snacks.",
+      "C": "Cooking a meal.",
+      "D": "Ordering takeout."
+    },
+    "answer": "B",
+    "explanation": "The man asks, 'Should we get some snacks?'"
+  },
+  {
+    "id": 26,
+    "section": "Listening",
+    "audio_file": "audio_26.mp3",
+    "dialog": "Manager: Please make sure all reports are submitted by noon tomorrow.\nEmployee: Understood. I'll prioritize that.",
+    "question": "When are the reports due?",
+    "options": {
+      "A": "By noon today.",
+      "B": "By noon tomorrow.",
+      "C": "By the end of the week.",
+      "D": "Next Monday."
+    },
+    "answer": "B",
+    "explanation": "The manager states, 'all reports are submitted by noon tomorrow'."
+  },
+  {
+    "id": 27,
+    "section": "Listening",
+    "audio_file": "audio_27.mp3",
+    "dialog": "Woman: The traffic is really bad today.\nMan: Yeah, there must have been an accident on the highway.",
+    "question": "What is the cause of the bad traffic, according to the man?",
+    "options": {
+      "A": "A holiday.",
+      "B": "An accident.",
+      "C": "Construction work.",
+      "D": "Too many cars."
+    },
+    "answer": "B",
+    "explanation": "The man says, 'there must have been an accident on the highway'."
+  },
+  {
+    "id": 28,
+    "section": "Listening",
+    "audio_file": "audio_28.mp3",
+    "dialog": "Teacher: For our next class, read the article about ancient Rome.\nRiel: Is that the one in our history textbook?",
+    "question": "What should Riel read for the next class?",
+    "options": {
+      "A": "A novel.",
+      "B": "An article about ancient Rome.",
+      "C": "A poem.",
+      "D": "A science report."
+    },
+    "answer": "B",
+    "explanation": "The teacher instructs, 'read the article about ancient Rome'."
+  },
+  {
+    "id": 29,
+    "section": "Listening",
+    "audio_file": "audio_29.mp3",
+    "dialog": "Man: I lost my wallet somewhere.\nWoman: Oh no! Did you check your car?",
+    "question": "What happened to the man?",
+    "options": {
+      "A": "He lost his keys.",
+      "B": "He lost his phone.",
+      "C": "He lost his wallet.",
+      "D": "He lost his bag."
+    },
+    "answer": "C",
+    "explanation": "The man states, 'I lost my wallet somewhere'."
+  },
+  {
+    "id": 30,
+    "section": "Listening",
+    "audio_file": "audio_30.mp3",
+    "dialog": "Woman: I'm going to cook pasta for dinner tonight.\nMan: Sounds delicious! Can I help with anything?",
+    "question": "What is the woman planning to cook?",
+    "options": {
+      "A": "Soup.",
+      "B": "Pizza.",
+      "C": "Pasta.",
+      "D": "Rice."
+    },
+    "answer": "C",
+    "explanation": "The woman says, 'I'm going to cook pasta for dinner tonight'."
+  }
+]
