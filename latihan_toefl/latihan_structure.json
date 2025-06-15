@@ -1,0 +1,457 @@
+[
+  {
+    "id": 1,
+    "section": "Structure",
+    "question": "The children ____ quietly in the library.",
+    "options": {
+      "A": "is reading",
+      "B": "are reading",
+      "C": "reads",
+      "D": "read"
+    },
+    "answer": "B",
+    "explanation": "Subjek 'The children' adalah jamak, dan konteks 'now' atau 'sedang melakukan' memerlukan present continuous, yaitu 'are reading'."
+  },
+  {
+    "id": 2,
+    "section": "Structure",
+    "question": "He has lived in this city ____ 2010.",
+    "options": {
+      "A": "for",
+      "B": "since",
+      "C": "in",
+      "D": "from"
+    },
+    "answer": "B",
+    "explanation": "'Since' digunakan untuk menunjukkan titik waktu awal dari suatu periode yang berlanjut hingga sekarang (present perfect)."
+  },
+  {
+    "id": 3,
+    "section": "Structure",
+    "question": "This is ____ excellent idea!",
+    "options": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "no article"
+    },
+    "answer": "B",
+    "explanation": "Kata 'excellent' diawali dengan bunyi vokal, sehingga menggunakan artikel indefinit 'an'."
+  },
+  {
+    "id": 4,
+    "section": "Structure",
+    "question": "If I ____ you, I would study harder.",
+    "options": {
+      "A": "am",
+      "B": "was",
+      "C": "were",
+      "D": "had been"
+    },
+    "answer": "C",
+    "explanation": "Dalam kalimat pengandaian tipe 2 (hypothetical situations), 'were' digunakan untuk semua subjek, termasuk 'I'."
+  },
+  {
+    "id": 5,
+    "section": "Structure",
+    "question": "She enjoys ____ to music in her free time.",
+    "options": {
+      "A": "listen",
+      "B": "listens",
+      "C": "listening",
+      "D": "to listen"
+    },
+    "answer": "C",
+    "explanation": "Kata kerja 'enjoy' diikuti oleh gerund (kata kerja -ing)."
+  },
+  {
+    "id": 6,
+    "section": "Structure",
+    "question": "The car is parked ____ the building.",
+    "options": {
+      "A": "at",
+      "B": "on",
+      "C": "in front of",
+      "D": "under"
+    },
+    "answer": "C",
+    "explanation": "'In front of' adalah preposisi tempat yang paling sesuai untuk menunjukkan posisi di depan suatu bangunan."
+  },
+  {
+    "id": 7,
+    "section": "Structure",
+    "question": "He arrived ____ the station late.",
+    "options": {
+      "A": "at",
+      "B": "in",
+      "C": "on",
+      "D": "to"
+    },
+    "answer": "A",
+    "explanation": "'At' digunakan untuk lokasi atau tempat tertentu, seperti stasiun."
+  },
+  {
+    "id": 8,
+    "section": "Structure",
+    "question": "Both my brother and sister ____ good at math.",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "was",
+      "D": "be"
+    },
+    "answer": "B",
+    "explanation": "Frasa 'Both... and...' selalu diikuti oleh kata kerja jamak."
+  },
+  {
+    "id": 9,
+    "section": "Structure",
+    "question": "He has never ____ sushi before.",
+    "options": {
+      "A": "eat",
+      "B": "ate",
+      "C": "eaten",
+      "D": "eating"
+    },
+    "answer": "C",
+    "explanation": "Setelah 'has/have' (present perfect), bentuk kata kerja yang digunakan adalah past participle ('eaten')."
+  },
+  {
+    "id": 10,
+    "section": "Structure",
+    "question": "The new policy will ____ next month.",
+    "options": {
+      "A": "take effect",
+      "B": "takes effect",
+      "C": "took effect",
+      "D": "taken effect"
+    },
+    "answer": "A",
+    "explanation": "Frasa idiomatik 'take effect' berarti 'mulai berlaku'. Setelah modal 'will', digunakan bentuk dasar kata kerja."
+  },
+  {
+    "id": 11,
+    "section": "Structure",
+    "question": "She needs ____ a doctor.",
+    "options": {
+      "A": "see",
+      "B": "sees",
+      "C": "to see",
+      "D": "seeing"
+    },
+    "answer": "C",
+    "explanation": "Kata kerja 'need' diikuti oleh to-infinitive."
+  },
+  {
+    "id": 12,
+    "section": "Structure",
+    "question": "Despite ____ hard, he failed the exam.",
+    "options": {
+      "A": "he studied",
+      "B": "of studying",
+      "C": "studying",
+      "D": "he studies"
+    },
+    "answer": "C",
+    "explanation": "'Despite' diikuti oleh noun phrase atau gerund. 'Studying' adalah gerund yang benar."
+  },
+  {
+    "id": 13,
+    "section": "Structure",
+    "question": "Neither John nor his friends ____ present at the meeting.",
+    "options": {
+      "A": "is",
+      "B": "was",
+      "C": "are",
+      "D": "were"
+    },
+    "answer": "D",
+    "explanation": "Dalam konstruksi 'neither...nor', kata kerja setuju dengan subjek yang paling dekat. 'Friends' adalah jamak, sehingga 'were' (past tense) adalah benar."
+  },
+  {
+    "id": 14,
+    "section": "Structure",
+    "question": "The more you read, the ____ your knowledge will become.",
+    "options": {
+      "A": "great",
+      "B": "greater",
+      "C": "greatest",
+      "D": "more great"
+    },
+    "answer": "B",
+    "explanation": "Ini adalah struktur paralel komparatif ('the more..., the greater...')."
+  },
+  {
+    "id": 15,
+    "section": "Structure",
+    "question": "He advised ____ her decision carefully.",
+    "options": {
+      "A": "consider",
+      "B": "to consider",
+      "C": "considering",
+      "D": "considered"
+    },
+    "answer": "B",
+    "explanation": "Kata kerja 'advise' dapat diikuti oleh to-infinitive ketika ada objek di antara 'advise' dan infinitive (He advised her to consider)."
+  },
+  {
+    "id": 16,
+    "section": "Structure",
+    "question": "She prefers tea ____ coffee.",
+    "options": {
+      "A": "than",
+      "B": "to",
+      "C": "over",
+      "D": "and"
+    },
+    "answer": "B",
+    "explanation": "Kata kerja 'prefer' secara idiomatik diikuti oleh preposisi 'to' saat membandingkan dua hal."
+  },
+  {
+    "id": 17,
+    "section": "Structure",
+    "question": "The student ____ finished his assignment.",
+    "options": {
+      "A": "has",
+      "B": "have",
+      "C": "is",
+      "D": "are"
+    },
+    "answer": "A",
+    "explanation": "Subjek 'The student' adalah tunggal, dan 'finished' adalah past participle, jadi present perfect 'has finished' adalah benar."
+  },
+  {
+    "id": 18,
+    "section": "Structure",
+    "question": "It was ____ a long journey that we were exhausted.",
+    "options": {
+      "A": "so",
+      "B": "such",
+      "C": "very",
+      "D": "too"
+    },
+    "answer": "B",
+    "explanation": "'Such a/an + adjective + noun + that clause' digunakan untuk menekankan akibat dari suatu noun phrase."
+  },
+  {
+    "id": 19,
+    "section": "Structure",
+    "question": "The news ____ always surprising.",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "were",
+      "D": "be"
+    },
+    "answer": "A",
+    "explanation": "Kata benda 'news' (berita) selalu dianggap singular dalam bahasa Inggris, meskipun berakhiran -s."
+  },
+  {
+    "id": 20,
+    "section": "Structure",
+    "question": "Neither of the books ____ interesting.",
+    "options": {
+      "A": "are",
+      "B": "is",
+      "C": "were",
+      "D": "be"
+    },
+    "answer": "B",
+    "explanation": "Frasa 'Neither of' diikuti oleh kata kerja tunggal karena mengacu pada 'not one'."
+  },
+  {
+    "id": 21,
+    "section": "Structure",
+    "question": "He decided ____ a new car.",
+    "options": {
+      "A": "buy",
+      "B": "buys",
+      "C": "to buy",
+      "D": "buying"
+    },
+    "answer": "C",
+    "explanation": "Kata kerja 'decide' diikuti oleh to-infinitive."
+  },
+  {
+    "id": 22,
+    "section": "Structure",
+    "question": "The man ____ standing over there is my uncle.",
+    "options": {
+      "A": "who",
+      "B": "whom",
+      "C": "whose",
+      "D": "which"
+    },
+    "answer": "A",
+    "explanation": "'Who' digunakan sebagai subjek dari klausa relatif yang merujuk pada orang."
+  },
+  {
+    "id": 23,
+    "section": "Structure",
+    "question": "She sings ____ than her sister.",
+    "options": {
+      "A": "good",
+      "B": "well",
+      "C": "better",
+      "D": "best"
+    },
+    "answer": "C",
+    "explanation": "'Better' adalah bentuk komparatif dari adverb 'well', digunakan untuk membandingkan bagaimana mereka bernyanyi."
+  },
+  {
+    "id": 24,
+    "section": "Structure",
+    "question": "They were walking ____ the park.",
+    "options": {
+      "A": "in",
+      "B": "into",
+      "C": "through",
+      "D": "on"
+    },
+    "answer": "C",
+    "explanation": "'Through' menunjukkan pergerakan dari satu sisi ke sisi lain dari suatu area."
+  },
+  {
+    "id": 25,
+    "section": "Structure",
+    "question": "Every student ____ to participate in the event.",
+    "options": {
+      "A": "have",
+      "B": "has",
+      "C": "are",
+      "D": "were"
+    },
+    "answer": "B",
+    "explanation": "Kata 'Every' membuat subjek menjadi tunggal, sehingga diikuti oleh kata kerja tunggal 'has'."
+  },
+  {
+    "id": 26,
+    "section": "Structure",
+    "question": "The manager told ____ to finish the report.",
+    "options": {
+      "A": "I",
+      "B": "my",
+      "C": "me",
+      "D": "mine"
+    },
+    "answer": "C",
+    "explanation": "Setelah kata kerja transitif seperti 'told', dibutuhkan objek pronoun ('me')."
+  },
+  {
+    "id": 27,
+    "section": "Structure",
+    "question": "It's too cold ____ swimming today.",
+    "options": {
+      "A": "go",
+      "B": "to go",
+      "C": "going",
+      "D": "went"
+    },
+    "answer": "B",
+    "explanation": "Struktur 'too + adjective + to-infinitive' digunakan untuk menyatakan sesuatu yang terlalu ekstrem untuk melakukan tindakan."
+  },
+  {
+    "id": 28,
+    "section": "Structure",
+    "question": "She is not only smart ____ also kind.",
+    "options": {
+      "A": "but",
+      "B": "and",
+      "C": "as",
+      "D": "so"
+    },
+    "answer": "A",
+    "explanation": "Konjungsi korelatif yang benar adalah 'not only... but also...'."
+  },
+  {
+    "id": 29,
+    "section": "Structure",
+    "question": "The painting ____ on the wall is very old.",
+    "options": {
+      "A": "hang",
+      "B": "hanging",
+      "C": "hanged",
+      "D": "hangs"
+    },
+    "answer": "B",
+    "explanation": "'Hanging' adalah present participle yang berfungsi sebagai adjektif, menjelaskan 'the painting' yang sedang dalam kondisi tergantung."
+  },
+  {
+    "id": 30,
+    "section": "Structure",
+    "question": "He graduated ____ university in 2020.",
+    "options": {
+      "A": "from",
+      "B": "at",
+      "C": "in",
+      "D": "on"
+    },
+    "answer": "A",
+    "explanation": "Frasa yang benar adalah 'graduate from' untuk menunjukkan institusi tempat seseorang lulus."
+  },
+  {
+    "id": 31,
+    "section": "Structure",
+    "question": "The dog wagged ____ tail excitedly.",
+    "options": {
+      "A": "its",
+      "B": "it's",
+      "C": "it",
+      "D": "their"
+    },
+    "answer": "A",
+    "explanation": "'Its' adalah kata ganti kepemilikan untuk benda atau hewan. 'It's' adalah singkatan dari 'it is' atau 'it has'."
+  },
+  {
+    "id": 32,
+    "section": "Structure",
+    "question": "The news report ____ that the economy is improving.",
+    "options": {
+      "A": "state",
+      "B": "states",
+      "C": "stating",
+      "D": "stated"
+    },
+    "answer": "B",
+    "explanation": "Subjek 'The news report' adalah tunggal, sehingga memerlukan kata kerja 'states' dalam simple present."
+  },
+  {
+    "id": 33,
+    "section": "Structure",
+    "question": "She tried ____ the door, but it was locked.",
+    "options": {
+      "A": "open",
+      "B": "to open",
+      "C": "opening",
+      "D": "opened"
+    },
+    "answer": "B",
+    "explanation": "'Try + to-infinitive' berarti melakukan upaya atau percobaan untuk melakukan sesuatu."
+  },
+  {
+    "id": 34,
+    "section": "Structure",
+    "question": "They arrived ____ time for the meeting.",
+    "options": {
+      "A": "in",
+      "B": "on",
+      "C": "at",
+      "D": "by"
+    },
+    "answer": "B",
+    "explanation": "'On time' berarti tepat waktu, tidak terlambat. 'In time' berarti sebelum batas waktu."
+  },
+  {
+    "id": 35,
+    "section": "Structure",
+    "question": "He is capable ____ solving complex problems.",
+    "options": {
+      "A": "in",
+      "B": "on",
+      "C": "of",
+      "D": "for"
+    },
+    "answer": "C",
+    "explanation": "Frasa yang benar adalah 'capable of' yang diikuti oleh gerund atau noun."
+  }
+]

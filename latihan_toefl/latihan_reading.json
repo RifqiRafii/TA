@@ -1,492 +1,492 @@
 [
-    {
-        "id": 1,
-        "section": "Reading",
-        "passage": "The invention of the printing press by Johannes Gutenberg in the 15th century revolutionized the way information was distributed and led to a surge in literacy across Europe.",
-        "question": "Reading question number 1: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+  {
+    "id": 1,
+    "section": "Reading",
+    "passage": "The invention of the **printing press** by Johannes Gutenberg in the 15th century revolutionized the way information was distributed and led to a surge in literacy across Europe. Before this, books were copied by hand, a slow and expensive process that limited access to knowledge.",
+    "question": "What was a significant impact of the printing press?",
+    "options": {
+      "A": "It made books more expensive.",
+      "B": "It slowed down information distribution.",
+      "C": "It increased literacy.",
+      "D": "It reduced the need for education."
     },
-    {
-        "id": 2,
-        "section": "Reading",
-        "passage": "The Amazon rainforest, often referred to as the 'lungs of the planet', plays a vital role in maintaining the Earth’s climate by absorbing vast amounts of carbon dioxide.",
-        "question": "Reading question number 2: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    "answer": "C",
+    "explanation": "The passage states that the printing press 'led to a surge in literacy across Europe,' indicating an increase in people's ability to read and write."
+  },
+  {
+    "id": 2,
+    "section": "Reading",
+    "passage": "The **Amazon rainforest**, often referred to as the 'lungs of the planet', plays a vital role in maintaining the Earth’s climate by absorbing vast amounts of carbon dioxide and producing oxygen. This immense biodiversity hotspot is home to millions of species.",
+    "question": "What is the primary function of the Amazon rainforest mentioned in the passage?",
+    "options": {
+      "A": "Generating electricity.",
+      "B": "Regulating Earth's climate.",
+      "C": "Providing a source of minerals.",
+      "D": "Creating new animal species."
     },
-    {
-        "id": 3,
-        "section": "Reading",
-        "passage": "Volcanoes are geological structures formed by the eruption of molten rock from beneath the Earth's crust. They are often found at tectonic plate boundaries.",
-        "question": "Reading question number 3: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    "answer": "B",
+    "explanation": "The passage highlights its 'vital role in maintaining the Earth’s climate by absorbing vast amounts of carbon dioxide and producing oxygen.'"
+  },
+  {
+    "id": 3,
+    "section": "Reading",
+    "passage": "**Volcanoes** are geological structures formed by the eruption of molten rock (magma) from beneath the Earth's crust. They are often found at tectonic plate boundaries where plates either collide or pull apart. Volcanic eruptions can create new landforms but also pose significant hazards to nearby populations.",
+    "question": "Where are volcanoes frequently located?",
+    "options": {
+      "A": "In the middle of oceans.",
+      "B": "At tectonic plate boundaries.",
+      "C": "Only in cold regions.",
+      "D": "Deep underground caves."
     },
-    {
-        "id": 4,
-        "section": "Reading",
-        "passage": "The process of natural selection, as proposed by Charles Darwin, explains how species evolve over time due to variations that improve survival and reproduction.",
-        "question": "Reading question number 4: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    "answer": "B",
+    "explanation": "The passage states, 'They are often found at tectonic plate boundaries.'"
+  },
+  {
+    "id": 4,
+    "section": "Reading",
+    "passage": "The process of **natural selection**, as proposed by Charles Darwin, explains how species evolve over time. Individuals with traits better suited to their environment are more likely to survive and reproduce, passing those advantageous traits to their offspring.",
+    "question": "According to Darwin's theory, what happens to individuals with advantageous traits?",
+    "options": {
+      "A": "They become extinct quickly.",
+      "B": "They are less likely to reproduce.",
+      "C": "They are more likely to survive and reproduce.",
+      "D": "They lose their traits over time."
     },
-    {
-        "id": 5,
-        "section": "Reading",
-        "passage": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. It primarily occurs in the leaves of plants.",
-        "question": "Reading question number 5: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    "answer": "C",
+    "explanation": "The passage explains, 'Individuals with traits better suited to their environment are more likely to survive and reproduce...'"
+  },
+  {
+    "id": 5,
+    "section": "Reading",
+    "passage": "**Photosynthesis** is the process by which green plants, algae, and some bacteria convert light energy into chemical energy, stored in glucose. This process is crucial for life on Earth as it produces the oxygen we breathe and the food energy for most ecosystems.",
+    "question": "What is a key product of photosynthesis?",
+    "options": {
+      "A": "Carbon dioxide.",
+      "B": "Nitrogen.",
+      "C": "Oxygen.",
+      "D": "Methane."
     },
-    {
-        "id": 6,
-        "section": "Reading",
-        "passage": "The invention of the printing press by Johannes Gutenberg in the 15th century revolutionized the way information was distributed and led to a surge in literacy across Europe.",
-        "question": "Reading question number 6: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    "answer": "C",
+    "explanation": "The passage mentions that photosynthesis 'produces the oxygen we breathe'."
+  },
+  {
+    "id": 6,
+    "section": "Reading",
+    "passage": "**Climate change** refers to long-term shifts in temperatures and weather patterns. These shifts may be natural, but since the 1800s, human activities have been the main driver of climate change, primarily due to the burning of fossil fuels like coal, oil, and gas, which produces heat-trapping gases.",
+    "question": "What is identified as the main cause of recent climate change?",
+    "options": {
+      "A": "Natural weather cycles.",
+      "B": "Volcanic eruptions.",
+      "C": "Burning of fossil fuels.",
+      "D": "Deforestation alone."
     },
-    {
-        "id": 7,
-        "section": "Reading",
-        "passage": "The Amazon rainforest, often referred to as the 'lungs of the planet', plays a vital role in maintaining the Earth’s climate by absorbing vast amounts of carbon dioxide.",
-        "question": "Reading question number 7: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    "answer": "C",
+    "explanation": "The passage states, 'human activities have been the main driver of climate change, primarily due to the burning of fossil fuels...'"
+  },
+  {
+    "id": 7,
+    "section": "Reading",
+    "passage": "The **Internet** began as a U.S. Department of Defense project in the 1960s, designed to allow computers to communicate even if part of the network was destroyed. It has since evolved into a global network, transforming communication, commerce, and access to information worldwide.",
+    "question": "What was the initial purpose of the Internet?",
+    "options": {
+      "A": "To create online shopping platforms.",
+      "B": "To enable global video calls.",
+      "C": "To allow computers to communicate resiliently.",
+      "D": "To store vast amounts of data."
     },
-    {
-        "id": 8,
-        "section": "Reading",
-        "passage": "Volcanoes are geological structures formed by the eruption of molten rock from beneath the Earth's crust. They are often found at tectonic plate boundaries.",
-        "question": "Reading question number 8: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    "answer": "C",
+    "explanation": "It was 'designed to allow computers to communicate even if part of the network was destroyed.'"
+  },
+  {
+    "id": 8,
+    "section": "Reading",
+    "passage": "**Recycling** is the process of converting waste materials into new materials and objects. This helps reduce the consumption of fresh raw materials, cut down on energy usage, and lower air and water pollution from waste disposal.",
+    "question": "Which of the following is a benefit of recycling?",
+    "options": {
+      "A": "Increases raw material consumption.",
+      "B": "Reduces energy usage.",
+      "C": "Contributes to more pollution.",
+      "D": "Creates more landfills."
     },
-    {
-        "id": 9,
-        "section": "Reading",
-        "passage": "The process of natural selection, as proposed by Charles Darwin, explains how species evolve over time due to variations that improve survival and reproduction.",
-        "question": "Reading question number 9: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    "answer": "B",
+    "explanation": "The passage explicitly states recycling helps 'cut down on energy usage.'"
+  },
+  {
+    "id": 9,
+    "section": "Reading",
+    "passage": "**Bees** play a crucial role in ecosystems as pollinators. They transfer pollen from one flower to another, enabling plants to produce fruits and seeds. Without bees, many plants would not be able to reproduce, impacting food supplies for humans and other animals.",
+    "question": "What is the main ecological role of bees?",
+    "options": {
+      "A": "Producing honey for consumption.",
+      "B": "Serving as a food source for birds.",
+      "C": "Acting as pollinators.",
+      "D": "Building complex nests."
     },
-    {
-        "id": 10,
-        "section": "Reading",
-        "passage": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. It primarily occurs in the leaves of plants.",
-        "question": "Reading question number 10: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    "answer": "C",
+    "explanation": "The passage states, 'Bees play a crucial role in ecosystems as pollinators.'"
+  },
+  {
+    "id": 10,
+    "section": "Reading",
+    "passage": "**The human brain** is an incredibly complex organ, responsible for thought, memory, emotion, and movement. It processes sensory information, regulates body functions, and enables learning. Weighing about 1.5 kilograms, it uses 20% of the body's total oxygen and calories.",
+    "question": "What percentage of the body's oxygen does the human brain use?",
+    "options": {
+      "A": "5%",
+      "B": "10%",
+      "C": "15%",
+      "D": "20%"
     },
-    {
-        "id": 11,
-        "section": "Reading",
-        "passage": "The invention of the printing press by Johannes Gutenberg in the 15th century revolutionized the way information was distributed and led to a surge in literacy across Europe.",
-        "question": "Reading question number 11: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    "answer": "D",
+    "explanation": "The passage states it 'uses 20% of the body's total oxygen and calories.'"
+  },
+  {
+    "id": 11,
+    "section": "Reading",
+    "passage": "The **Great Pyramid of Giza**, built around 2580–2560 BC, served as a tomb for Pharaoh Khufu. It stood as the tallest man-made structure for over 3,800 years and is a testament to the advanced engineering skills of ancient Egyptians.",
+    "question": "What was the primary purpose of the Great Pyramid of Giza?",
+    "options": {
+      "A": "A temple for worship.",
+      "B": "A royal palace.",
+      "C": "A tomb for a pharaoh.",
+      "D": "An observatory."
     },
-    {
-        "id": 12,
-        "section": "Reading",
-        "passage": "The Amazon rainforest, often referred to as the 'lungs of the planet', plays a vital role in maintaining the Earth’s climate by absorbing vast amounts of carbon dioxide.",
-        "question": "Reading question number 12: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    "answer": "C",
+    "explanation": "The passage states, 'It served as a tomb for Pharaoh Khufu.'"
+  },
+  {
+    "id": 12,
+    "section": "Reading",
+    "passage": "**Coffee** is one of the world's most popular beverages, consumed daily by billions. It is brewed from roasted coffee beans, the seeds of berries from the Coffea plant. The stimulating effect of coffee is mainly due to its caffeine content.",
+    "question": "What is the main active ingredient in coffee that provides a stimulating effect?",
+    "options": {
+      "A": "Sugar.",
+      "B": "Chlorophyll.",
+      "C": "Caffeine.",
+      "D": "Protein."
     },
-    {
-        "id": 13,
-        "section": "Reading",
-        "passage": "Volcanoes are geological structures formed by the eruption of molten rock from beneath the Earth's crust. They are often found at tectonic plate boundaries.",
-        "question": "Reading question number 13: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    "answer": "C",
+    "explanation": "The passage notes, 'The stimulating effect of coffee is mainly due to its caffeine content.'"
+  },
+  {
+    "id": 13,
+    "section": "Reading",
+    "passage": "**Renewable energy** sources, such as solar, wind, and hydro power, are derived from natural processes that are continuously replenished. Unlike fossil fuels, they produce little to no greenhouse gas emissions, making them vital for combating climate change.",
+    "question": "What is a key characteristic of renewable energy sources?",
+    "options": {
+      "A": "They are finite and will run out.",
+      "B": "They produce significant greenhouse gases.",
+      "C": "They are continuously replenished by nature.",
+      "D": "They are difficult to harness."
     },
-    {
-        "id": 14,
-        "section": "Reading",
-        "passage": "The process of natural selection, as proposed by Charles Darwin, explains how species evolve over time due to variations that improve survival and reproduction.",
-        "question": "Reading question number 14: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    "answer": "C",
+    "explanation": "The passage states they 'are derived from natural processes that are continuously replenished.'"
+  },
+  {
+    "id": 14,
+    "section": "Reading",
+    "passage": "**Smartphones** have become ubiquitous tools in modern society, offering capabilities far beyond basic communication. They integrate cameras, internet access, GPS, and a vast array of applications, profoundly changing how people interact, work, and access information.",
+    "question": "Beyond communication, what is another significant capability of smartphones?",
+    "options": {
+      "A": "Only making phone calls.",
+      "B": "Accessing the internet.",
+      "C": "Washing dishes.",
+      "D": "Flying airplanes."
     },
-    {
-        "id": 15,
-        "section": "Reading",
-        "passage": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. It primarily occurs in the leaves of plants.",
-        "question": "Reading question number 15: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    "answer": "B",
+    "explanation": "The passage lists 'internet access' as one of their integrated capabilities."
+  },
+  {
+    "id": 15,
+    "section": "Reading",
+    "passage": "**Reading** is a complex cognitive process of decoding symbols to construct meaning. It is fundamental to education and personal development, allowing individuals to acquire new knowledge, understand diverse perspectives, and engage with complex ideas.",
+    "question": "What is one benefit of reading mentioned in the passage?",
+    "options": {
+      "A": "It simplifies complex ideas.",
+      "B": "It limits personal development.",
+      "C": "It helps acquire new knowledge.",
+      "D": "It replaces direct experience."
     },
-    {
-        "id": 16,
-        "section": "Reading",
-        "passage": "The invention of the printing press by Johannes Gutenberg in the 15th century revolutionized the way information was distributed and led to a surge in literacy across Europe.",
-        "question": "Reading question number 16: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    "answer": "C",
+    "explanation": "The passage states reading allows individuals to 'acquire new knowledge'."
+  },
+  {
+    "id": 16,
+    "section": "Reading",
+    "passage": "**Sleep** is a naturally recurring state of mind and body, characterized by altered consciousness, reduced sensory activity, and inhibited voluntary muscle movements. It is essential for physical and mental health, allowing the body to repair and the brain to consolidate memories.",
+    "question": "What happens to voluntary muscle movements during sleep?",
+    "options": {
+      "A": "They become more active.",
+      "B": "They are inhibited.",
+      "C": "They cause dreams.",
+      "D": "They lead to physical repair."
     },
-    {
-        "id": 17,
-        "section": "Reading",
-        "passage": "The Amazon rainforest, often referred to as the 'lungs of the planet', plays a vital role in maintaining the Earth’s climate by absorbing vast amounts of carbon dioxide.",
-        "question": "Reading question number 17: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    "answer": "B",
+    "explanation": "The passage notes sleep is characterized by 'inhibited voluntary muscle movements.'"
+  },
+  {
+    "id": 17,
+    "section": "Reading",
+    "passage": "**The Mona Lisa**, painted by Leonardo da Vinci, is one of the most famous artworks in history. Its enigmatic smile has fascinated viewers for centuries. Currently housed in the Louvre Museum in Paris, it remains a subject of art historical debate and public adoration.",
+    "question": "Where is the Mona Lisa currently located?",
+    "options": {
+      "A": "London.",
+      "B": "Rome.",
+      "C": "Paris.",
+      "D": "Florence."
     },
-    {
-        "id": 18,
-        "section": "Reading",
-        "passage": "Volcanoes are geological structures formed by the eruption of molten rock from beneath the Earth's crust. They are often found at tectonic plate boundaries.",
-        "question": "Reading question number 18: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    "answer": "C",
+    "explanation": "The passage states, 'Currently housed in the Louvre Museum in Paris'."
+  },
+  {
+    "id": 18,
+    "section": "Reading",
+    "passage": "**Water** is an inorganic, transparent, tasteless, odorless, and nearly colorless chemical substance, which is the main constituent of Earth's hydrosphere and the fluids of all known living organisms. It is vital for all known forms of life, despite providing no calories or organic nutrients.",
+    "question": "What characteristic is NOT attributed to water in the passage?",
+    "options": {
+      "A": "Transparent.",
+      "B": "Tasteless.",
+      "C": "Provides calories.",
+      "D": "Odorless."
     },
-    {
-        "id": 19,
-        "section": "Reading",
-        "passage": "The process of natural selection, as proposed by Charles Darwin, explains how species evolve over time due to variations that improve survival and reproduction.",
-        "question": "Reading question number 19: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    "answer": "C",
+    "explanation": "The passage states water is vital 'despite providing no calories or organic nutrients.'"
+  },
+  {
+    "id": 19,
+    "section": "Reading",
+    "passage": "**Deserts** are arid regions that receive very little precipitation. Despite their harsh conditions, deserts support unique ecosystems adapted to extreme temperatures and water scarcity. Plants like cacti and animals like camels have developed specialized ways to survive.",
+    "question": "What is a defining characteristic of deserts?",
+    "options": {
+      "A": "Abundant rainfall.",
+      "B": "High humidity.",
+      "C": "Very little precipitation.",
+      "D": "Lush vegetation."
     },
-    {
-        "id": 20,
-        "section": "Reading",
-        "passage": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. It primarily occurs in the leaves of plants.",
-        "question": "Reading question number 20: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    "answer": "C",
+    "explanation": "The passage defines deserts as 'arid regions that receive very little precipitation.'"
+  },
+  {
+    "id": 20,
+    "section": "Reading",
+    "passage": "**Gravity** is a fundamental force of nature that attracts any objects with mass. On Earth, gravity is what gives weight to physical objects and causes them to fall toward the ground. It also dictates the orbits of planets around stars.",
+    "question": "What effect does gravity have on objects on Earth?",
+    "options": {
+      "A": "It makes them float.",
+      "B": "It gives them weight and causes them to fall.",
+      "C": "It makes them lighter.",
+      "D": "It pushes them away from the ground."
     },
-    {
-        "id": 21,
-        "section": "Reading",
-        "passage": "The invention of the printing press by Johannes Gutenberg in the 15th century revolutionized the way information was distributed and led to a surge in literacy across Europe.",
-        "question": "Reading question number 21: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    "answer": "B",
+    "explanation": "The passage states, 'On Earth, gravity is what gives weight to physical objects and causes them to fall toward the ground.'"
+  },
+  {
+    "id": 21,
+    "section": "Reading",
+    "passage": "**The Industrial Revolution**, beginning in the late 18th century, transformed economies from agrarian and handicraft-based to industrial and machine-manufacturing based. This era saw rapid advancements in technology, particularly in textiles, steam power, and iron production.",
+    "question": "What marked the beginning of the Industrial Revolution?",
+    "options": {
+      "A": "A shift to farming-only economies.",
+      "B": "Transition to machine manufacturing.",
+      "C": "Decline in technological advancements.",
+      "D": "Emphasis on handmade goods."
     },
-    {
-        "id": 22,
-        "section": "Reading",
-        "passage": "The Amazon rainforest, often referred to as the 'lungs of the planet', plays a vital role in maintaining the Earth’s climate by absorbing vast amounts of carbon dioxide.",
-        "question": "Reading question number 22: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    "answer": "B",
+    "explanation": "The passage describes it as transforming economies 'from agrarian and handicraft-based to industrial and machine-manufacturing based.'"
+  },
+  {
+    "id": 22,
+    "section": "Reading",
+    "passage": "**Antibiotics** are powerful medicines that fight bacterial infections. They work by killing bacteria or preventing them from growing. However, overuse or misuse can lead to antibiotic resistance, making these drugs less effective over time.",
+    "question": "What is a potential negative consequence of antibiotic misuse?",
+    "options": {
+      "A": "Faster healing from infections.",
+      "B": "Increased effectiveness of the drugs.",
+      "C": "Development of antibiotic resistance.",
+      "D": "Improved human immune systems."
     },
-    {
-        "id": 23,
-        "section": "Reading",
-        "passage": "Volcanoes are geological structures formed by the eruption of molten rock from beneath the Earth's crust. They are often found at tectonic plate boundaries.",
-        "question": "Reading question number 23: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    "answer": "C",
+    "explanation": "The passage warns that 'overuse or misuse can lead to antibiotic resistance.'"
+  },
+  {
+    "id": 23,
+    "section": "Reading",
+    "passage": "**The human eye** is a complex optical instrument that collects light from the visible world and converts it into electrical signals. These signals are then sent to the brain, which interprets them as images. The retina, a layer of light-sensitive cells at the back of the eye, plays a crucial role in this process.",
+    "question": "What part of the eye is responsible for converting light into electrical signals?",
+    "options": {
+      "A": "The pupil.",
+      "B": "The iris.",
+      "C": "The lens.",
+      "D": "The retina."
     },
-    {
-        "id": 24,
-        "section": "Reading",
-        "passage": "The process of natural selection, as proposed by Charles Darwin, explains how species evolve over time due to variations that improve survival and reproduction.",
-        "question": "Reading question number 24: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    "answer": "D",
+    "explanation": "The passage states, 'The retina, a layer of light-sensitive cells at the back of the eye, plays a crucial role in this process.'"
+  },
+  {
+    "id": 24,
+    "section": "Reading",
+    "passage": "**Robotics** is a branch of engineering and computer science that deals with the design, construction, operation, and application of robots. Robots are increasingly used in manufacturing, healthcare, and exploration for tasks that are dangerous, repetitive, or require high precision.",
+    "question": "In which field are robots NOT typically used as mentioned?",
+    "options": {
+      "A": "Manufacturing.",
+      "B": "Healthcare.",
+      "C": "Agriculture for planting crops.",
+      "D": "Exploration."
     },
-    {
-        "id": 25,
-        "section": "Reading",
-        "passage": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. It primarily occurs in the leaves of plants.",
-        "question": "Reading question number 25: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    "answer": "C",
+    "explanation": "The passage lists manufacturing, healthcare, and exploration, but not specifically agriculture for planting crops."
+  },
+  {
+    "id": 25,
+    "section": "Reading",
+    "passage": "**Coral reefs** are diverse underwater ecosystems supported by colonies of polyps that secrete calcium carbonate. They are vital for marine biodiversity and protect coastlines from erosion, but they face severe threats from ocean acidification and rising temperatures.",
+    "question": "What substance do coral polyps secrete to build reefs?",
+    "options": {
+      "A": "Sodium chloride.",
+      "B": "Calcium carbonate.",
+      "C": "Magnesium sulfate.",
+      "D": "Potassium iodide."
     },
-    {
-        "id": 26,
-        "section": "Reading",
-        "passage": "The invention of the printing press by Johannes Gutenberg in the 15th century revolutionized the way information was distributed and led to a surge in literacy across Europe.",
-        "question": "Reading question number 26: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    "answer": "B",
+    "explanation": "The passage states they are 'supported by colonies of polyps that secrete calcium carbonate.'"
+  },
+  {
+    "id": 26,
+    "section": "Reading",
+    "passage": "**The Internet of Things (IoT)** refers to the network of physical objects embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the internet. This includes smart home devices, wearable tech, and industrial sensors.",
+    "question": "What is the primary function of devices in the Internet of Things (IoT)?",
+    "options": {
+      "A": "To create new types of software.",
+      "B": "To exchange data over the internet.",
+      "C": "To replace all human interaction.",
+      "D": "To function without any power."
     },
-    {
-        "id": 27,
-        "section": "Reading",
-        "passage": "The Amazon rainforest, often referred to as the 'lungs of the planet', plays a vital role in maintaining the Earth’s climate by absorbing vast amounts of carbon dioxide.",
-        "question": "Reading question number 27: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    "answer": "B",
+    "explanation": "The passage states their purpose is 'connecting and exchanging data with other devices and systems over the internet.'"
+  },
+  {
+    "id": 27,
+    "section": "Reading",
+    "passage": "**Genetic engineering** is the direct manipulation of an organism's genes using biotechnology. It is used to alter the characteristics of an organism, such as creating disease-resistant crops or developing new medicines. This technology raises both great promise and ethical concerns.",
+    "question": "What is one application of genetic engineering mentioned?",
+    "options": {
+      "A": "Predicting weather patterns.",
+      "B": "Creating disease-resistant crops.",
+      "C": "Building faster computers.",
+      "D": "Improving driving skills."
     },
-    {
-        "id": 28,
-        "section": "Reading",
-        "passage": "Volcanoes are geological structures formed by the eruption of molten rock from beneath the Earth's crust. They are often found at tectonic plate boundaries.",
-        "question": "Reading question number 28: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    "answer": "B",
+    "explanation": "The passage lists 'creating disease-resistant crops' as an application."
+  },
+  {
+    "id": 28,
+    "section": "Reading",
+    "passage": "**Migration** is the seasonal movement of animals from one region to another. This movement is often triggered by changes in weather patterns, availability of food, or breeding cycles. Birds, insects, and mammals undertake incredible journeys across continents.",
+    "question": "What often triggers animal migration?",
+    "options": {
+      "A": "Sudden loud noises.",
+      "B": "Fixed daily routines.",
+      "C": "Changes in weather or food availability.",
+      "D": "The presence of humans."
     },
-    {
-        "id": 29,
-        "section": "Reading",
-        "passage": "The process of natural selection, as proposed by Charles Darwin, explains how species evolve over time due to variations that improve survival and reproduction.",
-        "question": "Reading question number 29: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    "answer": "C",
+    "explanation": "The passage states it's 'often triggered by changes in weather patterns, availability of food, or breeding cycles.'"
+  },
+  {
+    "id": 29,
+    "section": "Reading",
+    "passage": "**Composting** is a natural process of recycling organic matter, such as leaves and food scraps, into a rich soil amendment called compost. It enriches soil, helps retain moisture, and reduces the need for chemical fertilizers.",
+    "question": "What is a benefit of composting?",
+    "options": {
+      "A": "It creates more garbage.",
+      "B": "It requires expensive chemicals.",
+      "C": "It enriches the soil.",
+      "D": "It eliminates all insects."
     },
-    {
-        "id": 30,
-        "section": "Reading",
-        "passage": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. It primarily occurs in the leaves of plants.",
-        "question": "Reading question number 30: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    "answer": "C",
+    "explanation": "The passage states, 'It enriches soil, helps retain moisture...'"
+  },
+  {
+    "id": 30,
+    "section": "Reading",
+    "passage": "**Artificial intelligence (AI)** refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. It can range from simple expert systems to complex machine learning applications capable of self-improvement.",
+    "question": "What is AI essentially designed to do?",
+    "options": {
+      "A": "Replace all human jobs.",
+      "B": "Simulate human intelligence in machines.",
+      "C": "Control weather patterns.",
+      "D": "Develop new biological species."
     },
-    {
-        "id": 31,
-        "section": "Reading",
-        "passage": "The invention of the printing press by Johannes Gutenberg in the 15th century revolutionized the way information was distributed and led to a surge in literacy across Europe.",
-        "question": "Reading question number 31: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    "answer": "B",
+    "explanation": "The passage defines AI as 'the simulation of human intelligence in machines...'"
+  },
+  {
+    "id": 31,
+    "section": "Reading",
+    "passage": "**The Roman Empire** was one of the largest and most enduring empires in history, spanning over five centuries from the 1st century BC to the 5th century AD in the West. Its influence is still visible today in law, architecture, language, and governance across Europe and beyond.",
+    "question": "For how many centuries did the Roman Empire (in the West) endure?",
+    "options": {
+      "A": "One century.",
+      "B": "Two centuries.",
+      "C": "Five centuries.",
+      "D": "Ten centuries."
     },
-    {
-        "id": 32,
-        "section": "Reading",
-        "passage": "The Amazon rainforest, often referred to as the 'lungs of the planet', plays a vital role in maintaining the Earth’s climate by absorbing vast amounts of carbon dioxide.",
-        "question": "Reading question number 32: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    "answer": "C",
+    "explanation": "The passage states it endured 'over five centuries'."
+  },
+  {
+    "id": 32,
+    "section": "Reading",
+    "passage": "**Biodiversity** refers to the variety of life on Earth, from the smallest bacteria to the largest whales. It encompasses the diversity of genes, species, and ecosystems. High biodiversity is crucial for healthy ecosystems and provides numerous benefits, including clean air and water.",
+    "question": "What does biodiversity encompass?",
+    "options": {
+      "A": "Only the number of animal species.",
+      "B": "Only the variety of plants.",
+      "C": "Diversity of genes, species, and ecosystems.",
+      "D": "Only the largest known organisms."
     },
-    {
-        "id": 33,
-        "section": "Reading",
-        "passage": "Volcanoes are geological structures formed by the eruption of molten rock from beneath the Earth's crust. They are often found at tectonic plate boundaries.",
-        "question": "Reading question number 33: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    "answer": "C",
+    "explanation": "The passage states, 'It encompasses the diversity of genes, species, and ecosystems.'"
+  },
+  {
+    "id": 33,
+    "section": "Reading",
+    "passage": "**The Silk Road** was an ancient network of trade routes that connected the East and West, stretching from China to the Mediterranean Sea. It was central to cultural interaction through regions of the Asian continent, linking traders, merchants, pilgrims, monks, soldiers, and nomads.",
+    "question": "What was the primary purpose of the Silk Road?",
+    "options": {
+      "A": "A military invasion route.",
+      "B": "A network of trade routes.",
+      "C": "A path for mountain climbing.",
+      "D": "A route for isolated communities."
     },
-    {
-        "id": 34,
-        "section": "Reading",
-        "passage": "The process of natural selection, as proposed by Charles Darwin, explains how species evolve over time due to variations that improve survival and reproduction.",
-        "question": "Reading question number 34: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
+    "answer": "B",
+    "explanation": "The passage describes it as 'an ancient network of trade routes.'"
+  },
+  {
+    "id": 34,
+    "section": "Reading",
+    "passage": "**Vaccines** are biological preparations that provide active acquired immunity to a particular infectious disease. They typically contain an agent that resembles a disease-causing microorganism and is often made from weakened or killed forms of the microbe, its toxins, or one of its surface proteins.",
+    "question": "How do vaccines generally work?",
+    "options": {
+      "A": "By directly curing the disease.",
+      "B": "By causing the disease to spread faster.",
+      "C": "By providing active acquired immunity.",
+      "D": "By strengthening the disease-causing microbe."
     },
-    {
-        "id": 35,
-        "section": "Reading",
-        "passage": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. It primarily occurs in the leaves of plants.",
-        "question": "Reading question number 35: What is the main idea of the passage?",
-        "options": {
-            "A": "It discusses the history of the topic.",
-            "B": "It explains the benefits of the topic.",
-            "C": "It describes a problem and a solution.",
-            "D": "It outlines various perspectives on the topic."
-        },
-        "answer": "B",
-        "explanation": "The passage emphasizes the benefits or function of the topic, which aligns with option B."
-    }
+    "answer": "C",
+    "explanation": "The passage states, 'They provide active acquired immunity to a particular infectious disease.'"
+  },
+  {
+    "id": 35,
+    "section": "Reading",
+    "passage": "**The solar system** consists of the Sun and everything bound to it by gravity, including the eight planets, dwarf planets, moons, asteroids, and comets. It formed approximately 4.6 billion years ago from the gravitational collapse of a giant interstellar molecular cloud.",
+    "question": "What is the largest component of our solar system?",
+    "options": {
+      "A": "Mars.",
+      "B": "Jupiter.",
+      "C": "The Sun.",
+      "D": "Comets."
+    },
+    "answer": "C",
+    "explanation": "The passage describes the solar system as consisting of 'the Sun and everything bound to it by gravity,' implying the Sun is the central and largest component."
+  }
 ]

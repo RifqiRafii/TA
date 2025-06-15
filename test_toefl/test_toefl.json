@@ -1,1367 +1,1367 @@
 [
-    {
-        "id": 1,
-        "section": "Reading",
-        "passage": "Education has always played a central role in shaping societies. From early childhood through higher education, learning institutions help individuals acquire knowledge, develop critical thinking, and foster values. Recent debates often focus on how technology influences education quality and accessibility. Proponents argue that digital tools enhance learning, while critics warn about reduced social interaction. Moreover, cultural differences greatly influence educational priorities and methods across the globe.",
-        "question": "What is the main idea of the passage?",
-        "options": {
-            "A": "A story about student life.",
-            "B": "A debate about historical education reforms.",
-            "C": "The role and changes in education.",
-            "D": "Details on early childhood games."
-        },
-        "answer": "C",
-        "explanation": "The passage discusses how education evolves and its impact."
-    },
-    {
-        "id": 2,
-        "section": "Reading",
-        "passage": "same",
-        "question": "What concern do critics have about digital tools in education?",
-        "options": {
-            "A": "They are too expensive.",
-            "B": "They reduce social interaction.",
-            "C": "They require frequent updates.",
-            "D": "They make education boring."
-        },
-        "answer": "B",
-        "explanation": "Critics are concerned about reduced social interaction."
-    },
-    {
-        "id": 3,
-        "section": "Reading",
-        "passage": "same",
-        "question": "Which group benefits from digital tools according to the passage?",
-        "options": {
-            "A": "Students in traditional schools.",
-            "B": "Educators only.",
-            "C": "Learners accessing online content.",
-            "D": "No one benefits."
-        },
-        "answer": "C",
-        "explanation": "Digital tools enhance learning and access."
-    },
-    {
-        "id": 4,
-        "section": "Reading",
-        "passage": "same",
-        "question": "What factor influences educational methods?",
-        "options": {
-            "A": "Cultural differences.",
-            "B": "Natural disasters.",
-            "C": "Internet speed.",
-            "D": "Government taxes."
-        },
-        "answer": "A",
-        "explanation": "The passage states cultural differences impact priorities."
-    },
-    {
-        "id": 5,
-        "section": "Reading",
-        "passage": "same",
-        "question": "What is one function of learning institutions?",
-        "options": {
-            "A": "Selling textbooks.",
-            "B": "Improving food quality.",
-            "C": "Developing critical thinking.",
-            "D": "Organizing sports only."
-        },
-        "answer": "C",
-        "explanation": "They help develop knowledge and thinking."
-    },
-    {
-        "id": 6,
-        "section": "Reading",
-        "passage": "Photosynthesis is a fundamental biological process that occurs in plants, algae, and some bacteria. It involves converting light energy into chemical energy in the form of glucose. This process not only fuels plant growth but also produces oxygen, essential for most living organisms. Recent research explores how climate change affects photosynthesis rates, potentially disrupting global ecosystems.",
-        "question": "What is photosynthesis?",
-        "options": {
-            "A": "A plant disease.",
-            "B": "Energy conversion in plants.",
-            "C": "Soil cleaning process.",
-            "D": "Animal digestion."
-        },
-        "answer": "B",
-        "explanation": "Photosynthesis converts light into energy."
-    },
-    {
-        "id": 7,
-        "section": "Reading",
-        "passage": "same",
-        "question": "Which organisms photosynthesize?",
-        "options": {
-            "A": "Animals only.",
-            "B": "Only flowers.",
-            "C": "Plants, algae, and bacteria.",
-            "D": "All living things."
-        },
-        "answer": "C",
-        "explanation": "These are the main photosynthetic organisms."
-    },
-    {
-        "id": 8,
-        "section": "Reading",
-        "passage": "same",
-        "question": "Why is photosynthesis vital for life?",
-        "options": {
-            "A": "It generates oxygen.",
-            "B": "It warms the earth.",
-            "C": "It reduces noise.",
-            "D": "It produces carbon dioxide."
-        },
-        "answer": "A",
-        "explanation": "Photosynthesis releases oxygen."
-    },
-    {
-        "id": 9,
-        "section": "Reading",
-        "passage": "same",
-        "question": "What environmental factor may affect photosynthesis?",
-        "options": {
-            "A": "Deforestation.",
-            "B": "Rainfall.",
-            "C": "Climate change.",
-            "D": "Urban planning."
-        },
-        "answer": "C",
-        "explanation": "Climate change is mentioned as a concern."
-    },
-    {
-        "id": 10,
-        "section": "Reading",
-        "passage": "same",
-        "question": "What substance results from photosynthesis?",
-        "options": {
-            "A": "Water.",
-            "B": "Salt.",
-            "C": "Glucose.",
-            "D": "Carbon dioxide."
-        },
-        "answer": "C",
-        "explanation": "Glucose is a product of photosynthesis."
-    },
-    {
-        "id": 11,
-        "section": "Reading",
-        "passage": "Cultural heritage plays a significant role in shaping the identity of communities and individuals. It encompasses traditions, languages, monuments, and arts passed down through generations. In an increasingly globalized world, preserving cultural heritage becomes a challenge, but also an essential task to maintain diversity and historical continuity. Governments and organizations often invest in protecting cultural landmarks and promoting indigenous languages to sustain heritage and educate future generations.",
-        "question": "What is the passage mainly about?",
-        "options": {
-            "A": "Modern art trends.",
-            "B": "Cultural heritage and its preservation.",
-            "C": "Tourism in historical cities.",
-            "D": "Languages in urban schools."
-        },
-        "answer": "B",
-        "explanation": "The main topic is about the importance and preservation of cultural heritage."
-    },
-    {
-        "id": 12,
-        "section": "Reading",
-        "passage": "same",
-        "question": "Why is cultural heritage considered important?",
-        "options": {
-            "A": "It increases international trade.",
-            "B": "It defines identities and preserves history.",
-            "C": "It reduces government budgets.",
-            "D": "It prevents global warming."
-        },
-        "answer": "B",
-        "explanation": "Cultural heritage connects people with their past and identity."
-    },
-    {
-        "id": 13,
-        "section": "Reading",
-        "passage": "same",
-        "question": "What is one way to preserve cultural heritage mentioned in the passage?",
-        "options": {
-            "A": "Destroying old monuments.",
-            "B": "Banning tourism.",
-            "C": "Supporting indigenous languages.",
-            "D": "Building more cities."
-        },
-        "answer": "C",
-        "explanation": "The passage mentions promoting indigenous languages."
-    },
-    {
-        "id": 14,
-        "section": "Reading",
-        "passage": "same",
-        "question": "What challenge is associated with cultural heritage today?",
-        "options": {
-            "A": "Lack of cultural events.",
-            "B": "Globalization threats.",
-            "C": "Too many festivals.",
-            "D": "Excessive funding."
-        },
-        "answer": "B",
-        "explanation": "The passage states that globalization makes preservation challenging."
-    },
-    {
-        "id": 15,
-        "section": "Reading",
-        "passage": "same",
-        "question": "Who typically helps preserve cultural heritage?",
-        "options": {
-            "A": "Schools only.",
-            "B": "Private companies.",
-            "C": "Governments and organizations.",
-            "D": "Farmers and workers."
-        },
-        "answer": "C",
-        "explanation": "The passage says governments and organizations invest in preservation."
-    },
-    {
-        "id": 16,
-        "section": "Reading",
-        "passage": "Cultural heritage plays a significant role in shaping the identity of communities and individuals. It encompasses traditions, languages, monuments, and arts passed down through generations. In an increasingly globalized world, preserving cultural heritage becomes a challenge, but also an essential task to maintain diversity and historical continuity. Governments and organizations often invest in protecting cultural landmarks and promoting indigenous languages to sustain heritage and educate future generations.",
-        "question": "What is the passage mainly about?",
-        "options": {
-            "A": "Modern art trends.",
-            "B": "Cultural heritage and its preservation.",
-            "C": "Tourism in historical cities.",
-            "D": "Languages in urban schools."
-        },
-        "answer": "B",
-        "explanation": "The main topic is about the importance and preservation of cultural heritage."
-    },
-    {
-        "id": 17,
-        "section": "Reading",
-        "passage": "same",
-        "question": "Why is cultural heritage considered important?",
-        "options": {
-            "A": "It increases international trade.",
-            "B": "It defines identities and preserves history.",
-            "C": "It reduces government budgets.",
-            "D": "It prevents global warming."
-        },
-        "answer": "B",
-        "explanation": "Cultural heritage connects people with their past and identity."
-    },
-    {
-        "id": 18,
-        "section": "Reading",
-        "passage": "same",
-        "question": "What is one way to preserve cultural heritage mentioned in the passage?",
-        "options": {
-            "A": "Destroying old monuments.",
-            "B": "Banning tourism.",
-            "C": "Supporting indigenous languages.",
-            "D": "Building more cities."
-        },
-        "answer": "C",
-        "explanation": "The passage mentions promoting indigenous languages."
-    },
-    {
-        "id": 19,
-        "section": "Reading",
-        "passage": "same",
-        "question": "What challenge is associated with cultural heritage today?",
-        "options": {
-            "A": "Lack of cultural events.",
-            "B": "Globalization threats.",
-            "C": "Too many festivals.",
-            "D": "Excessive funding."
-        },
-        "answer": "B",
-        "explanation": "The passage states that globalization makes preservation challenging."
-    },
-    {
-        "id": 20,
-        "section": "Reading",
-        "passage": "same",
-        "question": "Who typically helps preserve cultural heritage?",
-        "options": {
-            "A": "Schools only.",
-            "B": "Private companies.",
-            "C": "Governments and organizations.",
-            "D": "Farmers and workers."
-        },
-        "answer": "C",
-        "explanation": "The passage says governments and organizations invest in preservation."
-    },
-    {
-        "id": 21,
-        "section": "Reading",
-        "passage": "Cultural heritage plays a significant role in shaping the identity of communities and individuals. It encompasses traditions, languages, monuments, and arts passed down through generations. In an increasingly globalized world, preserving cultural heritage becomes a challenge, but also an essential task to maintain diversity and historical continuity. Governments and organizations often invest in protecting cultural landmarks and promoting indigenous languages to sustain heritage and educate future generations.",
-        "question": "What is the passage mainly about?",
-        "options": {
-            "A": "Modern art trends.",
-            "B": "Cultural heritage and its preservation.",
-            "C": "Tourism in historical cities.",
-            "D": "Languages in urban schools."
-        },
-        "answer": "B",
-        "explanation": "The main topic is about the importance and preservation of cultural heritage."
-    },
-    {
-        "id": 22,
-        "section": "Reading",
-        "passage": "same",
-        "question": "Why is cultural heritage considered important?",
-        "options": {
-            "A": "It increases international trade.",
-            "B": "It defines identities and preserves history.",
-            "C": "It reduces government budgets.",
-            "D": "It prevents global warming."
-        },
-        "answer": "B",
-        "explanation": "Cultural heritage connects people with their past and identity."
-    },
-    {
-        "id": 23,
-        "section": "Reading",
-        "passage": "same",
-        "question": "What is one way to preserve cultural heritage mentioned in the passage?",
-        "options": {
-            "A": "Destroying old monuments.",
-            "B": "Banning tourism.",
-            "C": "Supporting indigenous languages.",
-            "D": "Building more cities."
-        },
-        "answer": "C",
-        "explanation": "The passage mentions promoting indigenous languages."
-    },
-    {
-        "id": 24,
-        "section": "Reading",
-        "passage": "same",
-        "question": "What challenge is associated with cultural heritage today?",
-        "options": {
-            "A": "Lack of cultural events.",
-            "B": "Globalization threats.",
-            "C": "Too many festivals.",
-            "D": "Excessive funding."
-        },
-        "answer": "B",
-        "explanation": "The passage states that globalization makes preservation challenging."
-    },
-    {
-        "id": 25,
-        "section": "Reading",
-        "passage": "same",
-        "question": "Who typically helps preserve cultural heritage?",
-        "options": {
-            "A": "Schools only.",
-            "B": "Private companies.",
-            "C": "Governments and organizations.",
-            "D": "Farmers and workers."
-        },
-        "answer": "C",
-        "explanation": "The passage says governments and organizations invest in preservation."
-    },
-    {
-        "id": 26,
-        "section": "Reading",
-        "passage": "Cultural heritage plays a significant role in shaping the identity of communities and individuals. It encompasses traditions, languages, monuments, and arts passed down through generations. In an increasingly globalized world, preserving cultural heritage becomes a challenge, but also an essential task to maintain diversity and historical continuity. Governments and organizations often invest in protecting cultural landmarks and promoting indigenous languages to sustain heritage and educate future generations.",
-        "question": "What is the passage mainly about?",
-        "options": {
-            "A": "Modern art trends.",
-            "B": "Cultural heritage and its preservation.",
-            "C": "Tourism in historical cities.",
-            "D": "Languages in urban schools."
-        },
-        "answer": "B",
-        "explanation": "The main topic is about the importance and preservation of cultural heritage."
-    },
-    {
-        "id": 27,
-        "section": "Reading",
-        "passage": "same",
-        "question": "Why is cultural heritage considered important?",
-        "options": {
-            "A": "It increases international trade.",
-            "B": "It defines identities and preserves history.",
-            "C": "It reduces government budgets.",
-            "D": "It prevents global warming."
-        },
-        "answer": "B",
-        "explanation": "Cultural heritage connects people with their past and identity."
-    },
-    {
-        "id": 28,
-        "section": "Reading",
-        "passage": "same",
-        "question": "What is one way to preserve cultural heritage mentioned in the passage?",
-        "options": {
-            "A": "Destroying old monuments.",
-            "B": "Banning tourism.",
-            "C": "Supporting indigenous languages.",
-            "D": "Building more cities."
-        },
-        "answer": "C",
-        "explanation": "The passage mentions promoting indigenous languages."
-    },
-    {
-        "id": 29,
-        "section": "Reading",
-        "passage": "same",
-        "question": "What challenge is associated with cultural heritage today?",
-        "options": {
-            "A": "Lack of cultural events.",
-            "B": "Globalization threats.",
-            "C": "Too many festivals.",
-            "D": "Excessive funding."
-        },
-        "answer": "B",
-        "explanation": "The passage states that globalization makes preservation challenging."
-    },
-    {
-        "id": 30,
-        "section": "Reading",
-        "passage": "same",
-        "question": "Who typically helps preserve cultural heritage?",
-        "options": {
-            "A": "Schools only.",
-            "B": "Private companies.",
-            "C": "Governments and organizations.",
-            "D": "Farmers and workers."
-        },
-        "answer": "C",
-        "explanation": "The passage says governments and organizations invest in preservation."
-    },
-    {
-        "id": 31,
-        "section": "Reading",
-        "passage": "Cultural heritage plays a significant role in shaping the identity of communities and individuals. It encompasses traditions, languages, monuments, and arts passed down through generations. In an increasingly globalized world, preserving cultural heritage becomes a challenge, but also an essential task to maintain diversity and historical continuity. Governments and organizations often invest in protecting cultural landmarks and promoting indigenous languages to sustain heritage and educate future generations.",
-        "question": "What is the passage mainly about?",
-        "options": {
-            "A": "Modern art trends.",
-            "B": "Cultural heritage and its preservation.",
-            "C": "Tourism in historical cities.",
-            "D": "Languages in urban schools."
-        },
-        "answer": "B",
-        "explanation": "The main topic is about the importance and preservation of cultural heritage."
-    },
-    {
-        "id": 32,
-        "section": "Reading",
-        "passage": "same",
-        "question": "Why is cultural heritage considered important?",
-        "options": {
-            "A": "It increases international trade.",
-            "B": "It defines identities and preserves history.",
-            "C": "It reduces government budgets.",
-            "D": "It prevents global warming."
-        },
-        "answer": "B",
-        "explanation": "Cultural heritage connects people with their past and identity."
-    },
-    {
-        "id": 33,
-        "section": "Reading",
-        "passage": "same",
-        "question": "What is one way to preserve cultural heritage mentioned in the passage?",
-        "options": {
-            "A": "Destroying old monuments.",
-            "B": "Banning tourism.",
-            "C": "Supporting indigenous languages.",
-            "D": "Building more cities."
-        },
-        "answer": "C",
-        "explanation": "The passage mentions promoting indigenous languages."
-    },
-    {
-        "id": 34,
-        "section": "Reading",
-        "passage": "same",
-        "question": "What challenge is associated with cultural heritage today?",
-        "options": {
-            "A": "Lack of cultural events.",
-            "B": "Globalization threats.",
-            "C": "Too many festivals.",
-            "D": "Excessive funding."
-        },
-        "answer": "B",
-        "explanation": "The passage states that globalization makes preservation challenging."
-    },
-    {
-        "id": 35,
-        "section": "Reading",
-        "passage": "same",
-        "question": "Who typically helps preserve cultural heritage?",
-        "options": {
-            "A": "Schools only.",
-            "B": "Private companies.",
-            "C": "Governments and organizations.",
-            "D": "Farmers and workers."
-        },
-        "answer": "C",
-        "explanation": "The passage says governments and organizations invest in preservation."
-    },
-    {
-        "id": 36,
-        "section": "Structure",
-        "question": "Choose the correct form: She ____ to the market every day.",
-        "options": {
-            "A": "go",
-            "B": "goes",
-            "C": "going",
-            "D": "gone"
-        },
-        "answer": "B",
-        "explanation": "The correct simple present form for 'she' is 'goes'."
-    },
-    {
-        "id": 37,
-        "section": "Structure",
-        "question": "Identify the grammatically correct sentence.",
-        "options": {
-            "A": "He go to school.",
-            "B": "He going to school.",
-            "C": "He goes to school.",
-            "D": "He gone to school."
-        },
-        "answer": "C",
-        "explanation": "'He goes' is the correct subject-verb agreement in present tense."
-    },
-    {
-        "id": 38,
-        "section": "Structure",
-        "question": "Choose the correct word: They have ____ their homework.",
-        "options": {
-            "A": "do",
-            "B": "did",
-            "C": "done",
-            "D": "does"
-        },
-        "answer": "C",
-        "explanation": "'Have done' is the correct past participle form."
-    },
-    {
-        "id": 39,
-        "section": "Structure",
-        "question": "Choose the correct form: She ____ to the market every day.",
-        "options": {
-            "A": "go",
-            "B": "goes",
-            "C": "going",
-            "D": "gone"
-        },
-        "answer": "B",
-        "explanation": "The correct simple present form for 'she' is 'goes'."
-    },
-    {
-        "id": 40,
-        "section": "Structure",
-        "question": "Identify the grammatically correct sentence.",
-        "options": {
-            "A": "He go to school.",
-            "B": "He going to school.",
-            "C": "He goes to school.",
-            "D": "He gone to school."
-        },
-        "answer": "C",
-        "explanation": "'He goes' is the correct subject-verb agreement in present tense."
-    },
-    {
-        "id": 41,
-        "section": "Structure",
-        "question": "Choose the correct word: They have ____ their homework.",
-        "options": {
-            "A": "do",
-            "B": "did",
-            "C": "done",
-            "D": "does"
-        },
-        "answer": "C",
-        "explanation": "'Have done' is the correct past participle form."
-    },
-    {
-        "id": 42,
-        "section": "Structure",
-        "question": "Choose the correct form: She ____ to the market every day.",
-        "options": {
-            "A": "go",
-            "B": "goes",
-            "C": "going",
-            "D": "gone"
-        },
-        "answer": "B",
-        "explanation": "The correct simple present form for 'she' is 'goes'."
-    },
-    {
-        "id": 43,
-        "section": "Structure",
-        "question": "Identify the grammatically correct sentence.",
-        "options": {
-            "A": "He go to school.",
-            "B": "He going to school.",
-            "C": "He goes to school.",
-            "D": "He gone to school."
-        },
-        "answer": "C",
-        "explanation": "'He goes' is the correct subject-verb agreement in present tense."
-    },
-    {
-        "id": 44,
-        "section": "Structure",
-        "question": "Choose the correct word: They have ____ their homework.",
-        "options": {
-            "A": "do",
-            "B": "did",
-            "C": "done",
-            "D": "does"
-        },
-        "answer": "C",
-        "explanation": "'Have done' is the correct past participle form."
-    },
-    {
-        "id": 45,
-        "section": "Structure",
-        "question": "Choose the correct form: She ____ to the market every day.",
-        "options": {
-            "A": "go",
-            "B": "goes",
-            "C": "going",
-            "D": "gone"
-        },
-        "answer": "B",
-        "explanation": "The correct simple present form for 'she' is 'goes'."
-    },
-    {
-        "id": 46,
-        "section": "Structure",
-        "question": "Identify the grammatically correct sentence.",
-        "options": {
-            "A": "He go to school.",
-            "B": "He going to school.",
-            "C": "He goes to school.",
-            "D": "He gone to school."
-        },
-        "answer": "C",
-        "explanation": "'He goes' is the correct subject-verb agreement in present tense."
-    },
-    {
-        "id": 47,
-        "section": "Structure",
-        "question": "Choose the correct word: They have ____ their homework.",
-        "options": {
-            "A": "do",
-            "B": "did",
-            "C": "done",
-            "D": "does"
-        },
-        "answer": "C",
-        "explanation": "'Have done' is the correct past participle form."
-    },
-    {
-        "id": 48,
-        "section": "Structure",
-        "question": "Choose the correct form: She ____ to the market every day.",
-        "options": {
-            "A": "go",
-            "B": "goes",
-            "C": "going",
-            "D": "gone"
-        },
-        "answer": "B",
-        "explanation": "The correct simple present form for 'she' is 'goes'."
-    },
-    {
-        "id": 49,
-        "section": "Structure",
-        "question": "Identify the grammatically correct sentence.",
-        "options": {
-            "A": "He go to school.",
-            "B": "He going to school.",
-            "C": "He goes to school.",
-            "D": "He gone to school."
-        },
-        "answer": "C",
-        "explanation": "'He goes' is the correct subject-verb agreement in present tense."
-    },
-    {
-        "id": 50,
-        "section": "Structure",
-        "question": "Choose the correct word: They have ____ their homework.",
-        "options": {
-            "A": "do",
-            "B": "did",
-            "C": "done",
-            "D": "does"
-        },
-        "answer": "C",
-        "explanation": "'Have done' is the correct past participle form."
-    },
-    {
-        "id": 51,
-        "section": "Structure",
-        "question": "Choose the correct form: She ____ to the market every day.",
-        "options": {
-            "A": "go",
-            "B": "goes",
-            "C": "going",
-            "D": "gone"
-        },
-        "answer": "B",
-        "explanation": "The correct simple present form for 'she' is 'goes'."
-    },
-    {
-        "id": 52,
-        "section": "Structure",
-        "question": "Identify the grammatically correct sentence.",
-        "options": {
-            "A": "He go to school.",
-            "B": "He going to school.",
-            "C": "He goes to school.",
-            "D": "He gone to school."
-        },
-        "answer": "C",
-        "explanation": "'He goes' is the correct subject-verb agreement in present tense."
-    },
-    {
-        "id": 53,
-        "section": "Structure",
-        "question": "Choose the correct word: They have ____ their homework.",
-        "options": {
-            "A": "do",
-            "B": "did",
-            "C": "done",
-            "D": "does"
-        },
-        "answer": "C",
-        "explanation": "'Have done' is the correct past participle form."
-    },
-    {
-        "id": 54,
-        "section": "Structure",
-        "question": "Choose the correct form: She ____ to the market every day.",
-        "options": {
-            "A": "go",
-            "B": "goes",
-            "C": "going",
-            "D": "gone"
-        },
-        "answer": "B",
-        "explanation": "The correct simple present form for 'she' is 'goes'."
-    },
-    {
-        "id": 55,
-        "section": "Structure",
-        "question": "Identify the grammatically correct sentence.",
-        "options": {
-            "A": "He go to school.",
-            "B": "He going to school.",
-            "C": "He goes to school.",
-            "D": "He gone to school."
-        },
-        "answer": "C",
-        "explanation": "'He goes' is the correct subject-verb agreement in present tense."
-    },
-    {
-        "id": 56,
-        "section": "Structure",
-        "question": "Choose the correct word: They have ____ their homework.",
-        "options": {
-            "A": "do",
-            "B": "did",
-            "C": "done",
-            "D": "does"
-        },
-        "answer": "C",
-        "explanation": "'Have done' is the correct past participle form."
-    },
-    {
-        "id": 57,
-        "section": "Structure",
-        "question": "Choose the correct form: She ____ to the market every day.",
-        "options": {
-            "A": "go",
-            "B": "goes",
-            "C": "going",
-            "D": "gone"
-        },
-        "answer": "B",
-        "explanation": "The correct simple present form for 'she' is 'goes'."
-    },
-    {
-        "id": 58,
-        "section": "Structure",
-        "question": "Identify the grammatically correct sentence.",
-        "options": {
-            "A": "He go to school.",
-            "B": "He going to school.",
-            "C": "He goes to school.",
-            "D": "He gone to school."
-        },
-        "answer": "C",
-        "explanation": "'He goes' is the correct subject-verb agreement in present tense."
-    },
-    {
-        "id": 59,
-        "section": "Structure",
-        "question": "Choose the correct word: They have ____ their homework.",
-        "options": {
-            "A": "do",
-            "B": "did",
-            "C": "done",
-            "D": "does"
-        },
-        "answer": "C",
-        "explanation": "'Have done' is the correct past participle form."
-    },
-    {
-        "id": 60,
-        "section": "Structure",
-        "question": "Choose the correct form: She ____ to the market every day.",
-        "options": {
-            "A": "go",
-            "B": "goes",
-            "C": "going",
-            "D": "gone"
-        },
-        "answer": "B",
-        "explanation": "The correct simple present form for 'she' is 'goes'."
-    },
-    {
-        "id": 61,
-        "section": "Structure",
-        "question": "Identify the grammatically correct sentence.",
-        "options": {
-            "A": "He go to school.",
-            "B": "He going to school.",
-            "C": "He goes to school.",
-            "D": "He gone to school."
-        },
-        "answer": "C",
-        "explanation": "'He goes' is the correct subject-verb agreement in present tense."
-    },
-    {
-        "id": 62,
-        "section": "Structure",
-        "question": "Choose the correct word: They have ____ their homework.",
-        "options": {
-            "A": "do",
-            "B": "did",
-            "C": "done",
-            "D": "does"
-        },
-        "answer": "C",
-        "explanation": "'Have done' is the correct past participle form."
-    },
-    {
-        "id": 63,
-        "section": "Structure",
-        "question": "Choose the correct form: She ____ to the market every day.",
-        "options": {
-            "A": "go",
-            "B": "goes",
-            "C": "going",
-            "D": "gone"
-        },
-        "answer": "B",
-        "explanation": "The correct simple present form for 'she' is 'goes'."
-    },
-    {
-        "id": 64,
-        "section": "Structure",
-        "question": "Identify the grammatically correct sentence.",
-        "options": {
-            "A": "He go to school.",
-            "B": "He going to school.",
-            "C": "He goes to school.",
-            "D": "He gone to school."
-        },
-        "answer": "C",
-        "explanation": "'He goes' is the correct subject-verb agreement in present tense."
-    },
-    {
-        "id": 65,
-        "section": "Structure",
-        "question": "Choose the correct word: They have ____ their homework.",
-        "options": {
-            "A": "do",
-            "B": "did",
-            "C": "done",
-            "D": "does"
-        },
-        "answer": "C",
-        "explanation": "'Have done' is the correct past participle form."
-    },
-    {
-        "id": 66,
-        "section": "Structure",
-        "question": "Choose the correct form: She ____ to the market every day.",
-        "options": {
-            "A": "go",
-            "B": "goes",
-            "C": "going",
-            "D": "gone"
-        },
-        "answer": "B",
-        "explanation": "The correct simple present form for 'she' is 'goes'."
-    },
-    {
-        "id": 67,
-        "section": "Structure",
-        "question": "Identify the grammatically correct sentence.",
-        "options": {
-            "A": "He go to school.",
-            "B": "He going to school.",
-            "C": "He goes to school.",
-            "D": "He gone to school."
-        },
-        "answer": "C",
-        "explanation": "'He goes' is the correct subject-verb agreement in present tense."
-    },
-    {
-        "id": 68,
-        "section": "Structure",
-        "question": "Choose the correct word: They have ____ their homework.",
-        "options": {
-            "A": "do",
-            "B": "did",
-            "C": "done",
-            "D": "does"
-        },
-        "answer": "C",
-        "explanation": "'Have done' is the correct past participle form."
-    },
-    {
-        "id": 69,
-        "section": "Structure",
-        "question": "Choose the correct form: She ____ to the market every day.",
-        "options": {
-            "A": "go",
-            "B": "goes",
-            "C": "going",
-            "D": "gone"
-        },
-        "answer": "B",
-        "explanation": "The correct simple present form for 'she' is 'goes'."
-    },
-    {
-        "id": 70,
-        "section": "Structure",
-        "question": "Identify the grammatically correct sentence.",
-        "options": {
-            "A": "He go to school.",
-            "B": "He going to school.",
-            "C": "He goes to school.",
-            "D": "He gone to school."
-        },
-        "answer": "C",
-        "explanation": "'He goes' is the correct subject-verb agreement in present tense."
-    },
-    {
-        "id": 71,
-        "section": "Listening",
-        "audio_file": "audio_1.mp3",
-        "question": "What did the speaker imply about the topic?",
-        "options": {
-            "A": "He agreed",
-            "B": "He disagreed",
-            "C": "He was uncertain",
-            "D": "He gave no opinion"
-        },
-        "answer": "A",
-        "explanation": "The tone and wording indicated agreement."
-    },
-    {
-        "id": 72,
-        "section": "Listening",
-        "audio_file": "audio_2.mp3",
-        "question": "What is the speaker mainly discussing?",
-        "options": {
-            "A": "A new policy",
-            "B": "His vacation",
-            "C": "A historical event",
-            "D": "A scientific theory"
-        },
-        "answer": "D",
-        "explanation": "The passage clearly focused on explaining a theory."
-    },
-    {
-        "id": 73,
-        "section": "Listening",
-        "audio_file": "audio_3.mp3",
-        "question": "What does the speaker suggest the listeners do?",
-        "options": {
-            "A": "Ignore the announcement",
-            "B": "Leave the room",
-            "C": "Read the materials",
-            "D": "Write a summary"
-        },
-        "answer": "C",
-        "explanation": "The speaker instructed listeners to read further materials."
-    },
-    {
-        "id": 74,
-        "section": "Listening",
-        "audio_file": "audio_4.mp3",
-        "question": "What did the speaker imply about the topic?",
-        "options": {
-            "A": "He agreed",
-            "B": "He disagreed",
-            "C": "He was uncertain",
-            "D": "He gave no opinion"
-        },
-        "answer": "A",
-        "explanation": "The tone and wording indicated agreement."
-    },
-    {
-        "id": 75,
-        "section": "Listening",
-        "audio_file": "audio_5.mp3",
-        "question": "What is the speaker mainly discussing?",
-        "options": {
-            "A": "A new policy",
-            "B": "His vacation",
-            "C": "A historical event",
-            "D": "A scientific theory"
-        },
-        "answer": "D",
-        "explanation": "The passage clearly focused on explaining a theory."
-    },
-    {
-        "id": 76,
-        "section": "Listening",
-        "audio_file": "audio_6.mp3",
-        "question": "What does the speaker suggest the listeners do?",
-        "options": {
-            "A": "Ignore the announcement",
-            "B": "Leave the room",
-            "C": "Read the materials",
-            "D": "Write a summary"
-        },
-        "answer": "C",
-        "explanation": "The speaker instructed listeners to read further materials."
-    },
-    {
-        "id": 77,
-        "section": "Listening",
-        "audio_file": "audio_7.mp3",
-        "question": "What did the speaker imply about the topic?",
-        "options": {
-            "A": "He agreed",
-            "B": "He disagreed",
-            "C": "He was uncertain",
-            "D": "He gave no opinion"
-        },
-        "answer": "A",
-        "explanation": "The tone and wording indicated agreement."
-    },
-    {
-        "id": 78,
-        "section": "Listening",
-        "audio_file": "audio_8.mp3",
-        "question": "What is the speaker mainly discussing?",
-        "options": {
-            "A": "A new policy",
-            "B": "His vacation",
-            "C": "A historical event",
-            "D": "A scientific theory"
-        },
-        "answer": "D",
-        "explanation": "The passage clearly focused on explaining a theory."
-    },
-    {
-        "id": 79,
-        "section": "Listening",
-        "audio_file": "audio_9.mp3",
-        "question": "What does the speaker suggest the listeners do?",
-        "options": {
-            "A": "Ignore the announcement",
-            "B": "Leave the room",
-            "C": "Read the materials",
-            "D": "Write a summary"
-        },
-        "answer": "C",
-        "explanation": "The speaker instructed listeners to read further materials."
-    },
-    {
-        "id": 80,
-        "section": "Listening",
-        "audio_file": "audio_10.mp3",
-        "question": "What did the speaker imply about the topic?",
-        "options": {
-            "A": "He agreed",
-            "B": "He disagreed",
-            "C": "He was uncertain",
-            "D": "He gave no opinion"
-        },
-        "answer": "A",
-        "explanation": "The tone and wording indicated agreement."
-    },
-    {
-        "id": 81,
-        "section": "Listening",
-        "audio_file": "audio_11.mp3",
-        "question": "What is the speaker mainly discussing?",
-        "options": {
-            "A": "A new policy",
-            "B": "His vacation",
-            "C": "A historical event",
-            "D": "A scientific theory"
-        },
-        "answer": "D",
-        "explanation": "The passage clearly focused on explaining a theory."
-    },
-    {
-        "id": 82,
-        "section": "Listening",
-        "audio_file": "audio_12.mp3",
-        "question": "What does the speaker suggest the listeners do?",
-        "options": {
-            "A": "Ignore the announcement",
-            "B": "Leave the room",
-            "C": "Read the materials",
-            "D": "Write a summary"
-        },
-        "answer": "C",
-        "explanation": "The speaker instructed listeners to read further materials."
-    },
-    {
-        "id": 83,
-        "section": "Listening",
-        "audio_file": "audio_13.mp3",
-        "question": "What did the speaker imply about the topic?",
-        "options": {
-            "A": "He agreed",
-            "B": "He disagreed",
-            "C": "He was uncertain",
-            "D": "He gave no opinion"
-        },
-        "answer": "A",
-        "explanation": "The tone and wording indicated agreement."
-    },
-    {
-        "id": 84,
-        "section": "Listening",
-        "audio_file": "audio_14.mp3",
-        "question": "What is the speaker mainly discussing?",
-        "options": {
-            "A": "A new policy",
-            "B": "His vacation",
-            "C": "A historical event",
-            "D": "A scientific theory"
-        },
-        "answer": "D",
-        "explanation": "The passage clearly focused on explaining a theory."
-    },
-    {
-        "id": 85,
-        "section": "Listening",
-        "audio_file": "audio_15.mp3",
-        "question": "What does the speaker suggest the listeners do?",
-        "options": {
-            "A": "Ignore the announcement",
-            "B": "Leave the room",
-            "C": "Read the materials",
-            "D": "Write a summary"
-        },
-        "answer": "C",
-        "explanation": "The speaker instructed listeners to read further materials."
-    },
-    {
-        "id": 86,
-        "section": "Listening",
-        "audio_file": "audio_16.mp3",
-        "question": "What did the speaker imply about the topic?",
-        "options": {
-            "A": "He agreed",
-            "B": "He disagreed",
-            "C": "He was uncertain",
-            "D": "He gave no opinion"
-        },
-        "answer": "A",
-        "explanation": "The tone and wording indicated agreement."
-    },
-    {
-        "id": 87,
-        "section": "Listening",
-        "audio_file": "audio_17.mp3",
-        "question": "What is the speaker mainly discussing?",
-        "options": {
-            "A": "A new policy",
-            "B": "His vacation",
-            "C": "A historical event",
-            "D": "A scientific theory"
-        },
-        "answer": "D",
-        "explanation": "The passage clearly focused on explaining a theory."
-    },
-    {
-        "id": 88,
-        "section": "Listening",
-        "audio_file": "audio_18.mp3",
-        "question": "What does the speaker suggest the listeners do?",
-        "options": {
-            "A": "Ignore the announcement",
-            "B": "Leave the room",
-            "C": "Read the materials",
-            "D": "Write a summary"
-        },
-        "answer": "C",
-        "explanation": "The speaker instructed listeners to read further materials."
-    },
-    {
-        "id": 89,
-        "section": "Listening",
-        "audio_file": "audio_19.mp3",
-        "question": "What did the speaker imply about the topic?",
-        "options": {
-            "A": "He agreed",
-            "B": "He disagreed",
-            "C": "He was uncertain",
-            "D": "He gave no opinion"
-        },
-        "answer": "A",
-        "explanation": "The tone and wording indicated agreement."
-    },
-    {
-        "id": 90,
-        "section": "Listening",
-        "audio_file": "audio_20.mp3",
-        "question": "What is the speaker mainly discussing?",
-        "options": {
-            "A": "A new policy",
-            "B": "His vacation",
-            "C": "A historical event",
-            "D": "A scientific theory"
-        },
-        "answer": "D",
-        "explanation": "The passage clearly focused on explaining a theory."
-    },
-    {
-        "id": 91,
-        "section": "Listening",
-        "audio_file": "audio_21.mp3",
-        "question": "What does the speaker suggest the listeners do?",
-        "options": {
-            "A": "Ignore the announcement",
-            "B": "Leave the room",
-            "C": "Read the materials",
-            "D": "Write a summary"
-        },
-        "answer": "C",
-        "explanation": "The speaker instructed listeners to read further materials."
-    },
-    {
-        "id": 92,
-        "section": "Listening",
-        "audio_file": "audio_22.mp3",
-        "question": "What did the speaker imply about the topic?",
-        "options": {
-            "A": "He agreed",
-            "B": "He disagreed",
-            "C": "He was uncertain",
-            "D": "He gave no opinion"
-        },
-        "answer": "A",
-        "explanation": "The tone and wording indicated agreement."
-    },
-    {
-        "id": 93,
-        "section": "Listening",
-        "audio_file": "audio_23.mp3",
-        "question": "What is the speaker mainly discussing?",
-        "options": {
-            "A": "A new policy",
-            "B": "His vacation",
-            "C": "A historical event",
-            "D": "A scientific theory"
-        },
-        "answer": "D",
-        "explanation": "The passage clearly focused on explaining a theory."
-    },
-    {
-        "id": 94,
-        "section": "Listening",
-        "audio_file": "audio_24.mp3",
-        "question": "What does the speaker suggest the listeners do?",
-        "options": {
-            "A": "Ignore the announcement",
-            "B": "Leave the room",
-            "C": "Read the materials",
-            "D": "Write a summary"
-        },
-        "answer": "C",
-        "explanation": "The speaker instructed listeners to read further materials."
-    },
-    {
-        "id": 95,
-        "section": "Listening",
-        "audio_file": "audio_25.mp3",
-        "question": "What did the speaker imply about the topic?",
-        "options": {
-            "A": "He agreed",
-            "B": "He disagreed",
-            "C": "He was uncertain",
-            "D": "He gave no opinion"
-        },
-        "answer": "A",
-        "explanation": "The tone and wording indicated agreement."
-    },
-    {
-        "id": 96,
-        "section": "Listening",
-        "audio_file": "audio_26.mp3",
-        "question": "What is the speaker mainly discussing?",
-        "options": {
-            "A": "A new policy",
-            "B": "His vacation",
-            "C": "A historical event",
-            "D": "A scientific theory"
-        },
-        "answer": "D",
-        "explanation": "The passage clearly focused on explaining a theory."
-    },
-    {
-        "id": 97,
-        "section": "Listening",
-        "audio_file": "audio_27.mp3",
-        "question": "What does the speaker suggest the listeners do?",
-        "options": {
-            "A": "Ignore the announcement",
-            "B": "Leave the room",
-            "C": "Read the materials",
-            "D": "Write a summary"
-        },
-        "answer": "C",
-        "explanation": "The speaker instructed listeners to read further materials."
-    },
-    {
-        "id": 98,
-        "section": "Listening",
-        "audio_file": "audio_28.mp3",
-        "question": "What did the speaker imply about the topic?",
-        "options": {
-            "A": "He agreed",
-            "B": "He disagreed",
-            "C": "He was uncertain",
-            "D": "He gave no opinion"
-        },
-        "answer": "A",
-        "explanation": "The tone and wording indicated agreement."
-    },
-    {
-        "id": 99,
-        "section": "Listening",
-        "audio_file": "audio_29.mp3",
-        "question": "What is the speaker mainly discussing?",
-        "options": {
-            "A": "A new policy",
-            "B": "His vacation",
-            "C": "A historical event",
-            "D": "A scientific theory"
-        },
-        "answer": "D",
-        "explanation": "The passage clearly focused on explaining a theory."
-    },
-    {
-        "id": 100,
-        "section": "Listening",
-        "audio_file": "audio_30.mp3",
-        "question": "What does the speaker suggest the listeners do?",
-        "options": {
-            "A": "Ignore the announcement",
-            "B": "Leave the room",
-            "C": "Read the materials",
-            "D": "Write a summary"
-        },
-        "answer": "C",
-        "explanation": "The speaker instructed listeners to read further materials."
-    }
+  {
+    "id": 1,
+    "section": "Reading",
+    "passage": "Education has always played a central role in shaping societies. From early childhood through higher education, learning institutions help individuals acquire knowledge, develop critical thinking, and foster values. Recent debates often focus on how technology influences education quality and accessibility. Proponents argue that digital tools enhance learning, while critics warn about reduced social interaction. Moreover, cultural differences greatly influence educational priorities and methods across the globe.",
+    "question": "What is the main idea of the passage?",
+    "options": {
+      "A": "A story about student life.",
+      "B": "A debate about historical education reforms.",
+      "C": "The role and changes in education.",
+      "D": "Details on early childhood games."
+    },
+    "answer": "C",
+    "explanation": "The passage discusses how education evolves and its impact."
+  },
+  {
+    "id": 2,
+    "section": "Reading",
+    "passage": "same",
+    "question": "What concern do critics have about digital tools in education?",
+    "options": {
+      "A": "They are too expensive.",
+      "B": "They reduce social interaction.",
+      "C": "They require frequent updates.",
+      "D": "They make education boring."
+    },
+    "answer": "B",
+    "explanation": "Critics are concerned about reduced social interaction."
+  },
+  {
+    "id": 3,
+    "section": "Reading",
+    "passage": "same",
+    "question": "Which group benefits from digital tools according to the passage?",
+    "options": {
+      "A": "Students in traditional schools.",
+      "B": "Educators only.",
+      "C": "Learners accessing online content.",
+      "D": "No one benefits."
+    },
+    "answer": "C",
+    "explanation": "Digital tools enhance learning and access."
+  },
+  {
+    "id": 4,
+    "section": "Reading",
+    "passage": "same",
+    "question": "What factor influences educational methods?",
+    "options": {
+      "A": "Cultural differences.",
+      "B": "Natural disasters.",
+      "C": "Internet speed.",
+      "D": "Government taxes."
+    },
+    "answer": "A",
+    "explanation": "The passage states cultural differences impact priorities."
+  },
+  {
+    "id": 5,
+    "section": "Reading",
+    "passage": "same",
+    "question": "What is one function of learning institutions?",
+    "options": {
+      "A": "Selling textbooks.",
+      "B": "Improving food quality.",
+      "C": "Developing critical thinking.",
+      "D": "Organizing sports only."
+    },
+    "answer": "C",
+    "explanation": "They help develop knowledge and thinking."
+  },
+  {
+    "id": 6,
+    "section": "Reading",
+    "passage": "Photosynthesis is a fundamental biological process that occurs in plants, algae, and some bacteria. It involves converting light energy into chemical energy in the form of glucose. This process not only fuels plant growth but also produces oxygen, essential for most living organisms. Recent research explores how climate change affects photosynthesis rates, potentially disrupting global ecosystems.",
+    "question": "What is photosynthesis?",
+    "options": {
+      "A": "A plant disease.",
+      "B": "Energy conversion in plants.",
+      "C": "Soil cleaning process.",
+      "D": "Animal digestion."
+    },
+    "answer": "B",
+    "explanation": "Photosynthesis converts light into energy."
+  },
+  {
+    "id": 7,
+    "section": "Reading",
+    "passage": "same",
+    "question": "Which organisms photosynthesize?",
+    "options": {
+      "A": "Animals only.",
+      "B": "Only flowers.",
+      "C": "Plants, algae, and bacteria.",
+      "D": "All living things."
+    },
+    "answer": "C",
+    "explanation": "These are the main photosynthetic organisms."
+  },
+  {
+    "id": 8,
+    "section": "Reading",
+    "passage": "same",
+    "question": "Why is photosynthesis vital for life?",
+    "options": {
+      "A": "It generates oxygen.",
+      "B": "It warms the earth.",
+      "C": "It reduces noise.",
+      "D": "It produces carbon dioxide."
+    },
+    "answer": "A",
+    "explanation": "Photosynthesis releases oxygen."
+  },
+  {
+    "id": 9,
+    "section": "Reading",
+    "passage": "same",
+    "question": "What environmental factor may affect photosynthesis?",
+    "options": {
+      "A": "Deforestation.",
+      "B": "Rainfall.",
+      "C": "Climate change.",
+      "D": "Urban planning."
+    },
+    "answer": "C",
+    "explanation": "Climate change is mentioned as a concern."
+  },
+  {
+    "id": 10,
+    "section": "Reading",
+    "passage": "same",
+    "question": "What substance results from photosynthesis?",
+    "options": {
+      "A": "Water.",
+      "B": "Salt.",
+      "C": "Glucose.",
+      "D": "Carbon dioxide."
+    },
+    "answer": "C",
+    "explanation": "Glucose is a product of photosynthesis."
+  },
+  {
+    "id": 11,
+    "section": "Reading",
+    "passage": "Cultural heritage plays a significant role in shaping the identity of communities and individuals. It encompasses traditions, languages, monuments, and arts passed down through generations. In an increasingly globalized world, preserving cultural heritage becomes a challenge, but also an essential task to maintain diversity and historical continuity. Governments and organizations often invest in protecting cultural landmarks and promoting indigenous languages to sustain heritage and educate future generations.",
+    "question": "What is the passage mainly about?",
+    "options": {
+      "A": "Modern art trends.",
+      "B": "Cultural heritage and its preservation.",
+      "C": "Tourism in historical cities.",
+      "D": "Languages in urban schools."
+    },
+    "answer": "B",
+    "explanation": "The main topic is about the importance and preservation of cultural heritage."
+  },
+  {
+    "id": 12,
+    "section": "Reading",
+    "passage": "same",
+    "question": "Why is cultural heritage considered important?",
+    "options": {
+      "A": "It increases international trade.",
+      "B": "It defines identities and preserves history.",
+      "C": "It reduces government budgets.",
+      "D": "It prevents global warming."
+    },
+    "answer": "B",
+    "explanation": "Cultural heritage connects people with their past and identity."
+  },
+  {
+    "id": 13,
+    "section": "Reading",
+    "passage": "same",
+    "question": "What is one way to preserve cultural heritage mentioned in the passage?",
+    "options": {
+      "A": "Destroying old monuments.",
+      "B": "Banning tourism.",
+      "C": "Supporting indigenous languages.",
+      "D": "Building more cities."
+    },
+    "answer": "C",
+    "explanation": "The passage mentions promoting indigenous languages."
+  },
+  {
+    "id": 14,
+    "section": "Reading",
+    "passage": "same",
+    "question": "What challenge is associated with cultural heritage today?",
+    "options": {
+      "A": "Lack of cultural events.",
+      "B": "Globalization threats.",
+      "C": "Too many festivals.",
+      "D": "Excessive funding."
+    },
+    "answer": "B",
+    "explanation": "The passage states that globalization makes preservation challenging."
+  },
+  {
+    "id": 15,
+    "section": "Reading",
+    "passage": "same",
+    "question": "Who typically helps preserve cultural heritage?",
+    "options": {
+      "A": "Schools only.",
+      "B": "Private companies.",
+      "C": "Governments and organizations.",
+      "D": "Farmers and workers."
+    },
+    "answer": "C",
+    "explanation": "The passage says governments and organizations invest in preservation."
+  },
+  {
+    "id": 16,
+    "section": "Reading",
+    "passage": "Artificial Intelligence (AI) has rapidly transformed from a concept of science fiction into a tangible force shaping modern society. Its roots can be traced back to the mid-20th century, with pioneers like Alan Turing exploring the theoretical foundations of computation and intelligence. Early AI research focused on symbolic reasoning, attempting to program computers to mimic human logical thought processes. This era saw the development of expert systems capable of solving problems in specific domains, such as medical diagnosis or chess. However, these systems often struggled with ambiguity and lacked the ability to learn from new data, leading to what is known as the \"AI winter\" in the late 1980s, a period of reduced funding and interest.\n\nThe resurgence of AI in the 21st century has largely been driven by advancements in machine learning, particularly deep learning. This approach enables AI systems to learn from vast amounts of data by identifying patterns and making predictions without being explicitly programmed for every task. Technologies like neural networks, inspired by the human brain's structure, have allowed for breakthroughs in image recognition, natural language processing, and autonomous driving. The availability of \"big data\" and significant increases in computational power have further fueled this progress.\n\nHowever, the rapid development of AI also brings forth complex ethical and societal considerations. Concerns range from job displacement due to automation to issues of algorithmic bias, where AI systems inadvertently perpetuate or amplify existing societal prejudices present in their training data. Questions about data privacy, security, and the potential for misuse of powerful AI technologies are also at the forefront of ongoing discussions. As AI continues to integrate deeper into daily life, policymakers, researchers, and the public must collaborate to ensure its responsible development and deployment, balancing innovation with human welfare.",
+    "question": "What was the primary focus of early AI research?",
+    "options": {
+      "A": "Developing autonomous driving systems.",
+      "B": "Building deep learning neural networks.",
+      "C": "Programming computers to mimic human logical thought.",
+      "D": "Creating vast datasets for machine learning."
+    },
+    "answer": "C",
+    "explanation": "The first paragraph states, \"Early AI research focused on symbolic reasoning, attempting to program computers to mimic human logical thought processes.\""
+  },
+  {
+    "id": 17,
+    "section": "Reading",
+    "passage": "same",
+    "question": "What led to the \"AI winter\" in the late 1980s?",
+    "options": {
+      "A": "Lack of interest from the general public.",
+      "B": "The inability of early AI systems to learn from new data and handle ambiguity.",
+      "C": "The emergence of more powerful supercomputers.",
+      "D": "A shift in focus towards renewable energy technologies."
+    },
+    "answer": "B",
+    "explanation": "The first paragraph mentions, \"However, these systems often struggled with ambiguity and lacked the ability to learn from new data, leading to what is known as the 'AI winter'...\""
+  },
+  {
+    "id": 18,
+    "section": "Reading",
+    "passage": "same",
+    "question": "The word \"resurgence\" in the second paragraph is closest in meaning to:",
+    "options": {
+      "A": "Decline",
+      "B": "Revival",
+      "C": "Stagnation",
+      "D": "Diversion"
+    },
+    "answer": "B",
+    "explanation": "\"Resurgence\" refers to coming back into prominence or activity after a period of decline, which is best described by \"revival.\""
+  },
+  {
+    "id": 19,
+    "section": "Reading",
+    "passage": "same",
+    "question": "According to the passage, what has significantly contributed to the recent advancements in AI?",
+    "options": {
+      "A": "A decrease in the availability of data.",
+      "B": "Slower computational power.",
+      "C": "Advancements in machine learning, particularly deep learning, and the availability of \"big data.\"",
+      "D": "A renewed focus on symbolic reasoning."
+    },
+    "answer": "C",
+    "explanation": "The second paragraph states, \"The resurgence of AI in the 21st century has largely been driven by advancements in machine learning, particularly deep learning... The availability of 'big data' and significant increases in computational power have further fueled this progress.\""
+  },
+  {
+    "id": 20,
+    "section": "Reading",
+    "passage": "same",
+    "question": "Which of the following is NOT mentioned as a concern regarding the rapid development of AI?",
+    "options": {
+      "A": "Job displacement.",
+      "B": "Algorithmic bias.",
+      "C": "Excessive energy consumption.",
+      "D": "Data privacy."
+    },
+    "answer": "C",
+    "explanation": "The third paragraph discusses job displacement, algorithmic bias, data privacy, and security. Excessive energy consumption is not explicitly mentioned as a concern in this passage."
+  },
+  {
+    "id": 21,
+    "section": "Reading",
+    "passage": "Coral reefs are often called the 'rainforests of the sea' due to their incredible biodiversity. These underwater ecosystems are formed by colonies of tiny animals called coral polyps, which secrete calcium carbonate to create hard, stony skeletons. Over thousands of years, these skeletons accumulate to form massive reef structures. Coral reefs provide essential habitats for a quarter of all marine species, including fish, sponges, and mollusks, despite covering less than one percent of the ocean floor. They also protect coastlines from erosion by reducing wave energy and are vital for the livelihoods of millions of people who depend on reef fisheries and tourism. However, coral reefs worldwide are facing severe threats from climate change, ocean acidification, pollution, and overfishing. Rising ocean temperatures cause coral bleaching, a phenomenon where corals expel the algae living in their tissues, leading to coral starvation and death if temperatures remain high. Ocean acidification, caused by increased absorption of carbon dioxide, makes it harder for corals to build their skeletons.",
+    "question": "What is the main reason coral reefs are called 'rainforests of the sea'?",
+    "options": {
+      "A": "They grow in tropical climates.",
+      "B": "They are located near rainforests.",
+      "C": "They support a high level of biodiversity.",
+      "D": "They absorb a lot of carbon dioxide."
+    },
+    "answer": "C",
+    "explanation": "The passage states, 'Coral reefs are often called the 'rainforests of the sea' due to their incredible biodiversity.'"
+  },
+  {
+    "id": 22,
+    "section": "Reading",
+    "passage": "same",
+    "question": "How are coral reefs primarily formed?",
+    "options": {
+      "A": "By the accumulation of sand and sediment.",
+      "B": "Through volcanic activity.",
+      "C": "By colonies of coral polyps secreting calcium carbonate.",
+      "D": "From large underwater rock formations."
+    },
+    "answer": "C",
+    "explanation": "The passage explains that coral polyps secrete calcium carbonate to create skeletons that form reefs."
+  },
+  {
+    "id": 23,
+    "section": "Reading",
+    "passage": "same",
+    "question": "Besides providing habitats, what other benefit do coral reefs offer?",
+    "options": {
+      "A": "They desalinate seawater.",
+      "B": "They produce oxygen for the atmosphere.",
+      "C": "They protect coastlines from erosion.",
+      "D": "They act as major shipping lanes."
+    },
+    "answer": "C",
+    "explanation": "The passage mentions, 'They also protect coastlines from erosion by reducing wave energy.'"
+  },
+  {
+    "id": 24,
+    "section": "Reading",
+    "passage": "same",
+    "question": "What is 'coral bleaching' caused by?",
+    "options": {
+      "A": "Overfishing.",
+      "B": "Pollution.",
+      "C": "Rising ocean temperatures.",
+      "D": "Increased wave energy."
+    },
+    "answer": "C",
+    "explanation": "The passage states, 'Rising ocean temperatures cause coral bleaching...'"
+  },
+  {
+    "id": 25,
+    "section": "Reading",
+    "passage": "same",
+    "question": "According to the passage, how does ocean acidification affect corals?",
+    "options": {
+      "A": "It makes them grow faster.",
+      "B": "It helps them absorb more sunlight.",
+      "C": "It makes it harder for them to build skeletons.",
+      "D": "It encourages algae growth."
+    },
+    "answer": "C",
+    "explanation": "The passage notes, 'Ocean acidification, caused by increased absorption of carbon dioxide, makes it harder for corals to build their skeletons.'"
+  },
+  {
+    "id": 26,
+    "section": "Reading",
+    "passage": "The invention of the printing press by Johannes Gutenberg in the 15th century marked a pivotal moment in human history. Before this innovation, books were laboriously copied by hand, a process that was slow, expensive, and prone to errors. This meant that literacy was largely confined to the clergy and the elite, and knowledge dissemination was severely restricted. Gutenberg's press, utilizing movable type, revolutionized book production. It enabled the rapid and mass production of texts, drastically reducing their cost and making them accessible to a wider population. The first major work produced was the Gutenberg Bible, signifying the press's immediate impact on religious texts.",
+    "question": "What was the primary method of book production before the printing press?",
+    "options": {
+      "A": "Carving texts into stone tablets.",
+      "B": "Typing on early typewriters.",
+      "C": "Copying by hand.",
+      "D": "Using wooden block printing."
+    },
+    "answer": "C",
+    "explanation": "The passage states, 'Before this innovation, books were laboriously copied by hand...'"
+  },
+  {
+    "id": 27,
+    "section": "Reading",
+    "passage": "same",
+    "question": "Who invented the printing press according to the passage?",
+    "options": {
+      "A": "William Caxton.",
+      "B": "Johannes Gutenberg.",
+      "C": "Aldus Manutius.",
+      "D": "Nicolas Jenson."
+    },
+    "answer": "B",
+    "explanation": "The passage clearly attributes the invention to 'Johannes Gutenberg in the 15th century.'"
+  },
+  {
+    "id": 28,
+    "section": "Reading",
+    "passage": "same",
+    "question": "What was a consequence of books being copied by hand?",
+    "options": {
+      "A": "They became widely available to everyone.",
+      "B": "They were produced quickly and cheaply.",
+      "C": "Literacy was restricted to a small segment of society.",
+      "D": "Knowledge dissemination was greatly accelerated."
+    },
+    "answer": "C",
+    "explanation": "The passage notes, 'This meant that literacy was largely confined to the clergy and the elite, and knowledge dissemination was severely restricted.'"
+  },
+  {
+    "id": 29,
+    "section": "Reading",
+    "passage": "same",
+    "question": "The word 'pivotal' in the first sentence is closest in meaning to:",
+    "options": {
+      "A": "Minor",
+      "B": "Insignificant",
+      "C": "Crucial",
+      "D": "Peripheral"
+    },
+    "answer": "C",
+    "explanation": "'Pivotal' means of crucial importance in relation to the development or success of something else, hence 'crucial' is the closest meaning."
+  },
+  {
+    "id": 30,
+    "section": "Reading",
+    "passage": "same",
+    "question": "What was the first major work produced by Gutenberg's press?",
+    "options": {
+      "A": "A dictionary.",
+      "B": "A scientific treatise.",
+      "C": "The Gutenberg Bible.",
+      "D": "A collection of folk tales."
+    },
+    "answer": "C",
+    "explanation": "The passage explicitly states, 'The first major work produced was the Gutenberg Bible...'"
+  },
+  {
+    "id": 31,
+    "section": "Reading",
+    "passage": "The Amazon Rainforest is the largest tropical rainforest in the world, renowned for its immense biodiversity and its crucial role in regulating the Earth's climate. Spanning across nine South American countries, it covers an area of approximately 5.5 million square kilometers. This vast ecosystem is home to an estimated 10% of the world's known species, including countless insects, plants, birds, and mammals, many of which are endemic to the region. The forest's dense canopy acts as a carbon sink, absorbing vast amounts of carbon dioxide from the atmosphere and releasing oxygen, earning it the moniker 'lungs of the Earth.' Indigenous communities have lived in the Amazon for thousands of years, developing intricate knowledge of its flora and fauna, and playing a vital role in its conservation. However, deforestation, primarily driven by cattle ranching, agriculture, and illegal logging, poses a significant threat to the Amazon, leading to habitat loss, increased carbon emissions, and disruption of delicate ecological balances.",
+    "question": "Which of the following describes the Amazon Rainforest's role in global climate?",
+    "options": {
+      "A": "It increases global temperatures.",
+      "B": "It acts as a carbon sink, absorbing carbon dioxide.",
+      "C": "It primarily produces nitrogen.",
+      "D": "It causes acid rain."
+    },
+    "answer": "B",
+    "explanation": "The passage states, 'The forest's dense canopy acts as a carbon sink, absorbing vast amounts of carbon dioxide from the atmosphere and releasing oxygen...'"
+  },
+  {
+    "id": 32,
+    "section": "Reading",
+    "passage": "same",
+    "question": "Approximately what percentage of the world's known species are found in the Amazon?",
+    "options": {
+      "A": "5%",
+      "B": "10%",
+      "C": "25%",
+      "D": "50%"
+    },
+    "answer": "B",
+    "explanation": "The passage mentions, 'This vast ecosystem is home to an estimated 10% of the world's known species...'"
+  },
+  {
+    "id": 33,
+    "section": "Reading",
+    "passage": "same",
+    "question": "What is the primary driver of deforestation in the Amazon?",
+    "options": {
+      "A": "Mining for precious metals.",
+      "B": "Urban development.",
+      "C": "Cattle ranching, agriculture, and illegal logging.",
+      "D": "Natural forest fires."
+    },
+    "answer": "C",
+    "explanation": "The passage clearly identifies 'deforestation, primarily driven by cattle ranching, agriculture, and illegal logging' as the threat."
+  },
+  {
+    "id": 34,
+    "section": "Reading",
+    "passage": "same",
+    "question": "What does the passage imply about indigenous communities in the Amazon?",
+    "options": {
+      "A": "They contribute to deforestation.",
+      "B": "They have limited knowledge of the environment.",
+      "C": "They play a role in conservation.",
+      "D": "They are new inhabitants of the region."
+    },
+    "answer": "C",
+    "explanation": "The passage states they 'have lived in the Amazon for thousands of years, developing intricate knowledge of its flora and fauna, and playing a vital role in its conservation.'"
+  },
+  {
+    "id": 35,
+    "section": "Reading",
+    "passage": "same",
+    "question": "The Amazon Rainforest spans across how many South American countries?",
+    "options": {
+      "A": "Three",
+      "B": "Five",
+      "C": "Seven",
+      "D": "Nine"
+    },
+    "answer": "D",
+    "explanation": "The passage explicitly states, 'Spanning across nine South American countries...'"
+  },
+  {
+    "id": 36,
+    "section": "Structure",
+    "question": "Choose the correct form: She ____ to the market every day.",
+    "options": {
+      "A": "go",
+      "B": "goes",
+      "C": "going",
+      "D": "gone"
+    },
+    "answer": "B",
+    "explanation": "The correct simple present form for 'she' is 'goes' when indicating a habitual action."
+  },
+  {
+    "id": 37,
+    "section": "Structure",
+    "question": "Identify the grammatically correct sentence.",
+    "options": {
+      "A": "Despite of the rain, they played football.",
+      "B": "Despite the rain, they played football.",
+      "C": "Despite it rained, they played football.",
+      "D": "Despite of the raining, they played football."
+    },
+    "answer": "B",
+    "explanation": "'Despite' is a preposition and should be followed by a noun phrase or gerund, not 'of' or a clause. 'Despite the rain' is correct."
+  },
+  {
+    "id": 38,
+    "section": "Structure",
+    "question": "Choose the correct word: They have ____ their homework.",
+    "options": {
+      "A": "do",
+      "B": "did",
+      "C": "done",
+      "D": "does"
+    },
+    "answer": "C",
+    "explanation": "After 'have' (present perfect), the past participle form of the verb ('done') is required."
+  },
+  {
+    "id": 39,
+    "section": "Structure",
+    "question": "The scientist ____ to present his findings at the conference next month.",
+    "options": {
+      "A": "is planning",
+      "B": "plan",
+      "C": "are planning",
+      "D": "planned"
+    },
+    "answer": "A",
+    "explanation": "The subject 'scientist' is singular, so the singular present continuous form 'is planning' is correct for a future arrangement."
+  },
+  {
+    "id": 40,
+    "section": "Structure",
+    "question": "Neither the students nor the teacher ____ ready for the exam.",
+    "options": {
+      "A": "are",
+      "B": "is",
+      "C": "were",
+      "D": "been"
+    },
+    "answer": "B",
+    "explanation": "In 'neither...nor' constructions, the verb agrees with the noun closest to it. Here, 'teacher' is singular, so 'is' is correct."
+  },
+  {
+    "id": 41,
+    "section": "Structure",
+    "question": "She prefers coffee ____ tea.",
+    "options": {
+      "A": "than",
+      "B": "to",
+      "C": "from",
+      "D": "over"
+    },
+    "answer": "B",
+    "explanation": "The verb 'prefer' is typically followed by the preposition 'to' when comparing two things."
+  },
+  {
+    "id": 42,
+    "section": "Structure",
+    "question": "The book, ____ cover is red, is mine.",
+    "options": {
+      "A": "who",
+      "B": "which",
+      "C": "whose",
+      "D": "whom"
+    },
+    "answer": "C",
+    "explanation": "'Whose' is the possessive pronoun used for both people and things."
+  },
+  {
+    "id": 43,
+    "section": "Structure",
+    "question": "He would have passed the exam if he ____ harder.",
+    "options": {
+      "A": "studied",
+      "B": "would study",
+      "C": "had studied",
+      "D": "studies"
+    },
+    "answer": "C",
+    "explanation": "This is a Type 3 conditional sentence (past unreal conditional). The 'if' clause requires the past perfect tense ('had studied')."
+  },
+  {
+    "id": 44,
+    "section": "Structure",
+    "question": "Not only ____ intelligent but also very hardworking.",
+    "options": {
+      "A": "he is",
+      "B": "is he",
+      "C": "he was",
+      "D": "was he"
+    },
+    "answer": "B",
+    "explanation": "When a sentence begins with a negative expression like 'Not only,' inversion of the subject and auxiliary verb occurs. So, 'is he' is correct."
+  },
+  {
+    "id": 45,
+    "section": "Structure",
+    "question": "The committee ____ its decision after much deliberation.",
+    "options": {
+      "A": "have made",
+      "B": "has made",
+      "C": "are making",
+      "D": "make"
+    },
+    "answer": "B",
+    "explanation": "Although 'committee' refers to a group, it is often treated as a singular unit when acting collectively, hence 'has made' is appropriate here."
+  },
+  {
+    "id": 46,
+    "section": "Structure",
+    "question": "The more you practice, ____ you will become.",
+    "options": {
+      "A": "the gooder",
+      "B": "the better",
+      "C": "better",
+      "D": "the best"
+    },
+    "answer": "B",
+    "explanation": "This is a parallel comparative structure ('the more..., the better...'). 'Better' is the correct comparative form of 'good'."
+  },
+  {
+    "id": 47,
+    "section": "Structure",
+    "question": "Many species ____ extinct due to habitat loss.",
+    "options": {
+      "A": "become",
+      "B": "has become",
+      "C": "have become",
+      "D": "becomes"
+    },
+    "answer": "C",
+    "explanation": "'Many species' is a plural subject, requiring the plural auxiliary verb 'have' and the past participle 'become'."
+  },
+  {
+    "id": 48,
+    "section": "Structure",
+    "question": "It is important ____ new vocabulary every day.",
+    "options": {
+      "A": "to learn",
+      "B": "learn",
+      "C": "learning",
+      "D": "learned"
+    },
+    "answer": "A",
+    "explanation": "The structure 'It is + adjective + to-infinitive' is used to express importance or necessity."
+  },
+  {
+    "id": 49,
+    "section": "Structure",
+    "question": "He stopped ____ because he was tired.",
+    "options": {
+      "A": "to walk",
+      "B": "walking",
+      "C": "walk",
+      "D": "walks"
+    },
+    "answer": "B",
+    "explanation": "'Stop' followed by a gerund (-ing form) means to cease an activity. 'Stop to walk' would mean he paused in order to walk."
+  },
+  {
+    "id": 50,
+    "section": "Structure",
+    "question": "She bought ____ expensive necklace.",
+    "options": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "no article"
+    },
+    "answer": "B",
+    "explanation": "'Expensive' starts with a vowel sound, so the indefinite article 'an' is used."
+  },
+  {
+    "id": 51,
+    "section": "Structure",
+    "question": "The manager asked him ____.",
+    "options": {
+      "A": "what his name was",
+      "B": "what was his name",
+      "C": "what is his name",
+      "D": "what his name is"
+    },
+    "answer": "A",
+    "explanation": "This is an indirect question. The word order should be subject-verb, not inverted like a direct question."
+  },
+  {
+    "id": 52,
+    "section": "Structure",
+    "question": "If I ____ a bird, I would fly.",
+    "options": {
+      "A": "am",
+      "B": "was",
+      "C": "were",
+      "D": "had been"
+    },
+    "answer": "C",
+    "explanation": "This is a Type 2 conditional (unreal present/future). In the 'if' clause for hypothetical situations, 'were' is used for all subjects, including 'I'."
+  },
+  {
+    "id": 53,
+    "section": "Structure",
+    "question": "The painting ____ by a famous artist is now in a museum.",
+    "options": {
+      "A": "painted",
+      "B": "was painted",
+      "C": "painting",
+      "D": "is painted"
+    },
+    "answer": "A",
+    "explanation": "'Painted' is a past participle used as an adjective modifying 'painting', indicating it was done by the artist."
+  },
+  {
+    "id": 54,
+    "section": "Structure",
+    "question": "He has been studying English ____ five years.",
+    "options": {
+      "A": "since",
+      "B": "for",
+      "C": "in",
+      "D": "during"
+    },
+    "answer": "B",
+    "explanation": "'For' is used with a duration of time ('five years'). 'Since' is used with a specific point in time (e.g., 'since 2020')."
+  },
+  {
+    "id": 55,
+    "section": "Structure",
+    "question": "She is used to ____ up early.",
+    "options": {
+      "A": "get",
+      "B": "gets",
+      "C": "getting",
+      "D": "got"
+    },
+    "answer": "C",
+    "explanation": "The phrase 'be used to' is followed by a gerund (-ing form)."
+  },
+  {
+    "id": 56,
+    "section": "Structure",
+    "question": "The more you read, the ____ your vocabulary will become.",
+    "options": {
+      "A": "large",
+      "B": "larger",
+      "C": "largest",
+      "D": "more large"
+    },
+    "answer": "B",
+    "explanation": "This is a parallel comparative structure ('the more..., the larger...'). 'Larger' is the correct comparative form of 'large'."
+  },
+  {
+    "id": 57,
+    "section": "Structure",
+    "question": "Neither of the two solutions ____ satisfactory.",
+    "options": {
+      "A": "are",
+      "B": "is",
+      "C": "were",
+      "D": "been"
+    },
+    "answer": "B",
+    "explanation": "When 'neither of' is used with a plural noun, the verb is typically singular, as 'neither' itself implies 'not one'."
+  },
+  {
+    "id": 58,
+    "section": "Structure",
+    "question": "She wishes she ____ fly.",
+    "options": {
+      "A": "can",
+      "B": "could",
+      "C": "will",
+      "D": "may"
+    },
+    "answer": "B",
+    "explanation": "To express a wish about an unlikely or impossible present ability, 'wish' is followed by a past modal ('could')."
+  },
+  {
+    "id": 59,
+    "section": "Structure",
+    "question": "The results of the experiment ____ surprising.",
+    "options": {
+      "A": "was",
+      "B": "is",
+      "C": "were",
+      "D": "been"
+    },
+    "answer": "C",
+    "explanation": "The subject is 'results' (plural), so the plural verb 'were' is correct."
+  },
+  {
+    "id": 60,
+    "section": "Structure",
+    "question": "He is not only a talented musician ____ an excellent composer.",
+    "options": {
+      "A": "but also",
+      "B": "and",
+      "C": "as well",
+      "D": "or"
+    },
+    "answer": "A",
+    "explanation": "The correlative conjunction 'not only... but also' is used for parallel structures and to emphasize both elements."
+  },
+  {
+    "id": 61,
+    "section": "Structure",
+    "question": "The population of the city ____ rapidly in the last decade.",
+    "options": {
+      "A": "has grown",
+      "B": "have grown",
+      "C": "is growing",
+      "D": "grow"
+    },
+    "answer": "A",
+    "explanation": "The subject 'population' is singular, and the action 'in the last decade' indicates a completed action with a connection to the present, requiring the present perfect 'has grown'."
+  },
+  {
+    "id": 62,
+    "section": "Structure",
+    "question": "He succeeded ____ hard work.",
+    "options": {
+      "A": "on account of",
+      "B": "in spite of",
+      "C": "because",
+      "D": "despite"
+    },
+    "answer": "A",
+    "explanation": "'On account of' means 'because of' or 'due to,' indicating the reason for success."
+  },
+  {
+    "id": 63,
+    "section": "Structure",
+    "question": "It was ____ a beautiful day that we decided to go for a picnic.",
+    "options": {
+      "A": "such",
+      "B": "so",
+      "C": "very",
+      "D": "too"
+    },
+    "answer": "A",
+    "explanation": "'Such a/an + adjective + noun + that clause' is used to express cause and effect for a noun phrase. 'So' is used with an adjective or adverb without a noun."
+  },
+  {
+    "id": 64,
+    "section": "Structure",
+    "question": "The report concluded that the company's profits ____ declined.",
+    "options": {
+      "A": "have",
+      "B": "has",
+      "C": "had",
+      "D": "is"
+    },
+    "answer": "C",
+    "explanation": "Since the main verb 'concluded' is in the past, the declining of profits must have occurred before the conclusion, requiring the past perfect 'had declined'."
+  },
+  {
+    "id": 65,
+    "section": "Structure",
+    "question": "She studies ____ to pass her exams.",
+    "options": {
+      "A": "hard",
+      "B": "hardly",
+      "C": "harder",
+      "D": "hardest"
+    },
+    "answer": "A",
+    "explanation": "'Hard' functions as an adverb here, meaning diligently. 'Hardly' means scarcely or almost not."
+  },
+  {
+    "id": 66,
+    "section": "Structure",
+    "question": "The children enjoyed ____ in the park.",
+    "options": {
+      "A": "to play",
+      "B": "play",
+      "C": "playing",
+      "D": "played"
+    },
+    "answer": "C",
+    "explanation": "Verbs like 'enjoy' are typically followed by a gerund (-ing form)."
+  },
+  {
+    "id": 67,
+    "section": "Structure",
+    "question": "If I ____ you, I would accept the offer.",
+    "options": {
+      "A": "am",
+      "B": "was",
+      "C": "were",
+      "D": "had been"
+    },
+    "answer": "C",
+    "explanation": "This is a Type 2 conditional (unreal present/future), using 'were' for all subjects in the 'if' clause for hypothetical situations, especially in the phrase 'If I were you'."
+  },
+  {
+    "id": 68,
+    "section": "Structure",
+    "question": "Everyone in the class ____ to submit their assignments by Friday.",
+    "options": {
+      "A": "have",
+      "B": "has",
+      "C": "are",
+      "D": "were"
+    },
+    "answer": "B",
+    "explanation": "Indefinite pronouns like 'everyone' are singular and take a singular verb, so 'has' is correct."
+  },
+  {
+    "id": 69,
+    "section": "Structure",
+    "question": "The new policy will ____ next month.",
+    "options": {
+      "A": "take effect",
+      "B": "take effects",
+      "C": "taking effect",
+      "D": "took effect"
+    },
+    "answer": "A",
+    "explanation": "'Take effect' is an idiomatic phrase meaning to become operative or begin to apply. The base form 'take' is used after 'will'."
+  },
+  {
+    "id": 70,
+    "section": "Structure",
+    "question": "She tried ____ the window, but it was stuck.",
+    "options": {
+      "A": "open",
+      "B": "to open",
+      "C": "opening",
+      "D": "opened"
+    },
+    "answer": "B",
+    "explanation": "'Try + to-infinitive' means to make an effort or attempt to do something. 'Try + gerund' means to do something as an experiment."
+  },
+  {
+    "id": 71,
+    "section": "Listening",
+    "audio_file": "audio_1.mp3",
+    "question": "What did the speaker imply about the topic?",
+    "options": {
+      "A": "He agreed",
+      "B": "He disagreed",
+      "C": "He was uncertain",
+      "D": "He gave no opinion"
+    },
+    "answer": "A",
+    "explanation": "The tone and wording indicated agreement."
+  },
+  {
+    "id": 72,
+    "section": "Listening",
+    "audio_file": "audio_2.mp3",
+    "question": "What is the speaker mainly discussing?",
+    "options": {
+      "A": "A new policy",
+      "B": "His vacation",
+      "C": "A historical event",
+      "D": "A scientific theory"
+    },
+    "answer": "D",
+    "explanation": "The passage clearly focused on explaining a theory."
+  },
+  {
+    "id": 73,
+    "section": "Listening",
+    "audio_file": "audio_3.mp3",
+    "question": "What does the speaker suggest the listeners do?",
+    "options": {
+      "A": "Ignore the announcement",
+      "B": "Leave the room",
+      "C": "Read the materials",
+      "D": "Write a summary"
+    },
+    "answer": "C",
+    "explanation": "The speaker instructed listeners to read further materials."
+  },
+  {
+    "id": 74,
+    "section": "Listening",
+    "audio_file": "audio_4.mp3",
+    "question": "What did the speaker imply about the topic?",
+    "options": {
+      "A": "He agreed",
+      "B": "He disagreed",
+      "C": "He was uncertain",
+      "D": "He gave no opinion"
+    },
+    "answer": "A",
+    "explanation": "The tone and wording indicated agreement."
+  },
+  {
+    "id": 75,
+    "section": "Listening",
+    "audio_file": "audio_5.mp3",
+    "question": "What is the speaker mainly discussing?",
+    "options": {
+      "A": "A new policy",
+      "B": "His vacation",
+      "C": "A historical event",
+      "D": "A scientific theory"
+    },
+    "answer": "D",
+    "explanation": "The passage clearly focused on explaining a theory."
+  },
+  {
+    "id": 76,
+    "section": "Listening",
+    "audio_file": "audio_6.mp3",
+    "question": "What does the speaker suggest the listeners do?",
+    "options": {
+      "A": "Ignore the announcement",
+      "B": "Leave the room",
+      "C": "Read the materials",
+      "D": "Write a summary"
+    },
+    "answer": "C",
+    "explanation": "The speaker instructed listeners to read further materials."
+  },
+  {
+    "id": 77,
+    "section": "Listening",
+    "audio_file": "audio_7.mp3",
+    "question": "What did the speaker imply about the topic?",
+    "options": {
+      "A": "He agreed",
+      "B": "He disagreed",
+      "C": "He was uncertain",
+      "D": "He gave no opinion"
+    },
+    "answer": "A",
+    "explanation": "The tone and wording indicated agreement."
+  },
+  {
+    "id": 78,
+    "section": "Listening",
+    "audio_file": "audio_8.mp3",
+    "question": "What is the speaker mainly discussing?",
+    "options": {
+      "A": "A new policy",
+      "B": "His vacation",
+      "C": "A historical event",
+      "D": "A scientific theory"
+    },
+    "answer": "D",
+    "explanation": "The passage clearly focused on explaining a theory."
+  },
+  {
+    "id": 79,
+    "section": "Listening",
+    "audio_file": "audio_9.mp3",
+    "question": "What does the speaker suggest the listeners do?",
+    "options": {
+      "A": "Ignore the announcement",
+      "B": "Leave the room",
+      "C": "Read the materials",
+      "D": "Write a summary"
+    },
+    "answer": "C",
+    "explanation": "The speaker instructed listeners to read further materials."
+  },
+  {
+    "id": 80,
+    "section": "Listening",
+    "audio_file": "audio_10.mp3",
+    "question": "What did the speaker imply about the topic?",
+    "options": {
+      "A": "He agreed",
+      "B": "He disagreed",
+      "C": "He was uncertain",
+      "D": "He gave no opinion"
+    },
+    "answer": "A",
+    "explanation": "The tone and wording indicated agreement."
+  },
+  {
+    "id": 81,
+    "section": "Listening",
+    "audio_file": "audio_11.mp3",
+    "question": "What is the speaker mainly discussing?",
+    "options": {
+      "A": "A new policy",
+      "B": "His vacation",
+      "C": "A historical event",
+      "D": "A scientific theory"
+    },
+    "answer": "D",
+    "explanation": "The passage clearly focused on explaining a theory."
+  },
+  {
+    "id": 82,
+    "section": "Listening",
+    "audio_file": "audio_12.mp3",
+    "question": "What does the speaker suggest the listeners do?",
+    "options": {
+      "A": "Ignore the announcement",
+      "B": "Leave the room",
+      "C": "Read the materials",
+      "D": "Write a summary"
+    },
+    "answer": "C",
+    "explanation": "The speaker instructed listeners to read further materials."
+  },
+  {
+    "id": 83,
+    "section": "Listening",
+    "audio_file": "audio_13.mp3",
+    "question": "What did the speaker imply about the topic?",
+    "options": {
+      "A": "He agreed",
+      "B": "He disagreed",
+      "C": "He was uncertain",
+      "D": "He gave no opinion"
+    },
+    "answer": "A",
+    "explanation": "The tone and wording indicated agreement."
+  },
+  {
+    "id": 84,
+    "section": "Listening",
+    "audio_file": "audio_14.mp3",
+    "question": "What is the speaker mainly discussing?",
+    "options": {
+      "A": "A new policy",
+      "B": "His vacation",
+      "C": "A historical event",
+      "D": "A scientific theory"
+    },
+    "answer": "D",
+    "explanation": "The passage clearly focused on explaining a theory."
+  },
+  {
+    "id": 85,
+    "section": "Listening",
+    "audio_file": "audio_15.mp3",
+    "question": "What does the speaker suggest the listeners do?",
+    "options": {
+      "A": "Ignore the announcement",
+      "B": "Leave the room",
+      "C": "Read the materials",
+      "D": "Write a summary"
+    },
+    "answer": "C",
+    "explanation": "The speaker instructed listeners to read further materials."
+  },
+  {
+    "id": 86,
+    "section": "Listening",
+    "audio_file": "audio_16.mp3",
+    "question": "What did the speaker imply about the topic?",
+    "options": {
+      "A": "He agreed",
+      "B": "He disagreed",
+      "C": "He was uncertain",
+      "D": "He gave no opinion"
+    },
+    "answer": "A",
+    "explanation": "The tone and wording indicated agreement."
+  },
+  {
+    "id": 87,
+    "section": "Listening",
+    "audio_file": "audio_17.mp3",
+    "question": "What is the speaker mainly discussing?",
+    "options": {
+      "A": "A new policy",
+      "B": "His vacation",
+      "C": "A historical event",
+      "D": "A scientific theory"
+    },
+    "answer": "D",
+    "explanation": "The passage clearly focused on explaining a theory."
+  },
+  {
+    "id": 88,
+    "section": "Listening",
+    "audio_file": "audio_18.mp3",
+    "question": "What does the speaker suggest the listeners do?",
+    "options": {
+      "A": "Ignore the announcement",
+      "B": "Leave the room",
+      "C": "Read the materials",
+      "D": "Write a summary"
+    },
+    "answer": "C",
+    "explanation": "The speaker instructed listeners to read further materials."
+  },
+  {
+    "id": 89,
+    "section": "Listening",
+    "audio_file": "audio_19.mp3",
+    "question": "What did the speaker imply about the topic?",
+    "options": {
+      "A": "He agreed",
+      "B": "He disagreed",
+      "C": "He was uncertain",
+      "D": "He gave no opinion"
+    },
+    "answer": "A",
+    "explanation": "The tone and wording indicated agreement."
+  },
+  {
+    "id": 90,
+    "section": "Listening",
+    "audio_file": "audio_20.mp3",
+    "question": "What is the speaker mainly discussing?",
+    "options": {
+      "A": "A new policy",
+      "B": "His vacation",
+      "C": "A historical event",
+      "D": "A scientific theory"
+    },
+    "answer": "D",
+    "explanation": "The passage clearly focused on explaining a theory."
+  },
+  {
+    "id": 91,
+    "section": "Listening",
+    "audio_file": "audio_21.mp3",
+    "question": "What does the speaker suggest the listeners do?",
+    "options": {
+      "A": "Ignore the announcement",
+      "B": "Leave the room",
+      "C": "Read the materials",
+      "D": "Write a summary"
+    },
+    "answer": "C",
+    "explanation": "The speaker instructed listeners to read further materials."
+  },
+  {
+    "id": 92,
+    "section": "Listening",
+    "audio_file": "audio_22.mp3",
+    "question": "What did the speaker imply about the topic?",
+    "options": {
+      "A": "He agreed",
+      "B": "He disagreed",
+      "C": "He was uncertain",
+      "D": "He gave no opinion"
+    },
+    "answer": "A",
+    "explanation": "The tone and wording indicated agreement."
+  },
+  {
+    "id": 93,
+    "section": "Listening",
+    "audio_file": "audio_23.mp3",
+    "question": "What is the speaker mainly discussing?",
+    "options": {
+      "A": "A new policy",
+      "B": "His vacation",
+      "C": "A historical event",
+      "D": "A scientific theory"
+    },
+    "answer": "D",
+    "explanation": "The passage clearly focused on explaining a theory."
+  },
+  {
+    "id": 94,
+    "section": "Listening",
+    "audio_file": "audio_24.mp3",
+    "question": "What does the speaker suggest the listeners do?",
+    "options": {
+      "A": "Ignore the announcement",
+      "B": "Leave the room",
+      "C": "Read the materials",
+      "D": "Write a summary"
+    },
+    "answer": "C",
+    "explanation": "The speaker instructed listeners to read further materials."
+  },
+  {
+    "id": 95,
+    "section": "Listening",
+    "audio_file": "audio_25.mp3",
+    "question": "What did the speaker imply about the topic?",
+    "options": {
+      "A": "He agreed",
+      "B": "He disagreed",
+      "C": "He was uncertain",
+      "D": "He gave no opinion"
+    },
+    "answer": "A",
+    "explanation": "The tone and wording indicated agreement."
+  },
+  {
+    "id": 96,
+    "section": "Listening",
+    "audio_file": "audio_26.mp3",
+    "question": "What is the speaker mainly discussing?",
+    "options": {
+      "A": "A new policy",
+      "B": "His vacation",
+      "C": "A historical event",
+      "D": "A scientific theory"
+    },
+    "answer": "D",
+    "explanation": "The passage clearly focused on explaining a theory."
+  },
+  {
+    "id": 97,
+    "section": "Listening",
+    "audio_file": "audio_27.mp3",
+    "question": "What does the speaker suggest the listeners do?",
+    "options": {
+      "A": "Ignore the announcement",
+      "B": "Leave the room",
+      "C": "Read the materials",
+      "D": "Write a summary"
+    },
+    "answer": "C",
+    "explanation": "The speaker instructed listeners to read further materials."
+  },
+  {
+    "id": 98,
+    "section": "Listening",
+    "audio_file": "audio_28.mp3",
+    "question": "What did the speaker imply about the topic?",
+    "options": {
+      "A": "He agreed",
+      "B": "He disagreed",
+      "C": "He was uncertain",
+      "D": "He gave no opinion"
+    },
+    "answer": "A",
+    "explanation": "The tone and wording indicated agreement."
+  },
+  {
+    "id": 99,
+    "section": "Listening",
+    "audio_file": "audio_29.mp3",
+    "question": "What is the speaker mainly discussing?",
+    "options": {
+      "A": "A new policy",
+      "B": "His vacation",
+      "C": "A historical event",
+      "D": "A scientific theory"
+    },
+    "answer": "D",
+    "explanation": "The passage clearly focused on explaining a theory."
+  },
+  {
+    "id": 100,
+    "section": "Listening",
+    "audio_file": "audio_30.mp3",
+    "question": "What does the speaker suggest the listeners do?",
+    "options": {
+      "A": "Ignore the announcement",
+      "B": "Leave the room",
+      "C": "Read the materials",
+      "D": "Write a summary"
+    },
+    "answer": "C",
+    "explanation": "The speaker instructed listeners to read further materials."
+  }
 ]
