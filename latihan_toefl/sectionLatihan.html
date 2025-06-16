@@ -5,12 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TOEFL - Latihan Section</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet">
-    
     <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-    
     <style>
         #question-nav-container .btn { min-width: 40px; }
         .audio-player { max-width: 100%; }
+        /* Style untuk pembahasan */
+        .correct-answer { background-color: #d1e7dd !important; border-color: #a3cfbb !important; }
+        .wrong-answer { background-color: #f8d7da !important; border-color: #f1aeb5 !important; text-decoration: line-through; }
     </style>
 </head>
 <body style="background-image: url(../gambar/white-background-repeat.jpg);">
@@ -23,38 +24,26 @@
         </div>
     </nav>
 
-    <div class="container shadow bg-light border rounded pt-5 px-2 my-5">
+    <div class="container shadow bg-light border rounded p-2 my-5">
         <div id="quiz-container">
             <div class="row">
                 <div class="col mx-5 mb-5 bg-white shadow rounded p-3">
                     <h4 id="question-number">No. ...</h4>
-                    
                     <p id="passage" class="my-3 p-3 border bg-light" style="display: none; font-family: 'Times New Roman', Times, serif;"></p>
-
                     <div id="audio-container" class="mb-4 text-center" style="display: none;">
                         <p>Listen to the audio and answer the question.</p>
                         <audio controls class="audio-player"></audio>
                     </div>
-
                     <p id="question-text" class="fs-5"></p>
                     <div id="options-container" class="form-check border bg-light px-4 py-2"></div>
-                    
                     <div class="row my-4">
-                        <div class="col">
-                            <button id="prev-btn" class="btn btn-secondary">Previous</button>
-                        </div>
-                        <div class="col text-end">
-                            <button id="next-btn" class="btn btn-primary">Next</button>
-                        </div>
+                        <div class="col"><button id="prev-btn" class="btn btn-secondary">Previous</button></div>
+                        <div class="col text-end"><button id="next-btn" class="btn btn-primary">Next</button></div>
                     </div>
                     <hr>
                     <div id="question-nav-container" class="d-flex flex-wrap justify-content-center p-2" role="group"></div>
                     <hr>
-                    <div class="row mb-4">
-                        <div class="col text-center">
-                            <button id="finish-btn" class="btn btn-success px-5">Selesaikan Latihan</button>
-                        </div>
-                    </div>
+                    <div class="row mb-4"><div class="col text-center"><button id="finish-btn" class="btn btn-success px-5">Selesaikan Latihan</button></div></div>
                 </div>
             </div>
         </div>
@@ -62,18 +51,28 @@
         <div id="result-container" class="text-center p-5" style="display: none;">
             <h2>Latihan Selesai!</h2>
             <h3 id="score-text">Skor Anda: 0 / 0 (0%)</h3>
-            <a href="../latihan.html" class="btn btn-primary mt-4">Kembali ke Latihan Lain</a>
+            <button id="review-button" class="btn btn-info mt-3">Lihat Pembahasan</button>
+            <a href="../latihan.html" class="btn btn-primary mt-3">Kembali ke Latihan Lain</a>
+        </div>
+
+        <div id="review-container" class="p-lg-4 p-2" style="display: none;">
+            <h2 class="text-center mb-4">Pembahasan Soal</h2>
+            <div id="review-content"></div>
+             <div class="text-center mt-4">
+                <a href="../latihan.html" class="btn btn-primary">Kembali ke Latihan Lain</a>
+            </div>
         </div>
     </div>
-
+    
     <script>
     $(function() {
         const params = new URLSearchParams(window.location.search);
         const section = params.get('section');
 
-        const $sectionTitle = $('#section-title');
         const $quizContainer = $('#quiz-container');
         const $resultContainer = $('#result-container');
+        const $reviewContainer = $('#review-container');
+        const $sectionTitle = $('#section-title');
         const $questionNumber = $('#question-number');
         const $passage = $('#passage');
         const $audioContainer = $('#audio-container');
@@ -91,13 +90,9 @@
         let userAnswers = [];
 
         let jsonFile = '';
-        if (section === 'reading') {
-            jsonFile = 'latihan_reading.json';
-        } else if (section === 'structure') {
-            jsonFile = 'latihan_structure.json';
-        } else if (section === 'listening') {
-            jsonFile = 'latihan_listening.json'; 
-        }
+        if (section === 'reading') jsonFile = 'latihan_reading.json';
+        else if (section === 'structure') jsonFile = 'latihan_structure.json';
+        else if (section === 'listening') jsonFile = 'latihan_listening.json';
 
         if (jsonFile) {
             $.getJSON(jsonFile, function(data) {
@@ -107,23 +102,25 @@
                 createNavigationButtons();
                 updateTitle();
             }).fail(function() {
-                console.error('Error loading question data.');
                 $quizContainer.html(`<h2 class="text-center p-5">Gagal memuat soal. Pastikan file ${jsonFile} ada.</h2>`);
             });
         } else {
             $quizContainer.html('<h2 class="text-center p-5">Section tidak valid.</h2>');
         }
-        
+
         function updateTitle() {
-            const title = `Latihan Soal ${section.charAt(0).toUpperCase() + section.slice(1)}`;
-            $sectionTitle.text(title);
+            $sectionTitle.text(`Latihan Soal ${section.charAt(0).toUpperCase() + section.slice(1)}`);
         }
 
         function createNavigationButtons() {
             $questionNavContainer.empty();
             $.each(questions, function(i) {
-                const buttonClass = (userAnswers[i] !== null) ? 'btn-primary text-white' : 'btn-outline-primary';
-                const $button = $('<button></button>').text(i + 1).addClass(`btn btn-sm mx-1 my-1 ${buttonClass}`).on('click', function() { currentQuestionIndex = i; displayQuestion(currentQuestionIndex); });
+                const isAnswered = userAnswers[i] !== null;
+                const buttonClass = isAnswered ? 'btn-primary' : 'btn-outline-primary';
+                const $button = $('<button></button>').text(i + 1).addClass(`btn btn-sm mx-1 my-1 ${buttonClass}`).on('click', function() {
+                    currentQuestionIndex = i;
+                    displayQuestion(currentQuestionIndex);
+                });
                 $questionNavContainer.append($button);
             });
         }
@@ -131,15 +128,14 @@
         function displayQuestion(index) {
             const question = questions[index];
             $questionNumber.text(`No. ${index + 1}`);
-            
+
             const textContent = question.passage || question.dialog;
             if (textContent) {
-                const formattedText = textContent.replace(/\n/g, '<br>');
-                $passage.html(formattedText).show();
+                $passage.html(textContent.replace(/\n/g, '<br>')).show();
             } else {
                 $passage.hide();
             }
-            
+
             if (question.section && question.section.toLowerCase() === 'listening' && question.audio_file) {
                 $audioContainer.find('audio').attr('src', `audio/${question.audio_file}`);
                 $audioContainer.show();
@@ -154,28 +150,70 @@
                 const optionHTML = `<div class="m-2"><input type="radio" name="jawaban_${index}" id="q${index}_${key}" value="${key}" class="form-check-input" ${isChecked}><label for="q${index}_${key}" class="form-check-label">${key}. ${value}</label></div>`;
                 $optionsContainer.append(optionHTML);
             });
+
             $('#prev-btn').css('visibility', index === 0 ? 'hidden' : 'visible');
             $('#next-btn').css('visibility', index === questions.length - 1 ? 'hidden' : 'visible');
+        }
+
+        function calculateScore() {
+            let correctAnswers = 0;
+            $.each(questions, function(i, q) {
+                if (userAnswers[i] === q.answer) correctAnswers++;
+            });
+            const totalQuestions = questions.length;
+            const percentage = totalQuestions > 0 ? (correctAnswers / totalQuestions * 100).toFixed(1) : 0;
+            $('#score-text').text(`Skor Anda: ${correctAnswers} / ${totalQuestions} (${percentage}%)`);
+            $quizContainer.hide();
+            $resultContainer.show();
+        }
+
+        function displayReview() {
+            const $reviewContent = $('#review-content');
+            $reviewContent.empty();
+
+            $.each(questions, function(i, question) {
+                const userAnswer = userAnswers[i];
+                const correctAnswer = question.answer;
+
+                let optionsHTML = '<ul class="list-group">';
+                $.each(question.options, function(key, value) {
+                    let className = 'list-group-item';
+                    let label = '';
+
+                    if (key === correctAnswer) {
+                        className += ' correct-answer';
+                        label = userAnswer === correctAnswer ? ' (Jawaban Anda Benar)' : ' (Jawaban Benar)';
+                    } else if (key === userAnswer) {
+                        className += ' wrong-answer';
+                        label = ' (Jawaban Anda)';
+                    }
+
+                    optionsHTML += `<li class="${className}">${key}. ${value}${label}</li>`;
+                });
+                optionsHTML += '</ul>';
+
+                const textContent = question.passage || question.dialog;
+                let textHTML = textContent ? `<div class="p-2 my-2 bg-light border fst-italic">${textContent.replace(/\n/g, '<br>')}</div>` : '';
+
+                const reviewCard = `
+                    <div class="card mb-3">
+                        <div class="card-header"><strong>Soal No. ${i + 1}:</strong> ${question.question}</div>
+                        <div class="card-body">${textHTML}${optionsHTML}</div>
+                        <div class="card-footer bg-light"><strong>Penjelasan:</strong> ${question.explanation}</div>
+                    </div>`;
+                $reviewContent.append(reviewCard);
+            });
         }
 
         $('#next-btn').on('click', function() { if (currentQuestionIndex < questions.length - 1) { currentQuestionIndex++; displayQuestion(currentQuestionIndex); } });
         $('#prev-btn').on('click', function() { if (currentQuestionIndex > 0) { currentQuestionIndex--; displayQuestion(currentQuestionIndex); } });
         $optionsContainer.on('change', 'input[type="radio"]', function() { userAnswers[currentQuestionIndex] = $(this).val(); createNavigationButtons(); });
         $('#finish-btn').on('click', function() { if (confirm('Apakah Anda yakin ingin menyelesaikan latihan ini?')) { calculateScore(); } });
-        
-        function calculateScore() {
-            let correctAnswers = 0;
-            $.each(questions, function(i, question) {
-                if (userAnswers[i] === question.answer) {
-                    correctAnswers++;
-                }
-            });
-            const totalQuestions = questions.length;
-            const percentage = totalQuestions > 0 ? (correctAnswers / totalQuestions * 100).toFixed(1) : 0;
-            $('#score-text').text(`Skor Anda: ${correctAnswers} / ${totalQuestions} (${percentage}%)`);
-            $('#quiz-container').hide();
-            $('#result-container').show();
-        }
+        $('#review-button').on('click', function() {
+            displayReview();
+            $resultContainer.hide();
+            $reviewContainer.show();
+        });
     });
     </script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js"></script>
